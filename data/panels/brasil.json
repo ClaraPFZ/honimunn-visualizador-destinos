@@ -1,0 +1,322 @@
+{
+  "brasil:puerto-iguazu": {
+    "name": "Puerto Iguazu",
+    "eyebrow": "10 - 12",
+    "sub": "Descansando en la confluencia de los ríos Paraná e Iguazú, Puerto Iguazú es una encantadora ciudad turística que sirve como puerta de entrada a las Cataratas del Iguazú en el lado argentino de la frontera.",
+    "continent": null,
+    "country": "brasil",
+    "items": [
+      {
+        "n": "01",
+        "t": "Vida urbana",
+        "d": "Descansando en la confluencia de los ríos Paraná e Iguazú, Puerto Iguazú es una encantadora ciudad turística que sirve como puerta de entrada a las Cataratas del Iguazú en el lado argentino de la frontera.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/24553/puerto_iguazu-shutterstock-1194102475.jpg"
+      },
+      {
+        "n": "02",
+        "t": "Naturaleza salvaje",
+        "d": "Está rodeado de un paisaje rocoso rojo intercalado con un bosque verde habitado por abundante vida silvestre.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/24553/puerto_iguazu-istock-1140413133.jpg"
+      },
+      {
+        "n": "03",
+        "t": "Entorno y paisaje",
+        "d": "La ciudad es un popular destino turístico y atrae a visitantes de todo el mundo a visitar el Parque Nacional del Iguazú y sus impresionantes cascadas.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/24553/puerto_iguazu-istock-1320268423.jpg"
+      },
+      {
+        "n": "04",
+        "t": "Gastronomía y barrios",
+        "d": "Los visitantes también pueden explorar el espectacular paisaje a través de una variedad de actividades que incluyen: saltar en uno de los muchos tours que se ofrecen, disfrutar de una gran variedad de actividades al aire libre, visitar la Guira Oga - 'La Casa de los Pájaros', y disfrutar de las vistas desde el Hito de las Tres Fronteras, un magnífico parque natural.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/48313/3.jpg"
+      },
+      {
+        "n": "05",
+        "t": "Dónde dormir",
+        "d": "Panoramic Hotel Iguazu es un sofisticado hotel de cinco estrellas que se encuentra serenamente en una colina privilegiada, que domina una vista envidiable del paisaje a continuación.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/48313/3.jpg"
+      }
+    ],
+    "cover": "https://destino.honimunn.com/ImageHandler/c1200x800/24553/puerto_iguazu-shutterstock-1194102475.jpg"
+  },
+  "brasil:copacabana": {
+    "name": "Copacabana",
+    "eyebrow": "2 - 5",
+    "sub": "Copacabana, un dinámico barrio costero sinónimo de ocio, lujo y vida nocturna, se caracteriza por áticos millonarios, impresionantes edificios neoclásicos y pequeños apartamentos con un magnífico telón de fondo de montañas cubiertas de selva en Río de Janeiro.",
+    "continent": null,
+    "country": "brasil",
+    "items": [
+      {
+        "n": "01",
+        "t": "Naturaleza salvaje",
+        "d": "Copacabana, un dinámico barrio costero sinónimo de ocio, lujo y vida nocturna, se caracteriza por áticos millonarios, impresionantes edificios neoclásicos y pequeños apartamentos con un magnífico telón de fondo de montañas cubiertas de selva en Río de Janeiro.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/297197/shutterstock_1032911203.jpg"
+      },
+      {
+        "n": "02",
+        "t": "Playas e islas",
+        "d": "Desde sus humildes orígenes como un pequeño pueblo de pescadores, la «Princesa del Mar» es ahora un paraíso para los amantes del ocio, repleto de restaurantes, discotecas, bares y hoteles, y emite una energía viva y efervescente, perfecta para el viajero social.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/297197/shutterstock_1383275846.jpg"
+      },
+      {
+        "n": "03",
+        "t": "Patrimonio e historia",
+        "d": "Para conocer su historia, visite Forte de Copacabana, un fuerte y museo que recorre los primeros días de la colonia portuguesa hasta mediados del siglo XIX.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/297197/shutterstock_1369316822.jpg"
+      },
+      {
+        "n": "04",
+        "t": "Gastronomía y barrios",
+        "d": "Los amantes del arte apreciarán una visita a la Fundación Eva Klabin (Casa Museo Eva Klabin), un hogar histórico de la famosa coleccionista de arte y antigüedades Eva Klabin que alberga más de 1000 piezas de arte de todo el mundo.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/48753/1735638829124_fachada_ewVqV4q.jpg"
+      },
+      {
+        "n": "05",
+        "t": "Dónde dormir",
+        "d": "El Windsor Palace cuenta con una terraza en la azotea con piscina y vistas preciosas al mar.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/48753/1735638829124_fachada_ewVqV4q.jpg"
+      }
+    ],
+    "cover": "https://destino.honimunn.com/ImageHandler/c1200x800/297197/shutterstock_1032911203.jpg"
+  },
+  "brasil:buzios": {
+    "name": "Buzios",
+    "eyebrow": "14 - 18",
+    "sub": "Con su pintoresca arquitectura y calles adoquinadas, Armação dos Búzios, conocido popularmente como Búzios, combina el encanto de un pueblo del viejo mundo con una sofisticada oferta de boutiques, restaurantes y spas.",
+    "continent": null,
+    "country": "brasil",
+    "items": [
+      {
+        "n": "01",
+        "t": "Gastronomía local",
+        "d": "Con su pintoresca arquitectura y calles adoquinadas, Armação dos Búzios, conocido popularmente como Búzios, combina el encanto de un pueblo del viejo mundo con una sofisticada oferta de boutiques, restaurantes y spas.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/26619/buzios-istock-527073033.jpg"
+      },
+      {
+        "n": "02",
+        "t": "Qué ver y hacer",
+        "d": "Una vez un simple pueblo de pescadores, creció hasta convertirse en un destino turístico exclusivo y de moda después de que la actriz francesa Brigitte Bardot visitara con su novio brasileño a principios de los años 60.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/26619/buzios-istock-540972706.jpg"
+      },
+      {
+        "n": "03",
+        "t": "Playas e islas",
+        "d": "Situadas en una península sobresaliente a unas dos horas de Río de Janeiro, las playas del oeste de Búzios ofrecen aguas claras y tranquilas y vistas magníficas, mientras que el lado este, frente al mar abierto, atrae a los entusiastas de los deportes acuáticos de todas partes.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/26619/buzios-istock-1303376388.jpg"
+      },
+      {
+        "n": "04",
+        "t": "Dónde dormir",
+        "d": "El Serena Búzios Hotel ofrece alojamiento de 4 estrellas a pocos pasos de la playa y se encuentra en Río de Janeiro, Brasil.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/227373/1.jpg"
+      },
+      {
+        "n": "05",
+        "t": "Tu estancia Honimunn",
+        "d": "Itinerario privado diseñado a medida por vuestro Honimunn Planner, sin prisas ni grupos aglomerados.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/227373/3.jpg"
+      }
+    ],
+    "cover": "https://destino.honimunn.com/ImageHandler/c1200x800/26619/buzios-istock-527073033.jpg"
+  },
+  "brasil:manaus": {
+    "name": "Manaus",
+    "eyebrow": "8 - 9",
+    "sub": "Como se describió previamente…",
+    "continent": null,
+    "country": "brasil",
+    "items": [
+      {
+        "n": "01",
+        "t": "Dónde dormir",
+        "d": "El Quality Hotel Manaus está situado en el barrio de Adrianópolis.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/154139/screenshot_2023-12-13_090031.png"
+      },
+      {
+        "n": "02",
+        "t": "Qué ver y hacer",
+        "d": "Descubrid Manaus con calma, en profundidad y con tiempo para disfrutarlo en pareja.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/24979/manaus-shutterstock-918708471.jpg"
+      },
+      {
+        "n": "03",
+        "t": "Entorno y paisaje",
+        "d": "Descubrid Manaus con calma, en profundidad y con tiempo para disfrutarlo en pareja.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/24979/manaus-shutterstock-17789489451.jpg"
+      },
+      {
+        "n": "04",
+        "t": "Gastronomía y barrios",
+        "d": "Descubrid Manaus con calma, en profundidad y con tiempo para disfrutarlo en pareja.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/154139/screenshot_2023-12-13_090031.png"
+      },
+      {
+        "n": "05",
+        "t": "Tu estancia Honimunn",
+        "d": "Itinerario privado diseñado a medida por vuestro Honimunn Planner, sin prisas ni grupos aglomerados.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/154139/screenshot_2023-12-13_090042.png"
+      }
+    ],
+    "cover": "https://destino.honimunn.com/ImageHandler/c1200x800/24979/manaus-istock-5453708821.jpg"
+  },
+  "brasil:state-of-amazonas": {
+    "name": "State of Amazonas",
+    "eyebrow": "6 - 8",
+    "sub": "Situado en el noroeste de Brasil, donde los poderosos ríos Solimoes, Negro y Madeira convergen para formar el gran Río Amazonas, el estado de Amazonas es el más grande de Brasil y está cubierto casi en su totalidad por la selva amazónica.",
+    "continent": null,
+    "country": "brasil",
+    "items": [
+      {
+        "n": "01",
+        "t": "Playas e islas",
+        "d": "Situado en el noroeste de Brasil, donde los poderosos ríos Solimoes, Negro y Madeira convergen para formar el gran Río Amazonas, el estado de Amazonas es el más grande de Brasil y está cubierto casi en su totalidad por la selva amazónica.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/152214/state_of_amazonas-shutterstock-1292310916.jpg"
+      },
+      {
+        "n": "02",
+        "t": "Vida urbana",
+        "d": "Los ríos se unen en la ciudad portuaria capital de Manaus, que sirve como una base ideal para explorar la zona y ofrece algunos recorridos por el bosque interesantes y puntos de referencia propios.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/152214/state_of_amazonas-shutterstock-355360112.jpg"
+      },
+      {
+        "n": "03",
+        "t": "Entorno y paisaje",
+        "d": "Los visitantes pueden esperar hacer un recorrido en barco por el archipiélago de Anavilhanas en Río Negro y sus cientos de islas, ocupadas por varios pueblos indígenas.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/152214/state_of_amazonas-shutterstock-1994601188.jpg"
+      },
+      {
+        "n": "04",
+        "t": "Gastronomía y barrios",
+        "d": "Otras atracciones populares incluyen el Jardim Botânico Adolpho Ducke en Manaus, el bosque urbano más grande del mundo, y, también en Manaus, el magnífico teatro de ópera del Teatro Amazonas, construido a la altura del auge del caucho.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/182041/17738350667221.jpg"
+      },
+      {
+        "n": "05",
+        "t": "Dónde dormir",
+        "d": "El Hotel Evolução Ecolodge está situado a orillas del Río Negro, en la Amazonía brasileña.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/182041/17738350667221.jpg"
+      }
+    ],
+    "cover": "https://destino.honimunn.com/ImageHandler/c1200x800/152214/state_of_amazonas-shutterstock-1292310916.jpg"
+  },
+  "brasil:barreirinhas": {
+    "name": "Barreirinhas",
+    "eyebrow": "9 - 11",
+    "sub": "Ubicada en el estado costero noreste de Maranhao, la ciudad brasileña de Barreirinhas sirve como una excelente base para que los visitantes puedan explorar la espectacular zona circundante.",
+    "continent": null,
+    "country": "brasil",
+    "items": [
+      {
+        "n": "01",
+        "t": "Vida urbana",
+        "d": "Ubicada en el estado costero noreste de Maranhao, la ciudad brasileña de Barreirinhas sirve como una excelente base para que los visitantes puedan explorar la espectacular zona circundante.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/116442/barreirinhas-shutterstock-2027784128.jpg"
+      },
+      {
+        "n": "02",
+        "t": "Aventura y experiencias",
+        "d": "Esta localidad ribereña cuenta con una selección de agencias que ofrecen excursiones guiadas a Lagoa Bonita y Lagoa Azul, así como excursiones por el hermoso río Preguica.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/116442/barreirinhas-shutterstock-20277840561.jpg"
+      },
+      {
+        "n": "03",
+        "t": "Naturaleza salvaje",
+        "d": "El punto culminante innegable de esta zona es el impresionante Parque Nacional Lencois Maranhenses, que alberga miles de lagunas azules de temporada que salpican una vasta manta de dunas que se extienden por kilómetros y kilómetros.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/116442/barreirinhas-shutterstock-18367801301.jpg"
+      },
+      {
+        "n": "04",
+        "t": "Playas e islas",
+        "d": "Los visitantes también pueden disfrutar de un relajante día en la popular playa de Cabure bañada por aguas tranquilas o para los más aventureros, un viaje 4x4 por la magnífica Lagoa da Esperanca.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/116197/1734963513374_Screenshot-2024-12-23-161725.png"
+      },
+      {
+        "n": "05",
+        "t": "Dónde dormir",
+        "d": "El Hotel Pousada Do Buriti goza de una ubicación privilegiada en el centro de la ciudad de Barreirinhas, a pocos minutos de la avenida Beira Rio, tiendas de artesanía y restaurantes.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/116197/1734963513374_Screenshot-2024-12-23-161725.png"
+      }
+    ],
+    "cover": "https://destino.honimunn.com/ImageHandler/c1200x800/116442/barreirinhas-shutterstock-2027784128.jpg"
+  },
+  "brasil:sao-luis": {
+    "name": "Sao Luis",
+    "eyebrow": "11 - 12",
+    "sub": "Situada en el noreste de Brasil, la ciudad de Sao Luis está separada en dos áreas por las aguas del río Anil.",
+    "continent": null,
+    "country": "brasil",
+    "items": [
+      {
+        "n": "01",
+        "t": "Vida urbana",
+        "d": "Situada en el noreste de Brasil, la ciudad de Sao Luis está separada en dos áreas por las aguas del río Anil.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/48832/sao_luis-istock-1367385980.jpg"
+      },
+      {
+        "n": "02",
+        "t": "Playas e islas",
+        "d": "Si bien varias playas hermosas y atracciones turísticas modernas se pueden encontrar en el lado norte del río, lo más destacado de la ciudad, su centro histórico, se encuentra al sur del Río Anil.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/48832/sao_luis-istock-518568699.jpg"
+      },
+      {
+        "n": "03",
+        "t": "Patrimonio e historia",
+        "d": "Abarcando numerosos ejemplos de arquitectura colonial portuguesa finamente conservada, este sitio del Patrimonio Mundial es particularmente conocido por sus inusuales edificios de azulejos.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/48832/sao_luis-istock-1367385408.jpg"
+      },
+      {
+        "n": "04",
+        "t": "Gastronomía local",
+        "d": "Sao Luis también cuenta con una rica cultura; las influencias afrobrasileñas se pueden encontrar en la cocina local, la escena de la música reggae y, lo más interesante de todo, las tradiciones de Bumba Meu Boi que se celebran durante los coloridos festivales locales.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/52499/13711.jpg"
+      },
+      {
+        "n": "05",
+        "t": "Dónde dormir",
+        "d": "El Brisamar Hotel & Spa se encuentra entre Praia da Ponta de Areia y Lagoa da Jansen, en São Luís, Brasil.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/52499/13711.jpg"
+      }
+    ],
+    "cover": "https://destino.honimunn.com/ImageHandler/c1200x800/48832/sao_luis-istock-1367385980.jpg"
+  },
+  "brasil:praia-do-forte": {
+    "name": "Praia do Forte",
+    "eyebrow": "12 - 15",
+    "sub": "Situada a 80 kilómetros de la ciudad de Salvador de Bahía, en el noreste de Brasil, Praia do Forte es un pintoresco pueblo con un largo tramo de una magnífica playa del mismo nombre, con playas de arena blanca bordeadas de palmeras.",
+    "continent": null,
+    "country": "brasil",
+    "items": [
+      {
+        "n": "01",
+        "t": "Playas e islas",
+        "d": "Situada a 80 kilómetros de la ciudad de Salvador de Bahía, en el noreste de Brasil, Praia do Forte es un pintoresco pueblo con un largo tramo de una magnífica playa del mismo nombre, con playas de arena blanca bordeadas de palmeras.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/119256/istock-1198508104.jpg"
+      },
+      {
+        "n": "02",
+        "t": "Qué ver y hacer",
+        "d": "Praia do Forte es un destino turístico de lujo popular entre los visitantes de todos los rincones del mundo.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/119256/istock-912226904.jpg"
+      },
+      {
+        "n": "03",
+        "t": "Entorno y paisaje",
+        "d": "Los visitantes pueden disfrutar navegando por la Alameda do Sol, una pasarela peatonal bordeada de animados restaurantes y tiendas, descubriendo la pequeña y pintoresca iglesia costera de San Francisco, con arquitectura colonial portuguesa y visitando el Proyecto Tamar, una reserva de tortugas marinas.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/119256/istock-917478570.jpg"
+      },
+      {
+        "n": "04",
+        "t": "Aventura y experiencias",
+        "d": "Las actividades como la natación, la tirolesa, el ciclismo y el piragüismo abundan tanto para los amantes de la aventura como para los amantes de las actividades al aire libre.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/52447/1735569876523_Screenshot-2024-12-30-164318.png"
+      },
+      {
+        "n": "05",
+        "t": "Dónde dormir",
+        "d": "El Iberostar Bahia está situado en Praia do Forte, Brasil, cerca de la estación del proyecto Tamar Praia do Forte, la playa Forte y la Praia do Papa-Gente.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/52447/1735569876523_Screenshot-2024-12-30-164318.png"
+      }
+    ],
+    "cover": "https://destino.honimunn.com/ImageHandler/c1200x800/119256/istock-1198508104.jpg"
+  }
+}

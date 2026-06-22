@@ -1,0 +1,236 @@
+{
+  "italia:niza": {
+    "name": "Niza",
+    "eyebrow": "Destino Honimunn",
+    "sub": "Niza es una parada clave en nuestros viajes por la región.",
+    "country": "italia",
+    "items": [
+      {
+        "n": "01",
+        "t": "Lo esencial",
+        "d": "Niza concentra lo mejor del destino: cultura, paisaje y momentos para recordar.",
+        "img": ""
+      },
+      {
+        "n": "02",
+        "t": "Qué ver y hacer",
+        "d": "Explorad sus barrios, miradores y experiencias locales con tiempo para disfrutarlos sin prisas.",
+        "img": ""
+      },
+      {
+        "n": "03",
+        "t": "Entorno y paisaje",
+        "d": "Naturaleza, costa o montaña a poca distancia — el complemento perfecto para vuestra luna de miel.",
+        "img": ""
+      },
+      {
+        "n": "04",
+        "t": "Gastronomía y barrios",
+        "d": "Mercados, restaurantes y calles con vida propia donde saborear el destino.",
+        "img": ""
+      },
+      {
+        "n": "05",
+        "t": "Tu estancia Honimunn",
+        "d": "Itinerario privado a medida con alojamientos seleccionados por vuestro Honimunn Planner.",
+        "img": ""
+      }
+    ],
+    "cover": ""
+  },
+  "italia:roma": {
+    "name": "Roma",
+    "eyebrow": "Destino Honimunn",
+    "sub": "Roma es una parada clave en nuestros viajes por la región.",
+    "country": "italia",
+    "items": [
+      {
+        "n": "01",
+        "t": "Lo esencial",
+        "d": "Roma concentra lo mejor del destino: cultura, paisaje y momentos para recordar.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Colosseum_in_Rome%2C_Italy_-_April_2007.jpg/1200px-Colosseum_in_Rome%2C_Italy_-_April_2007.jpg"
+      },
+      {
+        "n": "02",
+        "t": "Qué ver y hacer",
+        "d": "Explorad sus barrios, miradores y experiencias locales con tiempo para disfrutarlos sin prisas.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Colosseum_in_Rome%2C_Italy_-_April_2007.jpg/1200px-Colosseum_in_Rome%2C_Italy_-_April_2007.jpg"
+      },
+      {
+        "n": "03",
+        "t": "Entorno y paisaje",
+        "d": "Naturaleza, costa o montaña a poca distancia — el complemento perfecto para vuestra luna de miel.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Colosseum_in_Rome%2C_Italy_-_April_2007.jpg/1200px-Colosseum_in_Rome%2C_Italy_-_April_2007.jpg"
+      },
+      {
+        "n": "04",
+        "t": "Gastronomía y barrios",
+        "d": "Mercados, restaurantes y calles con vida propia donde saborear el destino.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Colosseum_in_Rome%2C_Italy_-_April_2007.jpg/1200px-Colosseum_in_Rome%2C_Italy_-_April_2007.jpg"
+      },
+      {
+        "n": "05",
+        "t": "Tu estancia Honimunn",
+        "d": "Itinerario privado a medida con alojamientos seleccionados por vuestro Honimunn Planner.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Colosseum_in_Rome%2C_Italy_-_April_2007.jpg/1200px-Colosseum_in_Rome%2C_Italy_-_April_2007.jpg"
+      }
+    ],
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Colosseum_in_Rome%2C_Italy_-_April_2007.jpg/1200px-Colosseum_in_Rome%2C_Italy_-_April_2007.jpg"
+  },
+  "italia:florencia": {
+    "name": "Florencia",
+    "eyebrow": "Destino Honimunn",
+    "sub": "Florencia es una parada clave en nuestros viajes por la región.",
+    "country": "italia",
+    "items": [
+      {
+        "n": "01",
+        "t": "Lo esencial",
+        "d": "Florencia concentra lo mejor del destino: cultura, paisaje y momentos para recordar.",
+        "img": ""
+      },
+      {
+        "n": "02",
+        "t": "Qué ver y hacer",
+        "d": "Explorad sus barrios, miradores y experiencias locales con tiempo para disfrutarlos sin prisas.",
+        "img": ""
+      },
+      {
+        "n": "03",
+        "t": "Entorno y paisaje",
+        "d": "Naturaleza, costa o montaña a poca distancia — el complemento perfecto para vuestra luna de miel.",
+        "img": ""
+      },
+      {
+        "n": "04",
+        "t": "Gastronomía y barrios",
+        "d": "Mercados, restaurantes y calles con vida propia donde saborear el destino.",
+        "img": ""
+      },
+      {
+        "n": "05",
+        "t": "Tu estancia Honimunn",
+        "d": "Itinerario privado a medida con alojamientos seleccionados por vuestro Honimunn Planner.",
+        "img": ""
+      }
+    ],
+    "cover": ""
+  },
+  "italia:venecia": {
+    "name": "Venecia",
+    "eyebrow": "Destino Honimunn",
+    "sub": "Venecia es una parada clave en nuestros viajes por la región.",
+    "country": "italia",
+    "items": [
+      {
+        "n": "01",
+        "t": "Lo esencial",
+        "d": "Venecia concentra lo mejor del destino: cultura, paisaje y momentos para recordar.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Grand_Canal%2C_Venice%2C_Italy_-_September_2022.jpg/1200px-Grand_Canal%2C_Venice%2C_Italy_-_September_2022.jpg"
+      },
+      {
+        "n": "02",
+        "t": "Qué ver y hacer",
+        "d": "Explorad sus barrios, miradores y experiencias locales con tiempo para disfrutarlos sin prisas.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Grand_Canal%2C_Venice%2C_Italy_-_September_2022.jpg/1200px-Grand_Canal%2C_Venice%2C_Italy_-_September_2022.jpg"
+      },
+      {
+        "n": "03",
+        "t": "Entorno y paisaje",
+        "d": "Naturaleza, costa o montaña a poca distancia — el complemento perfecto para vuestra luna de miel.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Grand_Canal%2C_Venice%2C_Italy_-_September_2022.jpg/1200px-Grand_Canal%2C_Venice%2C_Italy_-_September_2022.jpg"
+      },
+      {
+        "n": "04",
+        "t": "Gastronomía y barrios",
+        "d": "Mercados, restaurantes y calles con vida propia donde saborear el destino.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Grand_Canal%2C_Venice%2C_Italy_-_September_2022.jpg/1200px-Grand_Canal%2C_Venice%2C_Italy_-_September_2022.jpg"
+      },
+      {
+        "n": "05",
+        "t": "Tu estancia Honimunn",
+        "d": "Itinerario privado a medida con alojamientos seleccionados por vuestro Honimunn Planner.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Grand_Canal%2C_Venice%2C_Italy_-_September_2022.jpg/1200px-Grand_Canal%2C_Venice%2C_Italy_-_September_2022.jpg"
+      }
+    ],
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Grand_Canal%2C_Venice%2C_Italy_-_September_2022.jpg/1200px-Grand_Canal%2C_Venice%2C_Italy_-_September_2022.jpg"
+  },
+  "italia:amalfi": {
+    "name": "Amalfi",
+    "eyebrow": "Destino Honimunn",
+    "sub": "Amalfi es una parada clave en nuestros viajes por la región.",
+    "country": "italia",
+    "items": [
+      {
+        "n": "01",
+        "t": "Lo esencial",
+        "d": "Amalfi concentra lo mejor del destino: cultura, paisaje y momentos para recordar.",
+        "img": ""
+      },
+      {
+        "n": "02",
+        "t": "Qué ver y hacer",
+        "d": "Explorad sus barrios, miradores y experiencias locales con tiempo para disfrutarlos sin prisas.",
+        "img": ""
+      },
+      {
+        "n": "03",
+        "t": "Entorno y paisaje",
+        "d": "Naturaleza, costa o montaña a poca distancia — el complemento perfecto para vuestra luna de miel.",
+        "img": ""
+      },
+      {
+        "n": "04",
+        "t": "Gastronomía y barrios",
+        "d": "Mercados, restaurantes y calles con vida propia donde saborear el destino.",
+        "img": ""
+      },
+      {
+        "n": "05",
+        "t": "Tu estancia Honimunn",
+        "d": "Itinerario privado a medida con alojamientos seleccionados por vuestro Honimunn Planner.",
+        "img": ""
+      }
+    ],
+    "cover": ""
+  },
+  "italia:milan": {
+    "name": "Milán",
+    "eyebrow": "Destino Honimunn",
+    "sub": "Milán es una parada clave en nuestros viajes por la región.",
+    "country": "italia",
+    "items": [
+      {
+        "n": "01",
+        "t": "Lo esencial",
+        "d": "Milán concentra lo mejor del destino: cultura, paisaje y momentos para recordar.",
+        "img": ""
+      },
+      {
+        "n": "02",
+        "t": "Qué ver y hacer",
+        "d": "Explorad sus barrios, miradores y experiencias locales con tiempo para disfrutarlos sin prisas.",
+        "img": ""
+      },
+      {
+        "n": "03",
+        "t": "Entorno y paisaje",
+        "d": "Naturaleza, costa o montaña a poca distancia — el complemento perfecto para vuestra luna de miel.",
+        "img": ""
+      },
+      {
+        "n": "04",
+        "t": "Gastronomía y barrios",
+        "d": "Mercados, restaurantes y calles con vida propia donde saborear el destino.",
+        "img": ""
+      },
+      {
+        "n": "05",
+        "t": "Tu estancia Honimunn",
+        "d": "Itinerario privado a medida con alojamientos seleccionados por vuestro Honimunn Planner.",
+        "img": ""
+      }
+    ],
+    "cover": ""
+  }
+}

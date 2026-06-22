@@ -1,0 +1,578 @@
+{
+  "japan": {
+    "label": "Japón",
+    "origin": {
+      "lat": 35.68,
+      "lon": 139.65
+    },
+    "cta": {
+      "title": "Extiende tu luna de miel",
+      "subtitle": "Añade unos días de playa"
+    },
+    "map": {
+      "eyebrow": "Extensión",
+      "title": "Extensiones de playa",
+      "subtitle": "Cierra tu luna de miel con unos días frente al mar"
+    },
+    "extensions": [
+      {
+        "id": "okinawa",
+        "name": "Okinawa",
+        "lat": 26.21,
+        "lon": 127.68,
+        "panelKey": "okinawa",
+        "continent": "Asia",
+        "distKm": 1551
+      },
+      {
+        "id": "thailand",
+        "name": "Tailandia",
+        "lat": 8.09,
+        "lon": 98.91,
+        "panelKey": "thailand",
+        "continent": "Asia",
+        "distKm": 5144
+      },
+      {
+        "id": "philippines",
+        "name": "Filipinas",
+        "lat": 11,
+        "lon": 125,
+        "panelKey": "philippines",
+        "continent": "Asia",
+        "distKm": 3116
+      },
+      {
+        "id": "maldives",
+        "name": "Maldivas",
+        "lat": 3.2,
+        "lon": 73.22,
+        "panelKey": "maldives",
+        "continent": "Asia",
+        "distKm": 7683
+      },
+      {
+        "id": "hawaii",
+        "name": "Hawái",
+        "lat": 21.31,
+        "lon": -157.86,
+        "panelKey": "hawaii",
+        "continent": "América",
+        "distKm": 6209
+      },
+      {
+        "id": "fiji",
+        "name": "Fiyi",
+        "lat": -17.71,
+        "lon": 178.07,
+        "panelKey": "fiji",
+        "continent": "Oceanía",
+        "distKm": 7184
+      },
+      {
+        "id": "polynesia",
+        "name": "Polinesia Francesa",
+        "lat": -17.65,
+        "lon": -149.43,
+        "panelKey": "polynesia",
+        "continent": "Oceanía",
+        "distKm": 9522
+      }
+    ]
+  },
+  "estados-unidos": {
+    "label": "EE.UU.",
+    "origin": {
+      "lat": 37.77,
+      "lon": -122.42
+    },
+    "cta": {
+      "title": "Extiende tu luna de miel",
+      "subtitle": "Combina con días de descanso"
+    },
+    "map": {
+      "eyebrow": "Extensión",
+      "title": "Combinaciones posibles",
+      "subtitle": "Destinos del catálogo Honimunn para alargar vuestro viaje"
+    },
+    "extensions": [
+      {
+        "id": "maui",
+        "name": "Maui",
+        "lat": 20.798,
+        "lon": -156.332,
+        "panelKey": "hawaii",
+        "continent": null,
+        "distKm": 3761
+      },
+      {
+        "id": "kauai",
+        "name": "Kauai",
+        "lat": 22.096,
+        "lon": -159.526,
+        "panelKey": "hawaii",
+        "continent": null,
+        "distKm": 3943
+      },
+      {
+        "id": "hawaii",
+        "name": "Hawái",
+        "lat": 21.31,
+        "lon": -157.86,
+        "panelKey": "hawaii",
+        "continent": "América",
+        "distKm": 3854
+      },
+      {
+        "id": "tahiti",
+        "name": "Tahiti",
+        "lat": -17.651,
+        "lon": -149.426,
+        "panelKey": "polinesia-francesa",
+        "continent": null,
+        "distKm": 6779
+      },
+      {
+        "id": "moorea",
+        "name": "Moorea",
+        "lat": -17.539,
+        "lon": -149.83,
+        "panelKey": "polinesia-francesa",
+        "continent": null,
+        "distKm": 6785
+      },
+      {
+        "id": "bora-bora",
+        "name": "Bora Bora",
+        "lat": -16.5,
+        "lon": -151.742,
+        "panelKey": "polinesia-francesa",
+        "continent": null,
+        "distKm": 6768
+      },
+      {
+        "id": "island-of-hawaii",
+        "name": "Big Island",
+        "lat": 19.593,
+        "lon": -155.428,
+        "panelKey": "hawaii",
+        "continent": null,
+        "distKm": 3771
+      }
+    ]
+  },
+  "tanzania": {
+    "label": "Tanzania",
+    "origin": {
+      "lat": -6.37,
+      "lon": 34.89
+    },
+    "cta": {
+      "title": "Extiende tu luna de miel",
+      "subtitle": "Combina con días de descanso"
+    },
+    "map": {
+      "eyebrow": "Extensión",
+      "title": "Combinaciones posibles",
+      "subtitle": "Destinos del catálogo Honimunn para alargar vuestro viaje"
+    },
+    "extensions": [
+      {
+        "id": "zanzibar",
+        "name": "Zanzíbar",
+        "lat": -6.166,
+        "lon": 39.199,
+        "panelKey": "tanzania:zanzibar",
+        "continent": "África",
+        "distKm": 477
+      },
+      {
+        "id": "seychelles",
+        "name": "Seychelles",
+        "lat": -4.62,
+        "lon": 55.45,
+        "panelKey": "seychelles",
+        "continent": "África",
+        "distKm": 2284
+      },
+      {
+        "id": "maldivas",
+        "name": "Maldivas",
+        "lat": 3.2,
+        "lon": 73.22,
+        "panelKey": "maldivas",
+        "continent": "Asia",
+        "distKm": 4386
+      },
+      {
+        "id": "mauricio",
+        "name": "Mauricio",
+        "lat": -20.35,
+        "lon": 57.55,
+        "panelKey": "mauricio",
+        "continent": "África",
+        "distKm": 2896
+      },
+      {
+        "id": "mozambique",
+        "name": "Bazaruto",
+        "lat": -22,
+        "lon": 35.317,
+        "panelKey": "mozambique",
+        "continent": "África",
+        "distKm": 1739
+      }
+    ]
+  },
+  "botswana": {
+    "label": "Botsuana",
+    "origin": {
+      "lat": -22.33,
+      "lon": 24.69
+    },
+    "cta": {
+      "title": "Extiende tu luna de miel",
+      "subtitle": "Combina con días de descanso"
+    },
+    "map": {
+      "eyebrow": "Extensión",
+      "title": "Combinaciones posibles",
+      "subtitle": "Destinos del catálogo Honimunn para alargar vuestro viaje"
+    },
+    "extensions": [
+      {
+        "id": "seychelles",
+        "name": "Seychelles",
+        "lat": -4.62,
+        "lon": 55.45,
+        "panelKey": "seychelles",
+        "continent": "África",
+        "distKm": 3850
+      },
+      {
+        "id": "mozambique",
+        "name": "Bazaruto",
+        "lat": -22,
+        "lon": 35.317,
+        "panelKey": "mozambique",
+        "continent": "África",
+        "distKm": 1095
+      },
+      {
+        "id": "zanzibar",
+        "name": "Zanzíbar",
+        "lat": -6.166,
+        "lon": 39.199,
+        "panelKey": "tanzania:zanzibar",
+        "continent": "África",
+        "distKm": 2378
+      },
+      {
+        "id": "maldivas",
+        "name": "Maldivas",
+        "lat": 3.2,
+        "lon": 73.22,
+        "panelKey": "maldivas",
+        "continent": "Asia",
+        "distKm": 5984
+      },
+      {
+        "id": "mauricio",
+        "name": "Mauricio",
+        "lat": -20.35,
+        "lon": 57.55,
+        "panelKey": "mauricio",
+        "continent": "África",
+        "distKm": 3404
+      }
+    ]
+  },
+  "kenia": {
+    "label": "Kenia",
+    "origin": {
+      "lat": -1.29,
+      "lon": 36.82
+    },
+    "cta": {
+      "title": "Extiende tu luna de miel",
+      "subtitle": "Combina con días de descanso"
+    },
+    "map": {
+      "eyebrow": "Extensión",
+      "title": "Combinaciones posibles",
+      "subtitle": "Destinos del catálogo Honimunn para alargar vuestro viaje"
+    },
+    "extensions": [
+      {
+        "id": "seychelles",
+        "name": "Seychelles",
+        "lat": -4.62,
+        "lon": 55.45,
+        "panelKey": "seychelles",
+        "continent": "África",
+        "distKm": 2101
+      },
+      {
+        "id": "zanzibar",
+        "name": "Zanzíbar",
+        "lat": -6.166,
+        "lon": 39.199,
+        "panelKey": "tanzania:zanzibar",
+        "continent": "África",
+        "distKm": 603
+      },
+      {
+        "id": "maldivas",
+        "name": "Maldivas",
+        "lat": 3.2,
+        "lon": 73.22,
+        "panelKey": "maldivas",
+        "continent": "Asia",
+        "distKm": 4077
+      },
+      {
+        "id": "mauricio",
+        "name": "Mauricio",
+        "lat": -20.35,
+        "lon": 57.55,
+        "panelKey": "mauricio",
+        "continent": "África",
+        "distKm": 3092
+      },
+      {
+        "id": "mozambique",
+        "name": "Bazaruto",
+        "lat": -22,
+        "lon": 35.317,
+        "panelKey": "mozambique",
+        "continent": "África",
+        "distKm": 2309
+      }
+    ]
+  },
+  "namibia": {
+    "label": "Namibia",
+    "origin": {
+      "lat": -22.56,
+      "lon": 17.08
+    },
+    "cta": {
+      "title": "Extiende tu luna de miel",
+      "subtitle": "Combina con días de descanso"
+    },
+    "map": {
+      "eyebrow": "Extensión",
+      "title": "Combinaciones posibles",
+      "subtitle": "Destinos del catálogo Honimunn para alargar vuestro viaje"
+    },
+    "extensions": [
+      {
+        "id": "zanzibar",
+        "name": "Zanzíbar",
+        "lat": -6.166,
+        "lon": 39.199,
+        "panelKey": "tanzania:zanzibar",
+        "continent": "África",
+        "distKm": 2991
+      },
+      {
+        "id": "seychelles",
+        "name": "Seychelles",
+        "lat": -4.62,
+        "lon": 55.45,
+        "panelKey": "seychelles",
+        "continent": "África",
+        "distKm": 4580
+      },
+      {
+        "id": "maldivas",
+        "name": "Maldivas",
+        "lat": 3.2,
+        "lon": 73.22,
+        "panelKey": "maldivas",
+        "continent": "Asia",
+        "distKm": 6728
+      },
+      {
+        "id": "mauricio",
+        "name": "Mauricio",
+        "lat": -20.35,
+        "lon": 57.55,
+        "panelKey": "mauricio",
+        "continent": "África",
+        "distKm": 4183
+      },
+      {
+        "id": "mozambique",
+        "name": "Bazaruto",
+        "lat": -22,
+        "lon": 35.317,
+        "panelKey": "mozambique",
+        "continent": "África",
+        "distKm": 1876
+      }
+    ]
+  },
+  "sudafrica": {
+    "label": "Sudáfrica",
+    "origin": {
+      "lat": -33.92,
+      "lon": 18.42
+    },
+    "cta": {
+      "title": "Extiende tu luna de miel",
+      "subtitle": "Combina con días de descanso"
+    },
+    "map": {
+      "eyebrow": "Extensión",
+      "title": "Combinaciones posibles",
+      "subtitle": "Destinos del catálogo Honimunn para alargar vuestro viaje"
+    },
+    "extensions": [
+      {
+        "id": "zanzibar",
+        "name": "Zanzíbar",
+        "lat": -6.166,
+        "lon": 39.199,
+        "panelKey": "tanzania:zanzibar",
+        "continent": "África",
+        "distKm": 3755
+      },
+      {
+        "id": "seychelles",
+        "name": "Seychelles",
+        "lat": -4.62,
+        "lon": 55.45,
+        "panelKey": "seychelles",
+        "continent": "África",
+        "distKm": 5020
+      },
+      {
+        "id": "maldivas",
+        "name": "Maldivas",
+        "lat": 3.2,
+        "lon": 73.22,
+        "panelKey": "maldivas",
+        "continent": "Asia",
+        "distKm": 7059
+      },
+      {
+        "id": "mauricio",
+        "name": "Mauricio",
+        "lat": -20.35,
+        "lon": 57.55,
+        "panelKey": "mauricio",
+        "continent": "África",
+        "distKm": 4125
+      },
+      {
+        "id": "mozambique",
+        "name": "Bazaruto",
+        "lat": -22,
+        "lon": 35.317,
+        "panelKey": "mozambique",
+        "continent": "África",
+        "distKm": 2119
+      }
+    ]
+  },
+  "canada": {
+    "label": "Canadá",
+    "origin": {
+      "lat": 43.65,
+      "lon": -79.38
+    },
+    "cta": {
+      "title": "Extiende tu luna de miel",
+      "subtitle": "Combina con días de descanso"
+    },
+    "map": {
+      "eyebrow": "Extensión",
+      "title": "Combinaciones posibles",
+      "subtitle": "Destinos del catálogo Honimunn para alargar vuestro viaje"
+    },
+    "extensions": [
+      {
+        "id": "hawaii",
+        "name": "Hawái",
+        "lat": 21.31,
+        "lon": -157.86,
+        "panelKey": "hawaii",
+        "continent": "América",
+        "distKm": 7486
+      },
+      {
+        "id": "maui",
+        "name": "Maui",
+        "lat": 20.798,
+        "lon": -156.332,
+        "panelKey": "hawaii",
+        "continent": null,
+        "distKm": 7401
+      }
+    ]
+  },
+  "uganda": {
+    "label": "Uganda",
+    "origin": {
+      "lat": 1.37,
+      "lon": 32.29
+    },
+    "cta": {
+      "title": "Extiende tu luna de miel",
+      "subtitle": "Combina con días de descanso"
+    },
+    "map": {
+      "eyebrow": "Extensión",
+      "title": "Combinaciones posibles",
+      "subtitle": "Destinos del catálogo Honimunn para alargar vuestro viaje"
+    },
+    "extensions": [
+      {
+        "id": "zanzibar",
+        "name": "Zanzíbar",
+        "lat": -6.166,
+        "lon": 39.199,
+        "panelKey": "tanzania:zanzibar",
+        "continent": "África",
+        "distKm": 1136
+      },
+      {
+        "id": "seychelles",
+        "name": "Seychelles",
+        "lat": -4.62,
+        "lon": 55.45,
+        "panelKey": "seychelles",
+        "continent": "África",
+        "distKm": 2658
+      },
+      {
+        "id": "maldivas",
+        "name": "Maldivas",
+        "lat": 3.2,
+        "lon": 73.22,
+        "panelKey": "maldivas",
+        "continent": "Asia",
+        "distKm": 4552
+      },
+      {
+        "id": "mauricio",
+        "name": "Mauricio",
+        "lat": -20.35,
+        "lon": 57.55,
+        "panelKey": "mauricio",
+        "continent": "África",
+        "distKm": 3661
+      },
+      {
+        "id": "mozambique",
+        "name": "Bazaruto",
+        "lat": -22,
+        "lon": 35.317,
+        "panelKey": "mozambique",
+        "continent": "África",
+        "distKm": 2619
+      }
+    ]
+  }
+}

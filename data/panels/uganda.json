@@ -1,0 +1,282 @@
+{
+  "uganda:entebbe": {
+    "name": "Entebbe",
+    "eyebrow": "12 - 13",
+    "sub": "Como se describió previamente…",
+    "continent": null,
+    "country": "uganda",
+    "items": [
+      {
+        "n": "01",
+        "t": "Dónde dormir",
+        "d": "El Boma Hotel está convenientemente ubicado en Gowers Road en Entebbe, Uganda, cerca del zoológico y jardín botánico de Entebbe.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/21621/1745573328347_boma-10.jpg"
+      },
+      {
+        "n": "02",
+        "t": "Qué ver y hacer",
+        "d": "Descubrid Entebbe con calma, en profundidad y con tiempo para disfrutarlo en pareja.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/13969/entebbe-shutterstock-15933240641.jpg"
+      },
+      {
+        "n": "03",
+        "t": "Entorno y paisaje",
+        "d": "Descubrid Entebbe con calma, en profundidad y con tiempo para disfrutarlo en pareja.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/13969/entebbe-shutterstock-11157737781.jpg"
+      },
+      {
+        "n": "04",
+        "t": "Gastronomía y barrios",
+        "d": "Descubrid Entebbe con calma, en profundidad y con tiempo para disfrutarlo en pareja.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/21621/1745573328347_boma-10.jpg"
+      },
+      {
+        "n": "05",
+        "t": "Tu estancia Honimunn",
+        "d": "Itinerario privado diseñado a medida por vuestro Honimunn Planner, sin prisas ni grupos aglomerados.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/21621/1745573390492_boma-11.jpg"
+      }
+    ],
+    "cover": "https://destino.honimunn.com/ImageHandler/c1200x800/13969/entebbe-shutterstock-14497071591.jpg"
+  },
+  "uganda:bwindi-impenetrable-forest-national-park": {
+    "name": "Bwindi Impenetrable Forest National Park",
+    "eyebrow": "8 - 10",
+    "sub": "Ubicado en el suroeste de Uganda, se dice que el Parque Nacional Impenetrable de Bwindi es la selva tropical más antigua de África.",
+    "continent": null,
+    "country": "uganda",
+    "items": [
+      {
+        "n": "01",
+        "t": "Naturaleza salvaje",
+        "d": "Ubicado en el suroeste de Uganda, se dice que el Parque Nacional Impenetrable de Bwindi es la selva tropical más antigua de África.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/13778/1762860606710istock-697348174cropped.jpg"
+      },
+      {
+        "n": "02",
+        "t": "Qué ver y hacer",
+        "d": "Es mundialmente conocido por sus excelentes oportunidades para observar gorilas: el bosque alberga a la mitad de los gorilas de montaña que quedan en la Tierra.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/13778/1762859924370istock-664000774cropped.jpg"
+      },
+      {
+        "n": "03",
+        "t": "Entorno y paisaje",
+        "d": "Esta experiencia con gorilas tiene lugar en un paisaje agreste de densa jungla, cascadas, resplandecientes arroyos montañosos, valles profundos y crestas empinadas.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/13778/1762860727375shutterstock2037837359.jpg"
+      },
+      {
+        "n": "04",
+        "t": "Patrimonio e historia",
+        "d": "El bosque virgen ha sido declarado Patrimonio de la Humanidad por la UNESCO por su impresionante belleza natural y su importancia ecológica única.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/199843/2019-01-2222.03.50.jpg"
+      },
+      {
+        "n": "05",
+        "t": "Dónde dormir",
+        "d": "El Agandi Uganda Eco Lodge se encuentra en las afueras del parque nacional de Bwindi.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/199843/2019-01-2222.03.50.jpg"
+      }
+    ],
+    "cover": "https://destino.honimunn.com/ImageHandler/c1200x800/13778/1762860606710istock-697348174cropped.jpg"
+  },
+  "uganda:kampala": {
+    "name": "Kampala",
+    "eyebrow": "10 - 11",
+    "sub": "Como se describió previamente…",
+    "continent": null,
+    "country": "uganda",
+    "items": [
+      {
+        "n": "01",
+        "t": "Dónde dormir",
+        "d": "El Cassia Lodge se encuentra en las laderas de la colina Buziga, en Kampala (Uganda).",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/35385/pool-1024x614.jpg"
+      },
+      {
+        "n": "02",
+        "t": "Qué ver y hacer",
+        "d": "Descubrid Kampala con calma, en profundidad y con tiempo para disfrutarlo en pareja.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/13968/kiyunga-shutterstock-237119647.jpg"
+      },
+      {
+        "n": "03",
+        "t": "Entorno y paisaje",
+        "d": "Descubrid Kampala con calma, en profundidad y con tiempo para disfrutarlo en pareja.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/13968/kiyunga-istock-1251116045.jpg"
+      },
+      {
+        "n": "04",
+        "t": "Gastronomía y barrios",
+        "d": "Descubrid Kampala con calma, en profundidad y con tiempo para disfrutarlo en pareja.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/35385/pool-1024x614.jpg"
+      },
+      {
+        "n": "05",
+        "t": "Tu estancia Honimunn",
+        "d": "Itinerario privado diseñado a medida por vuestro Honimunn Planner, sin prisas ni grupos aglomerados.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/35385/dsc6868-1024x683.jpg"
+      }
+    ],
+    "cover": "https://destino.honimunn.com/ImageHandler/c1200x800/13968/kiyunga-istock-980251200.jpg"
+  },
+  "uganda:murchison-falls-national-park": {
+    "name": "Murchison Falls National Park",
+    "eyebrow": "3 - 5",
+    "sub": "El Parque Nacional Murchison Falls, que se extiende desde las orillas del lago Albert, es el parque nacional más grande de Uganda.",
+    "continent": null,
+    "country": "uganda",
+    "items": [
+      {
+        "n": "01",
+        "t": "Naturaleza salvaje",
+        "d": "El Parque Nacional Murchison Falls, que se extiende desde las orillas del lago Albert, es el parque nacional más grande de Uganda.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/13965/murchison_falls_national_park_-gudkov_andrey-_shutterstock_616349834.jpg"
+      },
+      {
+        "n": "02",
+        "t": "Qué ver y hacer",
+        "d": "El río Nilo fluye a través del centro del parque creando las impresionantes cataratas Murchison, que es la principal atracción del parque.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/13965/murchison_falls_national_park_-brina_l._bunt-_shutterstock_661164484.jpg"
+      },
+      {
+        "n": "03",
+        "t": "Entorno y paisaje",
+        "d": "El paisaje cuenta con una densa selva tropical, sabana ondulada y una diversidad de abundante fauna silvestre.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/13965/murchison_falls_national_park_-alberto_loyo-_shutterstock_92647216.jpg"
+      },
+      {
+        "n": "04",
+        "t": "Gastronomía y barrios",
+        "d": "Los visitantes pueden disfrutar de las mejores vistas del juego a lo largo del Circuito de Buligi.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/75014/d854456.jpg"
+      },
+      {
+        "n": "05",
+        "t": "Dónde dormir",
+        "d": "El Pakuba Safari Lodge, ubicado en la orilla oriental del río Alberto Nilo, dentro del Parque Nacional de las Cataratas de Murchison, ofrece un refugio tranquilo con impresionantes vistas al río.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/75014/d854456.jpg"
+      }
+    ],
+    "cover": "https://destino.honimunn.com/ImageHandler/c1200x800/13965/murchison_falls_national_park_-gudkov_andrey-_shutterstock_616349834.jpg"
+  },
+  "uganda:bugoma-central-forest-reserve": {
+    "name": "Bugoma Central Forest Reserve",
+    "eyebrow": "5 - 6",
+    "sub": "Ubicada en el distrito de Hioma, en el oeste de Uganda, al este del lago Alberto, la Reserva Forestal Central de Bugoma es uno de los cinturones forestales de tierras bajas a lo largo de la escarpa occidental del país.",
+    "continent": null,
+    "country": "uganda",
+    "items": [
+      {
+        "n": "01",
+        "t": "Lo esencial",
+        "d": "Ubicada en el distrito de Hioma, en el oeste de Uganda, al este del lago Alberto, la Reserva Forestal Central de Bugoma es uno de los cinturones forestales de tierras bajas a lo largo de la escarpa occidental del país.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/208625/shutterstock_2118028685.jpg"
+      },
+      {
+        "n": "02",
+        "t": "Qué ver y hacer",
+        "d": "Esta importante área, que abarca 400 kilómetros cuadrados, alberga especies restringidas de bioma y especies amenazadas internacionalmente, como el hermoso Francolín de Nahan y el loro gris.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/208625/istock-877132770.jpg"
+      },
+      {
+        "n": "03",
+        "t": "Entorno y paisaje",
+        "d": "Los mamíferos que habitan en el bosque incluyen búfalos, kobs de Uganda, chimpancés y otros tipos de monos.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/208625/istock-957581488.jpg"
+      },
+      {
+        "n": "04",
+        "t": "Gastronomía y barrios",
+        "d": "Ocasionalmente, también se pueden ver elefantes.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/155928/dsc_4347.jpg"
+      },
+      {
+        "n": "05",
+        "t": "Dónde dormir",
+        "d": "Bugoma Jungle Lodge es el primer alojamiento turístico que se abre en la Reserva Forestal de Bugoma, en el distrito de Kikuube en Uganda.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/155928/dsc_4347.jpg"
+      }
+    ],
+    "cover": "https://destino.honimunn.com/ImageHandler/c1200x800/208625/shutterstock_2118028685.jpg"
+  },
+  "uganda:northern-queen-elizabeth-national-park": {
+    "name": "Northern Queen Elizabeth National Park",
+    "eyebrow": "6 - 7",
+    "sub": "Uno de los parques más populares de Uganda, el Parque Nacional Queen Elizabeth se encuentra en la región occidental del país.",
+    "continent": null,
+    "country": "uganda",
+    "items": [
+      {
+        "n": "01",
+        "t": "Naturaleza salvaje",
+        "d": "Uno de los parques más populares de Uganda, el Parque Nacional Queen Elizabeth se encuentra en la región occidental del país.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/206542/northern_queen_elizabeth_national_park-istock-1257567219.jpg"
+      },
+      {
+        "n": "02",
+        "t": "Cultura viva",
+        "d": "En la parte norte del parque, los visitantes pueden esperar navegar a lo largo del canal de Kasinga, que es el hogar de la mayor población de hipopótamos del mundo y una abundancia de cocodrilos del Nilo.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/206542/northern_queen_elizabeth_national_park-istock-1333994124.jpg"
+      },
+      {
+        "n": "03",
+        "t": "Entorno y paisaje",
+        "d": "A lo largo de las orillas, un increíble número de aves y animales salvajes acuden a la orilla del río.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/206542/northern_queen_elizabeth_national_park-istock-185311320.jpg"
+      },
+      {
+        "n": "04",
+        "t": "Gastronomía y barrios",
+        "d": "En Kyambura Gorge, conocido con cariño como «Valle de los simios», los chimpancés se encuentran en su casa en un mundo de exuberante selva tropical con marquesinas, y tres lagos salados de cráter están decorados con franjas de flamencos rosados.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/97149/main-area-night-banner-home-page-4.jpg"
+      },
+      {
+        "n": "05",
+        "t": "Dónde dormir",
+        "d": "El Marafiki Safari Lodge se encuentra en la frontera del parque nacional Queen Elizabeth.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/97149/main-area-night-banner-home-page-4.jpg"
+      }
+    ],
+    "cover": "https://destino.honimunn.com/ImageHandler/c1200x800/206542/northern_queen_elizabeth_national_park-istock-1257567219.jpg"
+  },
+  "uganda:southern-queen-elizabeth-national-park": {
+    "name": "Southern Queen Elizabeth National Park",
+    "eyebrow": "7 - 8",
+    "sub": "Rodeado de otros maravillosos parques de la región occidental de Uganda, el Parque Nacional Queen Elizabeth es conocido por su rica biodiversidad, vida silvestre e historia.",
+    "continent": null,
+    "country": "uganda",
+    "items": [
+      {
+        "n": "01",
+        "t": "Naturaleza salvaje",
+        "d": "Rodeado de otros maravillosos parques de la región occidental de Uganda, el Parque Nacional Queen Elizabeth es conocido por su rica biodiversidad, vida silvestre e historia.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/206544/southern_queen_elizabeth_national_park-istock-1012727942.jpg"
+      },
+      {
+        "n": "02",
+        "t": "Cultura viva",
+        "d": "En la parte sur del parque, el remoto sector de Ishaha alberga leones trepadores de árboles que pasan largos días perezosos dormiendo en las bonitas higueras.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/206544/southern_queen_elizabeth_national_park-istock-172397460.jpg"
+      },
+      {
+        "n": "03",
+        "t": "Entorno y paisaje",
+        "d": "El Kob de Uganda, un tipo de antílope, son vigilados cuidadosamente por los leones de los árboles mientras pastan las llanuras alrededor del lago Edward, disfrutan de la pesca y observan más caza.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/206544/southern_queen_elizabeth_national_park-istock-505756120.jpg"
+      },
+      {
+        "n": "04",
+        "t": "Gastronomía y barrios",
+        "d": "Asegúrate de buscar chimpancés, elefantes, cocodrilos y especies de aves perennes y migratorias.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/59815/20240714_120654.jpg"
+      },
+      {
+        "n": "05",
+        "t": "Dónde dormir",
+        "d": "El Ishasha Jungle Lodge es un alojamiento turístico en el sector de Ishasha del Parque Nacional Queen Elizabeth.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/59815/20240714_120654.jpg"
+      }
+    ],
+    "cover": "https://destino.honimunn.com/ImageHandler/c1200x800/206544/southern_queen_elizabeth_national_park-istock-1012727942.jpg"
+  }
+}

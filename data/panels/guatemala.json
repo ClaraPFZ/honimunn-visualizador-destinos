@@ -1,0 +1,197 @@
+{
+  "guatemala:ciudad-de-guatemala": {
+    "name": "Ciudad de Guatemala",
+    "eyebrow": "Destino Honimunn",
+    "sub": "Ciudad de Guatemala es una parada clave en nuestros viajes por la región.",
+    "country": "guatemala",
+    "items": [
+      {
+        "n": "01",
+        "t": "Lo esencial",
+        "d": "Ciudad de Guatemala concentra lo mejor del destino: cultura, paisaje y momentos para recordar.",
+        "img": ""
+      },
+      {
+        "n": "02",
+        "t": "Qué ver y hacer",
+        "d": "Explorad sus barrios, miradores y experiencias locales con tiempo para disfrutarlos sin prisas.",
+        "img": ""
+      },
+      {
+        "n": "03",
+        "t": "Entorno y paisaje",
+        "d": "Naturaleza, costa o montaña a poca distancia — el complemento perfecto para vuestra luna de miel.",
+        "img": ""
+      },
+      {
+        "n": "04",
+        "t": "Gastronomía y barrios",
+        "d": "Mercados, restaurantes y calles con vida propia donde saborear el destino.",
+        "img": ""
+      },
+      {
+        "n": "05",
+        "t": "Tu estancia Honimunn",
+        "d": "Itinerario privado a medida con alojamientos seleccionados por vuestro Honimunn Planner.",
+        "img": ""
+      }
+    ],
+    "cover": ""
+  },
+  "guatemala:antigua-guatemala": {
+    "name": "Antigua Guatemala",
+    "eyebrow": "Destino Honimunn",
+    "sub": "Antigua Guatemala es una parada clave en nuestros viajes por la región.",
+    "country": "guatemala",
+    "items": [
+      {
+        "n": "01",
+        "t": "Lo esencial",
+        "d": "Antigua Guatemala concentra lo mejor del destino: cultura, paisaje y momentos para recordar.",
+        "img": ""
+      },
+      {
+        "n": "02",
+        "t": "Qué ver y hacer",
+        "d": "Explorad sus barrios, miradores y experiencias locales con tiempo para disfrutarlos sin prisas.",
+        "img": ""
+      },
+      {
+        "n": "03",
+        "t": "Entorno y paisaje",
+        "d": "Naturaleza, costa o montaña a poca distancia — el complemento perfecto para vuestra luna de miel.",
+        "img": ""
+      },
+      {
+        "n": "04",
+        "t": "Gastronomía y barrios",
+        "d": "Mercados, restaurantes y calles con vida propia donde saborear el destino.",
+        "img": ""
+      },
+      {
+        "n": "05",
+        "t": "Tu estancia Honimunn",
+        "d": "Itinerario privado a medida con alojamientos seleccionados por vuestro Honimunn Planner.",
+        "img": ""
+      }
+    ],
+    "cover": ""
+  },
+  "guatemala:flores": {
+    "name": "Flores",
+    "eyebrow": "Destino Honimunn",
+    "sub": "Flores es una parada clave en nuestros viajes por la región.",
+    "country": "guatemala",
+    "items": [
+      {
+        "n": "01",
+        "t": "Lo esencial",
+        "d": "Flores concentra lo mejor del destino: cultura, paisaje y momentos para recordar.",
+        "img": ""
+      },
+      {
+        "n": "02",
+        "t": "Qué ver y hacer",
+        "d": "Explorad sus barrios, miradores y experiencias locales con tiempo para disfrutarlos sin prisas.",
+        "img": ""
+      },
+      {
+        "n": "03",
+        "t": "Entorno y paisaje",
+        "d": "Naturaleza, costa o montaña a poca distancia — el complemento perfecto para vuestra luna de miel.",
+        "img": ""
+      },
+      {
+        "n": "04",
+        "t": "Gastronomía y barrios",
+        "d": "Mercados, restaurantes y calles con vida propia donde saborear el destino.",
+        "img": ""
+      },
+      {
+        "n": "05",
+        "t": "Tu estancia Honimunn",
+        "d": "Itinerario privado a medida con alojamientos seleccionados por vuestro Honimunn Planner.",
+        "img": ""
+      }
+    ],
+    "cover": ""
+  },
+  "guatemala:lago-atitlan": {
+    "name": "Lago Atitlán",
+    "eyebrow": "Destino Honimunn",
+    "sub": "Lago Atitlán es una parada clave en nuestros viajes por la región.",
+    "country": "guatemala",
+    "items": [
+      {
+        "n": "01",
+        "t": "Lo esencial",
+        "d": "Lago Atitlán concentra lo mejor del destino: cultura, paisaje y momentos para recordar.",
+        "img": ""
+      },
+      {
+        "n": "02",
+        "t": "Qué ver y hacer",
+        "d": "Explorad sus barrios, miradores y experiencias locales con tiempo para disfrutarlos sin prisas.",
+        "img": ""
+      },
+      {
+        "n": "03",
+        "t": "Entorno y paisaje",
+        "d": "Naturaleza, costa o montaña a poca distancia — el complemento perfecto para vuestra luna de miel.",
+        "img": ""
+      },
+      {
+        "n": "04",
+        "t": "Gastronomía y barrios",
+        "d": "Mercados, restaurantes y calles con vida propia donde saborear el destino.",
+        "img": ""
+      },
+      {
+        "n": "05",
+        "t": "Tu estancia Honimunn",
+        "d": "Itinerario privado a medida con alojamientos seleccionados por vuestro Honimunn Planner.",
+        "img": ""
+      }
+    ],
+    "cover": ""
+  },
+  "guatemala:livingston": {
+    "name": "Livingston",
+    "eyebrow": "Destino Honimunn",
+    "sub": "Livingston es una parada clave en nuestros viajes por la región.",
+    "country": "guatemala",
+    "items": [
+      {
+        "n": "01",
+        "t": "Lo esencial",
+        "d": "Livingston concentra lo mejor del destino: cultura, paisaje y momentos para recordar.",
+        "img": ""
+      },
+      {
+        "n": "02",
+        "t": "Qué ver y hacer",
+        "d": "Explorad sus barrios, miradores y experiencias locales con tiempo para disfrutarlos sin prisas.",
+        "img": ""
+      },
+      {
+        "n": "03",
+        "t": "Entorno y paisaje",
+        "d": "Naturaleza, costa o montaña a poca distancia — el complemento perfecto para vuestra luna de miel.",
+        "img": ""
+      },
+      {
+        "n": "04",
+        "t": "Gastronomía y barrios",
+        "d": "Mercados, restaurantes y calles con vida propia donde saborear el destino.",
+        "img": ""
+      },
+      {
+        "n": "05",
+        "t": "Tu estancia Honimunn",
+        "d": "Itinerario privado a medida con alojamientos seleccionados por vuestro Honimunn Planner.",
+        "img": ""
+      }
+    ],
+    "cover": ""
+  }
+}

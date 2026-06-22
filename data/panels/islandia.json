@@ -1,0 +1,197 @@
+{
+  "islandia:reikiavik": {
+    "name": "Reikiavik",
+    "eyebrow": "Destino Honimunn",
+    "sub": "Reikiavik es una parada clave en nuestros viajes por la región.",
+    "country": "islandia",
+    "items": [
+      {
+        "n": "01",
+        "t": "Lo esencial",
+        "d": "Reikiavik concentra lo mejor del destino: cultura, paisaje y momentos para recordar.",
+        "img": ""
+      },
+      {
+        "n": "02",
+        "t": "Qué ver y hacer",
+        "d": "Explorad sus barrios, miradores y experiencias locales con tiempo para disfrutarlos sin prisas.",
+        "img": ""
+      },
+      {
+        "n": "03",
+        "t": "Entorno y paisaje",
+        "d": "Naturaleza, costa o montaña a poca distancia — el complemento perfecto para vuestra luna de miel.",
+        "img": ""
+      },
+      {
+        "n": "04",
+        "t": "Gastronomía y barrios",
+        "d": "Mercados, restaurantes y calles con vida propia donde saborear el destino.",
+        "img": ""
+      },
+      {
+        "n": "05",
+        "t": "Tu estancia Honimunn",
+        "d": "Itinerario privado a medida con alojamientos seleccionados por vuestro Honimunn Planner.",
+        "img": ""
+      }
+    ],
+    "cover": ""
+  },
+  "islandia:akureyri": {
+    "name": "Akureyri",
+    "eyebrow": "Destino Honimunn",
+    "sub": "Akureyri es una parada clave en nuestros viajes por la región.",
+    "country": "islandia",
+    "items": [
+      {
+        "n": "01",
+        "t": "Lo esencial",
+        "d": "Akureyri concentra lo mejor del destino: cultura, paisaje y momentos para recordar.",
+        "img": ""
+      },
+      {
+        "n": "02",
+        "t": "Qué ver y hacer",
+        "d": "Explorad sus barrios, miradores y experiencias locales con tiempo para disfrutarlos sin prisas.",
+        "img": ""
+      },
+      {
+        "n": "03",
+        "t": "Entorno y paisaje",
+        "d": "Naturaleza, costa o montaña a poca distancia — el complemento perfecto para vuestra luna de miel.",
+        "img": ""
+      },
+      {
+        "n": "04",
+        "t": "Gastronomía y barrios",
+        "d": "Mercados, restaurantes y calles con vida propia donde saborear el destino.",
+        "img": ""
+      },
+      {
+        "n": "05",
+        "t": "Tu estancia Honimunn",
+        "d": "Itinerario privado a medida con alojamientos seleccionados por vuestro Honimunn Planner.",
+        "img": ""
+      }
+    ],
+    "cover": ""
+  },
+  "islandia:vik": {
+    "name": "Vík",
+    "eyebrow": "Destino Honimunn",
+    "sub": "Vík es una parada clave en nuestros viajes por la región.",
+    "country": "islandia",
+    "items": [
+      {
+        "n": "01",
+        "t": "Lo esencial",
+        "d": "Vík concentra lo mejor del destino: cultura, paisaje y momentos para recordar.",
+        "img": ""
+      },
+      {
+        "n": "02",
+        "t": "Qué ver y hacer",
+        "d": "Explorad sus barrios, miradores y experiencias locales con tiempo para disfrutarlos sin prisas.",
+        "img": ""
+      },
+      {
+        "n": "03",
+        "t": "Entorno y paisaje",
+        "d": "Naturaleza, costa o montaña a poca distancia — el complemento perfecto para vuestra luna de miel.",
+        "img": ""
+      },
+      {
+        "n": "04",
+        "t": "Gastronomía y barrios",
+        "d": "Mercados, restaurantes y calles con vida propia donde saborear el destino.",
+        "img": ""
+      },
+      {
+        "n": "05",
+        "t": "Tu estancia Honimunn",
+        "d": "Itinerario privado a medida con alojamientos seleccionados por vuestro Honimunn Planner.",
+        "img": ""
+      }
+    ],
+    "cover": ""
+  },
+  "islandia:husavik": {
+    "name": "Húsavík",
+    "eyebrow": "Destino Honimunn",
+    "sub": "Húsavík es una parada clave en nuestros viajes por la región.",
+    "country": "islandia",
+    "items": [
+      {
+        "n": "01",
+        "t": "Lo esencial",
+        "d": "Húsavík concentra lo mejor del destino: cultura, paisaje y momentos para recordar.",
+        "img": ""
+      },
+      {
+        "n": "02",
+        "t": "Qué ver y hacer",
+        "d": "Explorad sus barrios, miradores y experiencias locales con tiempo para disfrutarlos sin prisas.",
+        "img": ""
+      },
+      {
+        "n": "03",
+        "t": "Entorno y paisaje",
+        "d": "Naturaleza, costa o montaña a poca distancia — el complemento perfecto para vuestra luna de miel.",
+        "img": ""
+      },
+      {
+        "n": "04",
+        "t": "Gastronomía y barrios",
+        "d": "Mercados, restaurantes y calles con vida propia donde saborear el destino.",
+        "img": ""
+      },
+      {
+        "n": "05",
+        "t": "Tu estancia Honimunn",
+        "d": "Itinerario privado a medida con alojamientos seleccionados por vuestro Honimunn Planner.",
+        "img": ""
+      }
+    ],
+    "cover": ""
+  },
+  "islandia:blue-lagoon": {
+    "name": "Blue Lagoon",
+    "eyebrow": "Destino Honimunn",
+    "sub": "Blue Lagoon es una parada clave en nuestros viajes por la región.",
+    "country": "islandia",
+    "items": [
+      {
+        "n": "01",
+        "t": "Lo esencial",
+        "d": "Blue Lagoon concentra lo mejor del destino: cultura, paisaje y momentos para recordar.",
+        "img": ""
+      },
+      {
+        "n": "02",
+        "t": "Qué ver y hacer",
+        "d": "Explorad sus barrios, miradores y experiencias locales con tiempo para disfrutarlos sin prisas.",
+        "img": ""
+      },
+      {
+        "n": "03",
+        "t": "Entorno y paisaje",
+        "d": "Naturaleza, costa o montaña a poca distancia — el complemento perfecto para vuestra luna de miel.",
+        "img": ""
+      },
+      {
+        "n": "04",
+        "t": "Gastronomía y barrios",
+        "d": "Mercados, restaurantes y calles con vida propia donde saborear el destino.",
+        "img": ""
+      },
+      {
+        "n": "05",
+        "t": "Tu estancia Honimunn",
+        "d": "Itinerario privado a medida con alojamientos seleccionados por vuestro Honimunn Planner.",
+        "img": ""
+      }
+    ],
+    "cover": ""
+  }
+}

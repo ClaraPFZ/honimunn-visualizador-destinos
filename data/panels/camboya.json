@@ -1,0 +1,162 @@
+{
+  "camboya:cambodia": {
+    "name": "Cambodia",
+    "eyebrow": "Destino Honimunn",
+    "sub": "Desde que Camboya reabrió sus fronteras a los turistas a principios de la década de 1990, visitantes de todo el mundo han acudido a este fascinante país del sudeste de Asia para experimentar su fascinante patrimonio cultural, para interactuar con los lugareños maravillosamente acogedores y maravillarse con las numerosas maravillas naturales espectaculares Camboya tiene que ofrecer.",
+    "continent": null,
+    "country": "camboya",
+    "items": [
+      {
+        "n": "01",
+        "t": "Patrimonio e historia",
+        "d": "Desde que Camboya reabrió sus fronteras a los turistas a principios de la década de 1990, visitantes de todo el mundo han acudido a este fascinante país del sudeste de Asia para experimentar su fascinante patrimonio cultural, para interactuar con los lugareños maravillosamente acogedores y maravillarse con las numerosas maravillas naturales espectaculares Camboya tiene que ofrecer.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/165379/1741180859977_5O4A8310-min.jpg"
+      },
+      {
+        "n": "02",
+        "t": "Gastronomía local",
+        "d": "Phnom Penh, la bulliciosa capital de la nación, alberga una gran cantidad de excelentes restaurantes, animados mercados al aire libre y una animada vida nocturna.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/165379/1741180859984_res1-min.jpeg"
+      },
+      {
+        "n": "03",
+        "t": "Vida urbana",
+        "d": "Sin embargo, la mayoría de las atracciones más populares de Camboya se encuentran más allá de la capital.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/165379/1741181033061_res4-min.jpg"
+      },
+      {
+        "n": "04",
+        "t": "Playas e islas",
+        "d": "Los favoritos de los turistas incluyen: la tranquila ciudad francesa de Kampot, con su precioso paseo marítimo salpicado de magníficas villas francesas y encantadores cafés junto al río; las impresionantes cascadas de las exuberantes montañas de Cardamon revestidas por la selva; y, por supuesto, el impresionante complejo antiguo templo de Angkor Wat, el la estructura religiosa más grande y posiblemente impresionante del mundo.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/165379/1741180859944_cabin14-min.jpg"
+      },
+      {
+        "n": "05",
+        "t": "Dónde dormir",
+        "d": "Hoteles boutique y propiedades con encanto, elegidos por nuestros planners.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/165379/1741180859981_5O4A8358-min.jpg"
+      }
+    ],
+    "cover": "https://destino.honimunn.com/ImageHandler/c1200x800/165379/1741180859977_5O4A8310-min.jpg"
+  },
+  "camboya:siem-reap": {
+    "name": "Siem Reap",
+    "eyebrow": "7 - 10",
+    "sub": "Conocida como la puerta de entrada al magnífico complejo de templos antiguos de Angkor Wat, Siem Reap es una agradable ciudad con una encantadora arquitectura colonial y china francesa y un ambiente relajado.",
+    "continent": null,
+    "country": "camboya",
+    "items": [
+      {
+        "n": "01",
+        "t": "Patrimonio e historia",
+        "d": "Conocida como la puerta de entrada al magnífico complejo de templos antiguos de Angkor Wat, Siem Reap es una agradable ciudad con una encantadora arquitectura colonial y china francesa y un ambiente relajado.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/25896/siem_reap-istock-154291114.jpg"
+      },
+      {
+        "n": "02",
+        "t": "Qué ver y hacer",
+        "d": "El principal atractivo aquí es, por supuesto, el complejo Angkor.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/25896/siem_reap-shutterstock-174066893.jpg"
+      },
+      {
+        "n": "03",
+        "t": "Entorno y paisaje",
+        "d": "Cubre un área más grande que París y abarca decenas de exquisitas estructuras de templos con detalles tallados intrincadamente: damas bailarinas y flores de loto embellecen las paredes, naga de cinco cabezas (deidades serpientes) se abalancan de trozos de roca.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/25896/siem_reap-istock-1329808794.jpg"
+      },
+      {
+        "n": "04",
+        "t": "Gastronomía y barrios",
+        "d": "Abandonado por razones desconocidas hace miles de años, fue redescubierto en 1860 por un explorador francés Henri Mahout, y desde entonces ha sido la mayor gloria de Camboya.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/165379/1741180859977_5O4A8310-min.jpg"
+      },
+      {
+        "n": "05",
+        "t": "Dónde dormir",
+        "d": "Coum Reap Suor \"- como dijo con cariño en esta parte del mundo.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/175468/memoire-palace-resorts.jpg"
+      }
+    ],
+    "cover": "https://destino.honimunn.com/ImageHandler/c1200x800/25896/siem_reap-istock-154291114.jpg"
+  },
+  "camboya:thailand": {
+    "name": "Thailand",
+    "eyebrow": "Destino Honimunn",
+    "sub": "Conocida con cariño como “la tierra de las sonrisas”, Tailandia se asocia comúnmente con una hermosa arena dorada, playas bordeadas de palmeras, cálidas aguas aguamarinas, gloriosos templos y verdes montañas cubiertas de selvas.",
+    "continent": null,
+    "country": "camboya",
+    "items": [
+      {
+        "n": "01",
+        "t": "Playas e islas",
+        "d": "Conocida con cariño como “la tierra de las sonrisas”, Tailandia se asocia comúnmente con una hermosa arena dorada, playas bordeadas de palmeras, cálidas aguas aguamarinas, gloriosos templos y verdes montañas cubiertas de selvas.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/165379/1741180859977_5O4A8310-min.jpg"
+      },
+      {
+        "n": "02",
+        "t": "Qué ver y hacer",
+        "d": "Con dieciséis millones de extranjeros volando al país cada año, Tailandia es el principal centro de viajes del sudeste de Asia, ofreciendo una amplia gama de atracciones y actividades para todos los gustos y presupuestos.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/165379/1741180859984_res1-min.jpeg"
+      },
+      {
+        "n": "03",
+        "t": "Entorno y paisaje",
+        "d": "Ya sea explorando la bulliciosa metrópolis de Bangkok, relajándose en las playas tropicales de las islas del sur, buceando en el maravilloso país submarino frente a la costa de Koh Tao, trekking en la selva en el norte o descubriendo las antiguas ciudades de Chiang Mai, Tailandia está llena de atracciones para satisfacer cualquier interés.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/165379/1741181033061_res4-min.jpg"
+      },
+      {
+        "n": "04",
+        "t": "Dónde dormir",
+        "d": "Hoteles boutique y propiedades con encanto, elegidos por nuestros planners.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/165379/1741180859944_cabin14-min.jpg"
+      },
+      {
+        "n": "05",
+        "t": "Tu estancia Honimunn",
+        "d": "Itinerario privado diseñado a medida por vuestro Honimunn Planner, sin prisas ni grupos aglomerados.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/165379/1741180859981_5O4A8358-min.jpg"
+      }
+    ],
+    "cover": "https://destino.honimunn.com/ImageHandler/c1200x800/165379/1741180859977_5O4A8310-min.jpg"
+  },
+  "camboya:bangkok": {
+    "name": "Bangkok",
+    "eyebrow": "10 - 13",
+    "sub": "Vaporosa, frenética y emocionante, la capital de Tailandia, ubicada en el delta del río Chao Phraya, es un destino turístico legendario.",
+    "continent": null,
+    "country": "camboya",
+    "items": [
+      {
+        "n": "01",
+        "t": "Vida urbana",
+        "d": "Vaporosa, frenética y emocionante, la capital de Tailandia, ubicada en el delta del río Chao Phraya, es un destino turístico legendario.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/24265/bangkok_-nukul2533-_istock-1184272835.jpg"
+      },
+      {
+        "n": "02",
+        "t": "Cultura viva",
+        "d": "Esta metrópolis es igualmente famosa por su rica oferta cultural, su efervescente vida nocturna, sus excelentes tiendas y sus diversas opciones gastronómicas.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/24265/bangkok_-wit88_-_istock-637157838.jpg"
+      },
+      {
+        "n": "03",
+        "t": "Patrimonio e historia",
+        "d": "Los artículos de la lista de deseos incluyen una visita al alucinante Buda reclinado en Wat Pho, un paseo en barco matutino por los canales para sumergirse en los mercados flotantes y un paseo por el opulento Gran Palacio.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/24265/bangkok_-mantaphoto-_istock-684774510.jpg"
+      },
+      {
+        "n": "04",
+        "t": "Gastronomía local",
+        "d": "El centro turístico de Khaosan Road, el MBK Centre, Siam Square o los fines de semana, el vasto mercado de Chatuchak, ofrecen excelentes oportunidades de compra, mientras que los restaurantes abarcan todos los estilos, desde la increíble comida callejera hasta la alta cocina de cinco estrellas.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/165379/1741180859977_5O4A8310-min.jpg"
+      },
+      {
+        "n": "05",
+        "t": "Dónde dormir",
+        "d": "El Montien Hotel Surawong Bangkok está ubicado en el animado distrito de Silom de Bangkok.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/311835/17600844267121466834.jpg"
+      }
+    ],
+    "cover": "https://destino.honimunn.com/ImageHandler/c1200x800/24265/bangkok_-nukul2533-_istock-1184272835.jpg"
+  }
+}

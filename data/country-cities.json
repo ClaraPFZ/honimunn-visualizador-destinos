@@ -1,0 +1,1898 @@
+{
+  "argentina": [
+    {
+      "key": "argentina:buenos-aires",
+      "name": "Buenos Aires",
+      "lat": -34.6037,
+      "lon": -58.3816
+    },
+    {
+      "key": "argentina:ushuaia",
+      "name": "Ushuaia",
+      "lat": -54.8019,
+      "lon": -68.303
+    },
+    {
+      "key": "argentina:el-calafate",
+      "name": "El Calafate",
+      "lat": -50.34,
+      "lon": -72.2648
+    },
+    {
+      "key": "argentina:puerto-iguazu",
+      "name": "Puerto Iguazu",
+      "lat": -25.5972,
+      "lon": -54.5786
+    }
+  ],
+  "brasil": [
+    {
+      "key": "brasil:copacabana",
+      "name": "Copacabana",
+      "lat": -22.9711,
+      "lon": -43.1823
+    },
+    {
+      "key": "brasil:manaus",
+      "name": "Manaus",
+      "lat": -3.119,
+      "lon": -60.0217
+    },
+    {
+      "key": "brasil:puerto-iguazu",
+      "name": "Puerto Iguazu",
+      "lat": -25.5972,
+      "lon": -54.5786
+    },
+    {
+      "key": "brasil:buzios",
+      "name": "Buzios",
+      "lat": -22.7469,
+      "lon": -41.8817
+    },
+    {
+      "key": "brasil:state-of-amazonas",
+      "name": "State of Amazonas",
+      "lat": -3.4168,
+      "lon": -65.8561
+    },
+    {
+      "key": "brasil:barreirinhas",
+      "name": "Barreirinhas",
+      "lat": -2.7444,
+      "lon": -42.8197
+    },
+    {
+      "key": "brasil:sao-luis",
+      "name": "Sao Luis",
+      "lat": -2.5297,
+      "lon": -44.2825
+    },
+    {
+      "key": "brasil:praia-do-forte",
+      "name": "Praia do Forte",
+      "lat": -12.5725,
+      "lon": -38.0019
+    }
+  ],
+  "chile": [
+    {
+      "key": "chile:santiago",
+      "name": "Santiago",
+      "lat": -33.4489,
+      "lon": -70.6693
+    },
+    {
+      "key": "chile:san-pedro-de-atacama",
+      "name": "San Pedro de Atacama",
+      "lat": -22.9087,
+      "lon": -68.1997
+    },
+    {
+      "key": "chile:puerto-natales",
+      "name": "Puerto Natales",
+      "lat": -51.7233,
+      "lon": -72.4977
+    },
+    {
+      "key": "chile:punta-arenas",
+      "name": "Punta Arenas",
+      "lat": -53.1638,
+      "lon": -70.9171
+    },
+    {
+      "key": "chile:puerto-varas",
+      "name": "Puerto Varas",
+      "lat": -41.3167,
+      "lon": -72.9833
+    }
+  ],
+  "canada": [
+    {
+      "key": "canada:calgary",
+      "name": "Calgary",
+      "lat": 51.0447,
+      "lon": -114.0719
+    },
+    {
+      "key": "canada:banff",
+      "name": "Banff",
+      "lat": 51.1784,
+      "lon": -115.5708
+    },
+    {
+      "key": "canada:jasper",
+      "name": "Jasper",
+      "lat": 52.8737,
+      "lon": -117.0814
+    },
+    {
+      "key": "canada:kamloops",
+      "name": "Kamloops",
+      "lat": 50.6745,
+      "lon": -120.3273
+    },
+    {
+      "key": "canada:vancouver",
+      "name": "Vancouver",
+      "lat": 49.2827,
+      "lon": -123.1207
+    },
+    {
+      "key": "canada:lake-louise",
+      "name": "Lake Louise",
+      "lat": 51.4254,
+      "lon": -116.1773
+    },
+    {
+      "key": "canada:clearwater",
+      "name": "Clearwater",
+      "lat": 51.6514,
+      "lon": -120.2361
+    }
+  ],
+  "caribe": [
+    {
+      "key": "caribe:la-habana",
+      "name": "La Habana",
+      "lat": 23.1136,
+      "lon": -82.3666
+    },
+    {
+      "key": "caribe:santo-domingo",
+      "name": "Santo Domingo",
+      "lat": 18.4861,
+      "lon": -69.9312
+    },
+    {
+      "key": "caribe:kingston",
+      "name": "Kingston",
+      "lat": 18.0179,
+      "lon": -76.8099
+    },
+    {
+      "key": "caribe:bridgetown",
+      "name": "Bridgetown",
+      "lat": 13.0975,
+      "lon": -59.6167
+    }
+  ],
+  "estados-unidos": [
+    {
+      "key": "estados-unidos:santa-monica",
+      "name": "Santa Monica",
+      "lat": 34.0195,
+      "lon": -118.4912
+    },
+    {
+      "key": "estados-unidos:las-vegas",
+      "name": "Las Vegas",
+      "lat": 36.1699,
+      "lon": -115.1398
+    },
+    {
+      "key": "estados-unidos:san-francisco",
+      "name": "San Francisco",
+      "lat": 37.7749,
+      "lon": -122.4194
+    },
+    {
+      "key": "estados-unidos:san-luis-obispo",
+      "name": "San Luis Obispo",
+      "lat": 35.2828,
+      "lon": -120.6596
+    },
+    {
+      "key": "estados-unidos:carmel-by-the-sea",
+      "name": "Carmel-by-the-Sea",
+      "lat": 36.5554,
+      "lon": -121.9233
+    },
+    {
+      "key": "estados-unidos:los-angeles",
+      "name": "Los Angeles",
+      "lat": 34.0522,
+      "lon": -118.2437
+    },
+    {
+      "key": "estados-unidos:kingman",
+      "name": "Kingman",
+      "lat": 35.1894,
+      "lon": -114.053
+    },
+    {
+      "key": "estados-unidos:grand-canyon-village",
+      "name": "Grand Canyon Village",
+      "lat": 36.0544,
+      "lon": -112.1401
+    }
+  ],
+  "colombia": [
+    {
+      "key": "colombia:cartagena",
+      "name": "Cartagena",
+      "lat": 10.391,
+      "lon": -75.5364
+    },
+    {
+      "key": "colombia:isla-baru",
+      "name": "Isla Baru",
+      "lat": 10.1933,
+      "lon": -75.5856
+    },
+    {
+      "key": "colombia:bogota",
+      "name": "Bogota",
+      "lat": 4.711,
+      "lon": -74.0721
+    },
+    {
+      "key": "colombia:the-coffee-triangle",
+      "name": "The Coffee Triangle",
+      "lat": 4.8133,
+      "lon": -75.6961
+    },
+    {
+      "key": "colombia:medellin",
+      "name": "Medellin",
+      "lat": 6.2442,
+      "lon": -75.5812
+    },
+    {
+      "key": "colombia:tayrona-national-park",
+      "name": "Tayrona National Park",
+      "lat": 11.2893,
+      "lon": -73.9356
+    }
+  ],
+  "costa-rica": [
+    {
+      "key": "costa-rica:san-jose",
+      "name": "San Jose",
+      "lat": 9.9281,
+      "lon": -84.0907
+    },
+    {
+      "key": "costa-rica:tortuguero-national-park",
+      "name": "Tortuguero National Park",
+      "lat": 10.54,
+      "lon": -83.5
+    },
+    {
+      "key": "costa-rica:la-fortuna",
+      "name": "La Fortuna",
+      "lat": 10.468,
+      "lon": -84.6427
+    },
+    {
+      "key": "costa-rica:monteverde",
+      "name": "Monteverde",
+      "lat": 10.3151,
+      "lon": -84.8258
+    },
+    {
+      "key": "costa-rica:guanacaste",
+      "name": "Guanacaste",
+      "lat": 10.47,
+      "lon": -85.58
+    },
+    {
+      "key": "costa-rica:manuel-antonio",
+      "name": "Manuel Antonio",
+      "lat": 9.3927,
+      "lon": -84.1384
+    },
+    {
+      "key": "costa-rica:puerto-viejo-de-talamanca",
+      "name": "Puerto Viejo de Talamanca",
+      "lat": 9.6555,
+      "lon": -82.753
+    }
+  ],
+  "ecuador": [
+    {
+      "key": "ecuador:guayaquil",
+      "name": "Guayaquil",
+      "lat": -2.1709,
+      "lon": -79.9224
+    },
+    {
+      "key": "ecuador:cuenca",
+      "name": "Cuenca",
+      "lat": -2.9001,
+      "lon": -79.0059
+    },
+    {
+      "key": "ecuador:galapagos",
+      "name": "Galápagos",
+      "lat": -0.9538,
+      "lon": -90.9656
+    }
+  ],
+  "guatemala": [
+    {
+      "key": "guatemala:ciudad-de-guatemala",
+      "name": "Ciudad de Guatemala",
+      "lat": 14.6349,
+      "lon": -90.5069
+    },
+    {
+      "key": "guatemala:antigua-guatemala",
+      "name": "Antigua Guatemala",
+      "lat": 14.5586,
+      "lon": -90.7335
+    },
+    {
+      "key": "guatemala:flores",
+      "name": "Flores",
+      "lat": 16.922,
+      "lon": -89.8927
+    },
+    {
+      "key": "guatemala:lago-atitlan",
+      "name": "Lago Atitlán",
+      "lat": 14.6928,
+      "lon": -91.202
+    },
+    {
+      "key": "guatemala:livingston",
+      "name": "Livingston",
+      "lat": 15.8283,
+      "lon": -88.75
+    }
+  ],
+  "mexico": [
+    {
+      "key": "mexico:ciudad-de-mexico",
+      "name": "Ciudad de México",
+      "lat": 19.4326,
+      "lon": -99.1332
+    },
+    {
+      "key": "mexico:cancun",
+      "name": "Cancún",
+      "lat": 21.1619,
+      "lon": -86.8515
+    },
+    {
+      "key": "mexico:oaxaca",
+      "name": "Oaxaca",
+      "lat": 17.0732,
+      "lon": -96.7266
+    },
+    {
+      "key": "mexico:guadalajara",
+      "name": "Guadalajara",
+      "lat": 20.6597,
+      "lon": -103.3496
+    },
+    {
+      "key": "mexico:tulum",
+      "name": "Tulum",
+      "lat": 20.2114,
+      "lon": -87.4654
+    }
+  ],
+  "hawaii": [
+    {
+      "key": "hawaii:maui",
+      "name": "Maui",
+      "lat": 20.7984,
+      "lon": -156.3319
+    },
+    {
+      "key": "hawaii:kauai",
+      "name": "Kauai",
+      "lat": 22.0964,
+      "lon": -159.5261
+    },
+    {
+      "key": "hawaii:honolulu",
+      "name": "Honolulu",
+      "lat": 21.3069,
+      "lon": -157.8583
+    },
+    {
+      "key": "hawaii:island-of-hawaii",
+      "name": "Island of Hawaii",
+      "lat": 19.5429,
+      "lon": -155.6659
+    }
+  ],
+  "panama": [
+    {
+      "key": "panama:ciudad-de-panama",
+      "name": "Ciudad de Panamá",
+      "lat": 8.9824,
+      "lon": -79.5199
+    },
+    {
+      "key": "panama:bocas-del-toro",
+      "name": "Bocas del Toro",
+      "lat": 9.3406,
+      "lon": -82.25
+    },
+    {
+      "key": "panama:boquete",
+      "name": "Boquete",
+      "lat": 8.7781,
+      "lon": -82.4326
+    },
+    {
+      "key": "panama:colon",
+      "name": "Colón",
+      "lat": 9.3592,
+      "lon": -79.9014
+    }
+  ],
+  "peru": [
+    {
+      "key": "peru:cusco",
+      "name": "Cusco",
+      "lat": -13.532,
+      "lon": -71.9675
+    },
+    {
+      "key": "peru:lima",
+      "name": "Lima",
+      "lat": -12.0464,
+      "lon": -77.0428
+    },
+    {
+      "key": "peru:machu-picchu-pueblo",
+      "name": "Machu Picchu Pueblo",
+      "lat": -13.1547,
+      "lon": -72.5239
+    },
+    {
+      "key": "peru:the-sacred-valley-of-the-incas",
+      "name": "The Sacred Valley of the Incas",
+      "lat": -13.3333,
+      "lon": -72.15
+    },
+    {
+      "key": "peru:paracas",
+      "name": "Paracas",
+      "lat": -13.8333,
+      "lon": -76.25
+    },
+    {
+      "key": "peru:arequipa",
+      "name": "Arequipa",
+      "lat": -16.409,
+      "lon": -71.5375
+    },
+    {
+      "key": "peru:colca-canyon",
+      "name": "Colca Canyon",
+      "lat": -15.6094,
+      "lon": -71.8803
+    },
+    {
+      "key": "peru:puno",
+      "name": "Puno",
+      "lat": -15.8402,
+      "lon": -70.0219
+    }
+  ],
+  "puerto-rico": [
+    {
+      "key": "puerto-rico:san-juan",
+      "name": "San Juan",
+      "lat": 18.4655,
+      "lon": -66.1057
+    },
+    {
+      "key": "puerto-rico:ponce",
+      "name": "Ponce",
+      "lat": 18.0111,
+      "lon": -66.6141
+    },
+    {
+      "key": "puerto-rico:rincon",
+      "name": "Rincón",
+      "lat": 18.3402,
+      "lon": -67.25
+    },
+    {
+      "key": "puerto-rico:fajardo",
+      "name": "Fajardo",
+      "lat": 18.3258,
+      "lon": -65.6524
+    },
+    {
+      "key": "puerto-rico:vieques",
+      "name": "Vieques",
+      "lat": 18.1263,
+      "lon": -65.4401
+    }
+  ],
+  "espana": [
+    {
+      "key": "espana:madrid",
+      "name": "Madrid",
+      "lat": 40.4168,
+      "lon": -3.7038
+    },
+    {
+      "key": "espana:barcelona",
+      "name": "Barcelona",
+      "lat": 41.3874,
+      "lon": 2.1686
+    },
+    {
+      "key": "espana:sevilla",
+      "name": "Sevilla",
+      "lat": 37.3891,
+      "lon": -5.9845
+    },
+    {
+      "key": "espana:granada",
+      "name": "Granada",
+      "lat": 37.1773,
+      "lon": -3.5986
+    },
+    {
+      "key": "espana:san-sebastian",
+      "name": "San Sebastián",
+      "lat": 43.3183,
+      "lon": -1.9812
+    }
+  ],
+  "francia": [
+    {
+      "key": "francia:paris",
+      "name": "París",
+      "lat": 48.8566,
+      "lon": 2.3522
+    },
+    {
+      "key": "francia:lyon",
+      "name": "Lyon",
+      "lat": 45.764,
+      "lon": 4.8357
+    },
+    {
+      "key": "francia:burdeos",
+      "name": "Burdeos",
+      "lat": 44.8378,
+      "lon": -0.5792
+    },
+    {
+      "key": "francia:avinon",
+      "name": "Aviñón",
+      "lat": 43.9493,
+      "lon": 4.8055
+    }
+  ],
+  "italia": [
+    {
+      "key": "italia:niza",
+      "name": "Niza",
+      "lat": 43.7102,
+      "lon": 7.262
+    },
+    {
+      "key": "italia:roma",
+      "name": "Roma",
+      "lat": 41.9028,
+      "lon": 12.4964
+    },
+    {
+      "key": "italia:florencia",
+      "name": "Florencia",
+      "lat": 43.7696,
+      "lon": 11.2558
+    },
+    {
+      "key": "italia:venecia",
+      "name": "Venecia",
+      "lat": 45.4408,
+      "lon": 12.3155
+    },
+    {
+      "key": "italia:amalfi",
+      "name": "Amalfi",
+      "lat": 40.634,
+      "lon": 14.6027
+    },
+    {
+      "key": "italia:milan",
+      "name": "Milán",
+      "lat": 45.4642,
+      "lon": 9.19
+    }
+  ],
+  "croacia": [
+    {
+      "key": "croacia:zagreb",
+      "name": "Zagreb",
+      "lat": 45.815,
+      "lon": 15.9819
+    },
+    {
+      "key": "croacia:dubrovnik",
+      "name": "Dubrovnik",
+      "lat": 42.6507,
+      "lon": 18.0944
+    },
+    {
+      "key": "croacia:split",
+      "name": "Split",
+      "lat": 43.5081,
+      "lon": 16.4402
+    },
+    {
+      "key": "croacia:hvar",
+      "name": "Hvar",
+      "lat": 43.1729,
+      "lon": 16.4416
+    },
+    {
+      "key": "croacia:plitvice",
+      "name": "Plitvice",
+      "lat": 44.8654,
+      "lon": 15.582
+    }
+  ],
+  "islandia": [
+    {
+      "key": "islandia:reikiavik",
+      "name": "Reikiavik",
+      "lat": 64.1466,
+      "lon": -21.9426
+    },
+    {
+      "key": "islandia:akureyri",
+      "name": "Akureyri",
+      "lat": 65.6835,
+      "lon": -18.0878
+    },
+    {
+      "key": "islandia:vik",
+      "name": "Vík",
+      "lat": 63.4186,
+      "lon": -19.006
+    },
+    {
+      "key": "islandia:husavik",
+      "name": "Húsavík",
+      "lat": 66.0449,
+      "lon": -17.3383
+    },
+    {
+      "key": "islandia:blue-lagoon",
+      "name": "Blue Lagoon",
+      "lat": 63.8804,
+      "lon": -22.4495
+    }
+  ],
+  "finlandia": [
+    {
+      "key": "finlandia:helsinki",
+      "name": "Helsinki",
+      "lat": 60.1699,
+      "lon": 24.9384
+    },
+    {
+      "key": "finlandia:rovaniemi",
+      "name": "Rovaniemi",
+      "lat": 66.5039,
+      "lon": 25.7294
+    },
+    {
+      "key": "finlandia:turku",
+      "name": "Turku",
+      "lat": 60.4518,
+      "lon": 22.2666
+    },
+    {
+      "key": "finlandia:tampere",
+      "name": "Tampere",
+      "lat": 61.4978,
+      "lon": 23.761
+    },
+    {
+      "key": "finlandia:levi",
+      "name": "Levi",
+      "lat": 67.8066,
+      "lon": 24.809
+    }
+  ],
+  "noruega": [
+    {
+      "key": "noruega:oslo",
+      "name": "Oslo",
+      "lat": 59.9139,
+      "lon": 10.7522
+    },
+    {
+      "key": "noruega:bergen",
+      "name": "Bergen",
+      "lat": 60.3913,
+      "lon": 5.3221
+    },
+    {
+      "key": "noruega:troms",
+      "name": "Tromsø",
+      "lat": 69.6492,
+      "lon": 18.9553
+    },
+    {
+      "key": "noruega:geiranger",
+      "name": "Geiranger",
+      "lat": 62.1008,
+      "lon": 7.2057
+    },
+    {
+      "key": "noruega:stavanger",
+      "name": "Stavanger",
+      "lat": 58.97,
+      "lon": 5.7331
+    }
+  ],
+  "grecia": [
+    {
+      "key": "grecia:atenas",
+      "name": "Atenas",
+      "lat": 37.9838,
+      "lon": 23.7275
+    },
+    {
+      "key": "grecia:santorini",
+      "name": "Santorini",
+      "lat": 36.3932,
+      "lon": 25.4615
+    },
+    {
+      "key": "grecia:mykonos",
+      "name": "Mykonos",
+      "lat": 37.4467,
+      "lon": 25.3289
+    },
+    {
+      "key": "grecia:creta",
+      "name": "Creta",
+      "lat": 35.2401,
+      "lon": 24.8093
+    },
+    {
+      "key": "grecia:meteora",
+      "name": "Meteora",
+      "lat": 39.7217,
+      "lon": 21.6306
+    }
+  ],
+  "australia": [
+    {
+      "key": "australia:sidney",
+      "name": "Sídney",
+      "lat": -33.8688,
+      "lon": 151.2093
+    },
+    {
+      "key": "australia:melbourne",
+      "name": "Melbourne",
+      "lat": -37.8136,
+      "lon": 144.9631
+    },
+    {
+      "key": "australia:cairns",
+      "name": "Cairns",
+      "lat": -16.9186,
+      "lon": 145.7781
+    },
+    {
+      "key": "australia:uluru",
+      "name": "Uluru",
+      "lat": -25.3444,
+      "lon": 131.0369
+    },
+    {
+      "key": "australia:perth",
+      "name": "Perth",
+      "lat": -31.9505,
+      "lon": 115.8605
+    }
+  ],
+  "islas-cook": [
+    {
+      "key": "islas-cook:avarua",
+      "name": "Avarua",
+      "lat": -21.207,
+      "lon": -159.7756
+    },
+    {
+      "key": "islas-cook:aitutaki",
+      "name": "Aitutaki",
+      "lat": -18.8549,
+      "lon": -159.7645
+    },
+    {
+      "key": "islas-cook:rarotonga",
+      "name": "Rarotonga",
+      "lat": -21.2367,
+      "lon": -159.7777
+    },
+    {
+      "key": "islas-cook:muri-beach",
+      "name": "Muri Beach",
+      "lat": -21.2533,
+      "lon": -159.742
+    }
+  ],
+  "fiyi": [
+    {
+      "key": "fiyi:suva",
+      "name": "Suva",
+      "lat": -18.1416,
+      "lon": 178.4419
+    },
+    {
+      "key": "fiyi:nadi",
+      "name": "Nadi",
+      "lat": -17.7765,
+      "lon": 177.4356
+    },
+    {
+      "key": "fiyi:denarau",
+      "name": "Denarau",
+      "lat": -17.7734,
+      "lon": 177.3762
+    },
+    {
+      "key": "fiyi:yasawa",
+      "name": "Yasawa",
+      "lat": -16.7833,
+      "lon": 177.3833
+    },
+    {
+      "key": "fiyi:taveuni",
+      "name": "Taveuni",
+      "lat": -16.8333,
+      "lon": -179.9833
+    }
+  ],
+  "nueva-zelanda": [
+    {
+      "key": "nueva-zelanda:auckland",
+      "name": "Auckland",
+      "lat": -36.8485,
+      "lon": 174.7633
+    },
+    {
+      "key": "nueva-zelanda:queenstown",
+      "name": "Queenstown",
+      "lat": -45.0312,
+      "lon": 168.6626
+    },
+    {
+      "key": "nueva-zelanda:wellington",
+      "name": "Wellington",
+      "lat": -41.2865,
+      "lon": 174.7762
+    },
+    {
+      "key": "nueva-zelanda:rotorua",
+      "name": "Rotorua",
+      "lat": -38.1368,
+      "lon": 176.2497
+    },
+    {
+      "key": "nueva-zelanda:milford-sound",
+      "name": "Milford Sound",
+      "lat": -44.6414,
+      "lon": 167.8974
+    }
+  ],
+  "polinesia-francesa": [
+    {
+      "key": "polinesia-francesa:tahiti",
+      "name": "Tahiti",
+      "lat": -17.6509,
+      "lon": -149.426
+    },
+    {
+      "key": "polinesia-francesa:moorea",
+      "name": "Moorea",
+      "lat": -17.5388,
+      "lon": -149.8295
+    },
+    {
+      "key": "polinesia-francesa:bora-bora",
+      "name": "Bora Bora",
+      "lat": -16.5004,
+      "lon": -151.7415
+    },
+    {
+      "key": "polinesia-francesa:huahine",
+      "name": "Huahine",
+      "lat": -16.75,
+      "lon": -150.9833
+    },
+    {
+      "key": "polinesia-francesa:tahaa",
+      "name": "Tahaa",
+      "lat": -16.62,
+      "lon": -151.49
+    }
+  ],
+  "camboya": [
+    {
+      "key": "camboya:cambodia",
+      "name": "Cambodia",
+      "lat": 12.5657,
+      "lon": 104.991
+    },
+    {
+      "key": "camboya:siem-reap",
+      "name": "Siem Reap",
+      "lat": 13.3671,
+      "lon": 103.8448
+    }
+  ],
+  "tailandia": [
+    {
+      "key": "tailandia:thailand",
+      "name": "Thailand",
+      "lat": 15.87,
+      "lon": 100.9925
+    },
+    {
+      "key": "tailandia:bangkok",
+      "name": "Bangkok",
+      "lat": 13.7563,
+      "lon": 100.5018
+    },
+    {
+      "key": "tailandia:chiang-rai",
+      "name": "Chiang Rai",
+      "lat": 19.9105,
+      "lon": 99.8406
+    },
+    {
+      "key": "tailandia:chiang-mai",
+      "name": "Chiang Mai",
+      "lat": 18.7883,
+      "lon": 98.9853
+    },
+    {
+      "key": "tailandia:ayutthaya",
+      "name": "Ayutthaya",
+      "lat": 14.3692,
+      "lon": 100.5877
+    },
+    {
+      "key": "tailandia:sukhothai",
+      "name": "Sukhothai",
+      "lat": 17.01,
+      "lon": 99.7032
+    },
+    {
+      "key": "tailandia:krabi",
+      "name": "Krabi",
+      "lat": 8.0863,
+      "lon": 98.9063
+    }
+  ],
+  "china": [
+    {
+      "key": "china:pekin",
+      "name": "Pekín",
+      "lat": 39.9042,
+      "lon": 116.4074
+    },
+    {
+      "key": "china:shanghai",
+      "name": "Shanghái",
+      "lat": 31.2304,
+      "lon": 121.4737
+    },
+    {
+      "key": "china:xi-an",
+      "name": "Xi'an",
+      "lat": 34.3416,
+      "lon": 108.9398
+    },
+    {
+      "key": "china:guilin",
+      "name": "Guilin",
+      "lat": 25.2736,
+      "lon": 110.29
+    },
+    {
+      "key": "china:chengdu",
+      "name": "Chengdu",
+      "lat": 30.5728,
+      "lon": 104.0668
+    },
+    {
+      "key": "china:hiroshima",
+      "name": "Hiroshima",
+      "lat": 34.3853,
+      "lon": 132.4553
+    },
+    {
+      "key": "china:miyajima-island",
+      "name": "Miyajima",
+      "lat": 34.2961,
+      "lon": 132.3196
+    }
+  ],
+  "corea": [
+    {
+      "key": "corea:seul",
+      "name": "Seúl",
+      "lat": 37.5665,
+      "lon": 126.978
+    },
+    {
+      "key": "corea:busan",
+      "name": "Busan",
+      "lat": 35.1796,
+      "lon": 129.0756
+    },
+    {
+      "key": "corea:jeju",
+      "name": "Jeju",
+      "lat": 33.4996,
+      "lon": 126.5312
+    },
+    {
+      "key": "corea:gyeongju",
+      "name": "Gyeongju",
+      "lat": 35.8562,
+      "lon": 129.2247
+    },
+    {
+      "key": "corea:incheon",
+      "name": "Incheon",
+      "lat": 37.4563,
+      "lon": 126.7052
+    }
+  ],
+  "butan": [
+    {
+      "key": "butan:thimphu",
+      "name": "Thimphu",
+      "lat": 27.4728,
+      "lon": 89.6393
+    },
+    {
+      "key": "butan:paro",
+      "name": "Paro",
+      "lat": 27.4305,
+      "lon": 89.4133
+    },
+    {
+      "key": "butan:punakha",
+      "name": "Punakha",
+      "lat": 27.5916,
+      "lon": 89.8639
+    },
+    {
+      "key": "butan:bumthang",
+      "name": "Bumthang",
+      "lat": 27.5492,
+      "lon": 90.7525
+    },
+    {
+      "key": "butan:phobjikha",
+      "name": "Phobjikha",
+      "lat": 27.4833,
+      "lon": 90.4333
+    }
+  ],
+  "india": [
+    {
+      "key": "india:nueva-delhi",
+      "name": "Nueva Delhi",
+      "lat": 28.6139,
+      "lon": 77.209
+    },
+    {
+      "key": "india:jaipur",
+      "name": "Jaipur",
+      "lat": 26.9124,
+      "lon": 75.7873
+    },
+    {
+      "key": "india:agra",
+      "name": "Agra",
+      "lat": 27.1767,
+      "lon": 78.0081
+    },
+    {
+      "key": "india:varanasi",
+      "name": "Varanasi",
+      "lat": 25.3176,
+      "lon": 82.9739
+    },
+    {
+      "key": "india:goa",
+      "name": "Goa",
+      "lat": 15.2993,
+      "lon": 74.124
+    }
+  ],
+  "nepal": [
+    {
+      "key": "nepal:katmandu",
+      "name": "Katmandú",
+      "lat": 27.7172,
+      "lon": 85.324
+    },
+    {
+      "key": "nepal:pokhara",
+      "name": "Pokhara",
+      "lat": 28.2096,
+      "lon": 83.9856
+    },
+    {
+      "key": "nepal:bhaktapur",
+      "name": "Bhaktapur",
+      "lat": 27.671,
+      "lon": 85.4298
+    },
+    {
+      "key": "nepal:chitwan",
+      "name": "Chitwan",
+      "lat": 27.5291,
+      "lon": 84.3542
+    },
+    {
+      "key": "nepal:lumbini",
+      "name": "Lumbini",
+      "lat": 27.4833,
+      "lon": 83.2833
+    }
+  ],
+  "filipinas": [
+    {
+      "key": "filipinas:makati",
+      "name": "Makati",
+      "lat": 14.5547,
+      "lon": 121.0244
+    },
+    {
+      "key": "filipinas:panglao-island",
+      "name": "Panglao",
+      "lat": 9.5755,
+      "lon": 123.7628
+    },
+    {
+      "key": "filipinas:el-nido",
+      "name": "El Nido",
+      "lat": 11.1784,
+      "lon": 119.393
+    },
+    {
+      "key": "filipinas:boracay",
+      "name": "Boracay",
+      "lat": 11.9674,
+      "lon": 121.9248
+    }
+  ],
+  "indonesia": [
+    {
+      "key": "indonesia:ubud",
+      "name": "Ubud",
+      "lat": -8.5069,
+      "lon": 115.2624
+    },
+    {
+      "key": "indonesia:canggu",
+      "name": "Canggu",
+      "lat": -8.6478,
+      "lon": 115.1385
+    },
+    {
+      "key": "indonesia:west-bali-national-park",
+      "name": "West Bali National Park",
+      "lat": -8.1297,
+      "lon": 114.4458
+    },
+    {
+      "key": "indonesia:gili-trawangan",
+      "name": "Gili Trawangan",
+      "lat": -8.3508,
+      "lon": 116.0345
+    },
+    {
+      "key": "indonesia:sanur",
+      "name": "Sanur",
+      "lat": -8.6914,
+      "lon": 115.2618
+    },
+    {
+      "key": "indonesia:nusa-dua",
+      "name": "Nusa Dua",
+      "lat": -8.8004,
+      "lon": 115.2326
+    },
+    {
+      "key": "indonesia:jakarta",
+      "name": "Jakarta",
+      "lat": -6.2088,
+      "lon": 106.8456
+    },
+    {
+      "key": "indonesia:yogyakarta",
+      "name": "Yogyakarta",
+      "lat": -7.7956,
+      "lon": 110.3695
+    }
+  ],
+  "jordania": [
+    {
+      "key": "jordania:aman",
+      "name": "Amán",
+      "lat": 31.9454,
+      "lon": 35.9284
+    },
+    {
+      "key": "jordania:petra",
+      "name": "Petra",
+      "lat": 30.3285,
+      "lon": 35.4444
+    },
+    {
+      "key": "jordania:wadi-rum",
+      "name": "Wadi Rum",
+      "lat": 29.5321,
+      "lon": 35.4213
+    },
+    {
+      "key": "jordania:aqaba",
+      "name": "Aqaba",
+      "lat": 29.532,
+      "lon": 35.0063
+    },
+    {
+      "key": "jordania:mar-muerto",
+      "name": "Mar Muerto",
+      "lat": 31.559,
+      "lon": 35.4732
+    }
+  ],
+  "egipto": [
+    {
+      "key": "egipto:el-cairo",
+      "name": "El Cairo",
+      "lat": 30.0444,
+      "lon": 31.2357
+    },
+    {
+      "key": "egipto:luxor",
+      "name": "Luxor",
+      "lat": 25.6872,
+      "lon": 32.6396
+    },
+    {
+      "key": "egipto:asuan",
+      "name": "Asuán",
+      "lat": 24.0889,
+      "lon": 32.8998
+    },
+    {
+      "key": "egipto:giza",
+      "name": "Giza",
+      "lat": 29.9773,
+      "lon": 31.1325
+    },
+    {
+      "key": "egipto:hurghada",
+      "name": "Hurghada",
+      "lat": 27.2579,
+      "lon": 33.8116
+    }
+  ],
+  "laos": [
+    {
+      "key": "laos:hanoi",
+      "name": "Hanoi",
+      "lat": 21.0285,
+      "lon": 105.8542
+    },
+    {
+      "key": "laos:mai-chau",
+      "name": "Mai Chau",
+      "lat": 20.6694,
+      "lon": 105.0809
+    },
+    {
+      "key": "laos:ninh-binh",
+      "name": "Ninh Binh",
+      "lat": 20.2506,
+      "lon": 105.9745
+    }
+  ],
+  "vietnam": [
+    {
+      "key": "vietnam:hanoi",
+      "name": "Hanoi",
+      "lat": 21.0285,
+      "lon": 105.8542
+    },
+    {
+      "key": "vietnam:ninh-binh",
+      "name": "Ninh Binh",
+      "lat": 20.2506,
+      "lon": 105.9745
+    },
+    {
+      "key": "vietnam:hue",
+      "name": "Hue",
+      "lat": 16.4637,
+      "lon": 107.5909
+    },
+    {
+      "key": "vietnam:hoi-an",
+      "name": "Hoi An",
+      "lat": 15.8801,
+      "lon": 108.338
+    },
+    {
+      "key": "vietnam:ho-chi-minh-city",
+      "name": "Ho Chi Minh City",
+      "lat": 10.8231,
+      "lon": 106.6297
+    }
+  ],
+  "maldivas": [
+    {
+      "key": "maldivas:maldives",
+      "name": "Maldives",
+      "lat": 4.1755,
+      "lon": 73.5093
+    }
+  ],
+  "singapur": [
+    {
+      "key": "singapur:marina-bay",
+      "name": "Marina Bay",
+      "lat": 1.2834,
+      "lon": 103.8607
+    },
+    {
+      "key": "singapur:chinatown",
+      "name": "Chinatown",
+      "lat": 1.2832,
+      "lon": 103.8438
+    },
+    {
+      "key": "singapur:sentosa",
+      "name": "Sentosa",
+      "lat": 1.2494,
+      "lon": 103.8303
+    },
+    {
+      "key": "singapur:gardens-by-the-bay",
+      "name": "Gardens by the Bay",
+      "lat": 1.2816,
+      "lon": 103.8636
+    },
+    {
+      "key": "singapur:orchard-road",
+      "name": "Orchard Road",
+      "lat": 1.3048,
+      "lon": 103.8318
+    }
+  ],
+  "sri-lanka": [
+    {
+      "key": "sri-lanka:colombo",
+      "name": "Colombo",
+      "lat": 6.9271,
+      "lon": 79.8612
+    },
+    {
+      "key": "sri-lanka:kandy",
+      "name": "Kandy",
+      "lat": 7.2906,
+      "lon": 80.6337
+    },
+    {
+      "key": "sri-lanka:dambulla",
+      "name": "Dambulla",
+      "lat": 7.86,
+      "lon": 80.6517
+    },
+    {
+      "key": "sri-lanka:nuwara-eliya",
+      "name": "Nuwara Eliya",
+      "lat": 6.9497,
+      "lon": 80.7891
+    },
+    {
+      "key": "sri-lanka:yala",
+      "name": "Yala",
+      "lat": 6.3728,
+      "lon": 81.5154
+    },
+    {
+      "key": "sri-lanka:negombo",
+      "name": "Negombo",
+      "lat": 7.2094,
+      "lon": 79.8358
+    },
+    {
+      "key": "sri-lanka:wadduwa",
+      "name": "Wadduwa",
+      "lat": 6.63,
+      "lon": 79.93
+    }
+  ],
+  "turquia": [
+    {
+      "key": "turquia:estambul",
+      "name": "Estambul",
+      "lat": 41.0082,
+      "lon": 28.9784
+    },
+    {
+      "key": "turquia:capadocia",
+      "name": "Capadocia",
+      "lat": 38.6431,
+      "lon": 34.8289
+    },
+    {
+      "key": "turquia:efeso",
+      "name": "Éfeso",
+      "lat": 37.9392,
+      "lon": 27.3419
+    },
+    {
+      "key": "turquia:antalya",
+      "name": "Antalya",
+      "lat": 36.8969,
+      "lon": 30.7133
+    },
+    {
+      "key": "turquia:pamukkale",
+      "name": "Pamukkale",
+      "lat": 37.9137,
+      "lon": 29.1187
+    }
+  ],
+  "botswana": [
+    {
+      "key": "botswana:chobe-river-front",
+      "name": "Chobe River Front",
+      "lat": -17.7933,
+      "lon": 25.1522
+    },
+    {
+      "key": "botswana:okavango-delta",
+      "name": "Okavango Delta",
+      "lat": -19.5,
+      "lon": 22.8
+    }
+  ],
+  "sudafrica": [
+    {
+      "key": "sudafrica:johannesburg",
+      "name": "Johannesburg",
+      "lat": -26.2041,
+      "lon": 28.0473
+    },
+    {
+      "key": "sudafrica:cape-town",
+      "name": "Cape Town",
+      "lat": -33.9249,
+      "lon": 18.4241
+    },
+    {
+      "key": "sudafrica:moditlo-private-game-reserve",
+      "name": "Moditlo Private Game Reserve",
+      "lat": -24.22,
+      "lon": 30.78
+    },
+    {
+      "key": "sudafrica:south-africa",
+      "name": "South Africa",
+      "lat": -30.5595,
+      "lon": 22.9375
+    },
+    {
+      "key": "sudafrica:hermanus",
+      "name": "Hermanus",
+      "lat": -34.4187,
+      "lon": 19.2345
+    },
+    {
+      "key": "sudafrica:stellenbosch",
+      "name": "Stellenbosch",
+      "lat": -33.9322,
+      "lon": 18.8602
+    },
+    {
+      "key": "sudafrica:lalibela-wildlife-reserve",
+      "name": "Lalibela Wildlife Reserve",
+      "lat": -33.47,
+      "lon": 26.53
+    }
+  ],
+  "zimbabue": [
+    {
+      "key": "zimbabue:victoria-falls-zimbabwe",
+      "name": "Victoria Falls (Zimbabwe)",
+      "lat": -17.9243,
+      "lon": 25.8572
+    }
+  ],
+  "kenia": [
+    {
+      "key": "kenia:nairobi",
+      "name": "Nairobi",
+      "lat": -1.2921,
+      "lon": 36.8219
+    },
+    {
+      "key": "kenia:kenya",
+      "name": "Kenya",
+      "lat": -1.2864,
+      "lon": 36.8172
+    },
+    {
+      "key": "kenia:shaba-game-reserve",
+      "name": "Shaba Game Reserve",
+      "lat": 0.65,
+      "lon": 37.85
+    },
+    {
+      "key": "kenia:naivasha",
+      "name": "Naivasha",
+      "lat": -0.7172,
+      "lon": 36.431
+    },
+    {
+      "key": "kenia:masai-mara-national-reserve",
+      "name": "Masai Mara National Reserve",
+      "lat": -1.5,
+      "lon": 35.1
+    }
+  ],
+  "madagascar": [
+    {
+      "key": "madagascar:antananarivo",
+      "name": "Antananarivo",
+      "lat": -18.8792,
+      "lon": 47.5079
+    },
+    {
+      "key": "madagascar:morondava",
+      "name": "Morondava",
+      "lat": -20.2906,
+      "lon": 44.2997
+    },
+    {
+      "key": "madagascar:isalo",
+      "name": "Isalo",
+      "lat": -22.55,
+      "lon": 45.2833
+    },
+    {
+      "key": "madagascar:nosy-be",
+      "name": "Nosy Be",
+      "lat": -13.3128,
+      "lon": 48.2578
+    },
+    {
+      "key": "madagascar:andasibe",
+      "name": "Andasibe",
+      "lat": -18.9333,
+      "lon": 48.4167
+    }
+  ],
+  "marruecos": [
+    {
+      "key": "marruecos:marrakech",
+      "name": "Marrakech",
+      "lat": 31.6295,
+      "lon": -7.9811
+    },
+    {
+      "key": "marruecos:fez",
+      "name": "Fez",
+      "lat": 34.0181,
+      "lon": -5.0078
+    },
+    {
+      "key": "marruecos:casablanca",
+      "name": "Casablanca",
+      "lat": 33.5731,
+      "lon": -7.5898
+    },
+    {
+      "key": "marruecos:chefchaouen",
+      "name": "Chefchaouen",
+      "lat": 35.1688,
+      "lon": -5.2636
+    },
+    {
+      "key": "marruecos:essaouira",
+      "name": "Essaouira",
+      "lat": 31.5085,
+      "lon": -9.7595
+    }
+  ],
+  "mauricio": [
+    {
+      "key": "mauricio:port-louis",
+      "name": "Port Louis",
+      "lat": -20.1609,
+      "lon": 57.5012
+    },
+    {
+      "key": "mauricio:grand-baie",
+      "name": "Grand Baie",
+      "lat": -20.0131,
+      "lon": 57.5806
+    },
+    {
+      "key": "mauricio:flic-en-flac",
+      "name": "Flic en Flac",
+      "lat": -20.2833,
+      "lon": 57.3667
+    },
+    {
+      "key": "mauricio:le-morne",
+      "name": "Le Morne",
+      "lat": -20.4453,
+      "lon": 57.3236
+    },
+    {
+      "key": "mauricio:chamarel",
+      "name": "Chamarel",
+      "lat": -20.425,
+      "lon": 57.391
+    }
+  ],
+  "mozambique": [
+    {
+      "key": "mozambique:vilankulos",
+      "name": "Vilankulos",
+      "lat": -22,
+      "lon": 35.3167
+    }
+  ],
+  "namibia": [
+    {
+      "key": "namibia:windhoek",
+      "name": "Windhoek",
+      "lat": -22.5609,
+      "lon": 17.0658
+    },
+    {
+      "key": "namibia:sossusvlei",
+      "name": "Sossusvlei",
+      "lat": -24.7275,
+      "lon": 15.2993
+    },
+    {
+      "key": "namibia:swakopmund",
+      "name": "Swakopmund",
+      "lat": -22.6792,
+      "lon": 14.5272
+    },
+    {
+      "key": "namibia:kalahari-namibia",
+      "name": "Kalahari Namibia",
+      "lat": -24.5,
+      "lon": 18.5
+    },
+    {
+      "key": "namibia:fish-river-canyon",
+      "name": "Fish River Canyon",
+      "lat": -27.6,
+      "lon": 17.6
+    },
+    {
+      "key": "namibia:luderitz",
+      "name": "Luderitz",
+      "lat": -26.6481,
+      "lon": 15.1535
+    },
+    {
+      "key": "namibia:damaraland",
+      "name": "Damaraland",
+      "lat": -20.5,
+      "lon": 14.5
+    },
+    {
+      "key": "namibia:etosha-south",
+      "name": "Etosha South",
+      "lat": -19.2,
+      "lon": 16
+    }
+  ],
+  "reunion": [
+    {
+      "key": "reunion:saint-denis",
+      "name": "Saint-Denis",
+      "lat": -20.8789,
+      "lon": 55.4481
+    },
+    {
+      "key": "reunion:saint-pierre",
+      "name": "Saint-Pierre",
+      "lat": -21.3393,
+      "lon": 55.4781
+    },
+    {
+      "key": "reunion:cilaos",
+      "name": "Cilaos",
+      "lat": -21.1333,
+      "lon": 55.4667
+    },
+    {
+      "key": "reunion:salazie",
+      "name": "Salazie",
+      "lat": -21.0333,
+      "lon": 55.5333
+    },
+    {
+      "key": "reunion:piton-de-la-fournaise",
+      "name": "Piton de la Fournaise",
+      "lat": -21.2442,
+      "lon": 55.7081
+    }
+  ],
+  "seychelles": [
+    {
+      "key": "seychelles:mahe-island",
+      "name": "Mahe",
+      "lat": -4.6796,
+      "lon": 55.452
+    }
+  ],
+  "tanzania": [
+    {
+      "key": "tanzania:karatu",
+      "name": "Karatu",
+      "lat": -3.3476,
+      "lon": 35.6761
+    },
+    {
+      "key": "tanzania:zanzibar",
+      "name": "Zanzibar",
+      "lat": -6.1659,
+      "lon": 39.1988
+    },
+    {
+      "key": "tanzania:arusha",
+      "name": "Arusha",
+      "lat": -3.3869,
+      "lon": 36.683
+    },
+    {
+      "key": "tanzania:lake-burunge",
+      "name": "Lake Burunge",
+      "lat": -3.6,
+      "lon": 35.83
+    },
+    {
+      "key": "tanzania:serengeti-national-park",
+      "name": "Serengeti National Park",
+      "lat": -2.3333,
+      "lon": 34.8333
+    },
+    {
+      "key": "tanzania:serengeti-western-corridor",
+      "name": "Serengeti Western Corridor",
+      "lat": -2.2,
+      "lon": 34.1
+    }
+  ],
+  "uganda": [
+    {
+      "key": "uganda:entebbe",
+      "name": "Entebbe",
+      "lat": 0.0512,
+      "lon": 32.4637
+    },
+    {
+      "key": "uganda:bwindi-impenetrable-forest-national-park",
+      "name": "Bwindi Impenetrable Forest National Park",
+      "lat": -1,
+      "lon": 29.6
+    },
+    {
+      "key": "uganda:kampala",
+      "name": "Kampala",
+      "lat": 0.3476,
+      "lon": 32.5825
+    },
+    {
+      "key": "uganda:murchison-falls-national-park",
+      "name": "Murchison Falls National Park",
+      "lat": 2.2833,
+      "lon": 31.6833
+    },
+    {
+      "key": "uganda:bugoma-central-forest-reserve",
+      "name": "Bugoma Central Forest Reserve",
+      "lat": 1.42,
+      "lon": 31.05
+    },
+    {
+      "key": "uganda:northern-queen-elizabeth-national-park",
+      "name": "Northern Queen Elizabeth National Park",
+      "lat": 0.2,
+      "lon": 30
+    },
+    {
+      "key": "uganda:southern-queen-elizabeth-national-park",
+      "name": "Southern Queen Elizabeth National Park",
+      "lat": -0.2,
+      "lon": 30
+    }
+  ],
+  "zambia": [
+    {
+      "key": "zambia:lusaka",
+      "name": "Lusaka",
+      "lat": -15.3875,
+      "lon": 28.3228
+    },
+    {
+      "key": "zambia:south-luangwa",
+      "name": "South Luangwa",
+      "lat": -13.1333,
+      "lon": 31.7833
+    }
+  ],
+  "japan": [
+    {
+      "key": "japan:osaka",
+      "name": "Osaka",
+      "lat": 34.6937,
+      "lon": 135.5023
+    },
+    {
+      "key": "japan:kyoto",
+      "name": "Kyoto",
+      "lat": 35.0116,
+      "lon": 135.7681
+    },
+    {
+      "key": "japan:tokyo",
+      "name": "Tokyo",
+      "lat": 35.6762,
+      "lon": 139.6503
+    },
+    {
+      "key": "japan:hiroshima",
+      "name": "Hiroshima",
+      "lat": 34.3853,
+      "lon": 132.4553
+    },
+    {
+      "key": "japan:miyajima-island",
+      "name": "Miyajima",
+      "lat": 34.2961,
+      "lon": 132.3196
+    }
+  ]
+}

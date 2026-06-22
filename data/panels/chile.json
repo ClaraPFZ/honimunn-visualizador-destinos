@@ -1,0 +1,202 @@
+{
+  "chile:santiago": {
+    "name": "Santiago",
+    "eyebrow": "14 - 15",
+    "sub": "Como se describió previamente…",
+    "continent": null,
+    "country": "chile",
+    "items": [
+      {
+        "n": "01",
+        "t": "Dónde dormir",
+        "d": "Ubicado en el corazón de Santiago de Chile, el Olá Santiago Providencia Tapestry Collection by Hilton ofrece un alojamiento confortable cerca de lugares de interés como el Museo Nacional de Bellas Artes de Chile, la Catedral Metropolitana de Santiago y el Museo Precolombino.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/293654/sclpv-bar.jpg"
+      },
+      {
+        "n": "02",
+        "t": "Qué ver y hacer",
+        "d": "Descubrid Santiago con calma, en profundidad y con tiempo para disfrutarlo en pareja.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/24684/1740556050761_shutterstock_1719568279.jpg"
+      },
+      {
+        "n": "03",
+        "t": "Entorno y paisaje",
+        "d": "Descubrid Santiago con calma, en profundidad y con tiempo para disfrutarlo en pareja.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/24684/1740556050759_shutterstock_2566138733.jpg"
+      },
+      {
+        "n": "04",
+        "t": "Gastronomía y barrios",
+        "d": "Descubrid Santiago con calma, en profundidad y con tiempo para disfrutarlo en pareja.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/293654/sclpv-bar.jpg"
+      },
+      {
+        "n": "05",
+        "t": "Tu estancia Honimunn",
+        "d": "Itinerario privado diseñado a medida por vuestro Honimunn Planner, sin prisas ni grupos aglomerados.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/293654/sclpv-pool.jpg"
+      }
+    ],
+    "cover": "https://destino.honimunn.com/ImageHandler/c1200x800/24684/1740556027940_shutterstock_351005027.jpg"
+  },
+  "chile:san-pedro-de-atacama": {
+    "name": "San Pedro de Atacama",
+    "eyebrow": "4 - 7",
+    "sub": "La pequeña ciudad de San Pedro de Atacama es un oasis pintoresco en el desierto de Atacama, rodeado por los imponentes picos volcánicos del altiplano chileno y situado cerca de varios de los principales atractivos arqueológicos y naturales.",
+    "continent": null,
+    "country": "chile",
+    "items": [
+      {
+        "n": "01",
+        "t": "Naturaleza salvaje",
+        "d": "La pequeña ciudad de San Pedro de Atacama es un oasis pintoresco en el desierto de Atacama, rodeado por los imponentes picos volcánicos del altiplano chileno y situado cerca de varios de los principales atractivos arqueológicos y naturales.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/24699/san_pedro_de_atacama_-_jess_kraft-_shutterstock_231490438.jpg"
+      },
+      {
+        "n": "02",
+        "t": "Qué ver y hacer",
+        "d": "Los fascinantes sitios antiguos de Tulor y Quitor, el cautivador Salar de Atacama, las asombrosas lagunas altiplánicas turquesas y los géiseres Tatio de otro mundo se encuentran cerca y, como resultado, el pueblo se ha convertido en un importante destino turístico.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/24699/san_pedro_de_atacama_-_jiann-_shutterstock_1083002042.jpg"
+      },
+      {
+        "n": "03",
+        "t": "Gastronomía local",
+        "d": "A pesar de su pequeño tamaño, abarca una amplia gama de restaurantes; sin embargo, también es conocida por su «sensación occidental» y conserva el encanto del viejo mundo.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/24699/san_pedro_de_atacama_-marcus_2020-_shutterstock_1787902160.jpg"
+      },
+      {
+        "n": "04",
+        "t": "Patrimonio e historia",
+        "d": "Los entusiastas de la historia disfrutarán de una visita a la atmosférica Iglesia San Pedro del siglo XVII.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/114960/1767364003007slidekimal1.jpg"
+      },
+      {
+        "n": "05",
+        "t": "Dónde dormir",
+        "d": "El Hotel Kimal tiene una ubicación ideal en el centro histórico de San Pedro de Atacama, Chile.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/114960/1767364003007slidekimal1.jpg"
+      }
+    ],
+    "cover": "https://destino.honimunn.com/ImageHandler/c1200x800/24699/san_pedro_de_atacama_-_jess_kraft-_shutterstock_231490438.jpg"
+  },
+  "chile:punta-arenas": {
+    "name": "Punta Arenas",
+    "eyebrow": "8 - 10",
+    "sub": "Ubicada cerca de la punta de la región sur de la Patagonia de Chile, Punta Arenas es la ciudad continental más austral del mundo.",
+    "continent": null,
+    "country": "chile",
+    "items": [
+      {
+        "n": "01",
+        "t": "Vida urbana",
+        "d": "Ubicada cerca de la punta de la región sur de la Patagonia de Chile, Punta Arenas es la ciudad continental más austral del mundo.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/24694/punta_arenas_-ondrej_bucek-_istock-1308442775.jpg"
+      },
+      {
+        "n": "02",
+        "t": "Qué ver y hacer",
+        "d": "Situado en el estrecho de Magallanes, es mejor conocido como punto de partida para viajes a la Antártida y otros viajes bioceánicos.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/24694/punta_arenas_-sunsinger-_shutterstock_279568844.jpg"
+      },
+      {
+        "n": "03",
+        "t": "Entorno y paisaje",
+        "d": "Los encantos, la historia, las compras libres de impuestos, los buenos servicios para los viajeros y la hospitalidad de la ciudad la convierten en un destino popular por derecho propio.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/24694/punta_arenas_-oversnap-_istock-629809184.jpg"
+      },
+      {
+        "n": "04",
+        "t": "Patrimonio e historia",
+        "d": "Tiene mucho que ofrecer a modo de historia: visite el Museo Salesiano Mayorino Borgatello, el Monumento a los Pastores Monumento al Ovejero y el Instituto Patagonia.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/49521/1768546701818screenshot-2026-01-16-085709.png"
+      },
+      {
+        "n": "05",
+        "t": "Dónde dormir",
+        "d": "El Almasur Hotel Punta Arenas tiene una ubicación ideal cerca de la plaza principal de la ciudad, las tiendas y los restaurantes, por lo que es una base perfecta para explorar la Patagonia.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/49521/1768546701818screenshot-2026-01-16-085709.png"
+      }
+    ],
+    "cover": "https://destino.honimunn.com/ImageHandler/c1200x800/24694/punta_arenas_-ondrej_bucek-_istock-1308442775.jpg"
+  },
+  "chile:puerto-natales": {
+    "name": "Puerto Natales",
+    "eyebrow": "11 - 14",
+    "sub": "Este antiguo puerto pesquero, situado en la región patagónica del sur chileno, se ha convertido en un paraíso turístico.",
+    "continent": null,
+    "country": "chile",
+    "items": [
+      {
+        "n": "01",
+        "t": "Lo esencial",
+        "d": "Este antiguo puerto pesquero, situado en la región patagónica del sur chileno, se ha convertido en un paraíso turístico.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/24773/puerto_natales-istock-693884070.jpg"
+      },
+      {
+        "n": "02",
+        "t": "Gastronomía local",
+        "d": "Esta ciudad de moda ofrece cervezas boutique, catas de vino y tiendas de marcas famosas que atienden al conjunto internacional, pero no ha perdido nada de su ritmo relajado en el proceso.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/24773/puerto_natales-istock-1079670046.jpg"
+      },
+      {
+        "n": "03",
+        "t": "Patrimonio e historia",
+        "d": "Desde Puerto Natales, los visitantes pueden hacer un viaje al Parque Nacional Torres del Paine con sus impresionantes formaciones rocosas y campo de hielo (el tercero más grande del mundo); viajar en ferry a través de los fiordos chilenos; o visitar las cuevas prehistóricas del Monumento Natural Cueva del Milodón (donde los restos de la pereza tierra gigante se encontraron en 1895).",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/24773/puerto_natales-istock-1247787402.jpg"
+      },
+      {
+        "n": "04",
+        "t": "Dónde dormir",
+        "d": "El Hotel Vendaval está ubicado en el barrio gastronómico de Puerto Natales, a solo tres cuadras del paseo marítimo y cerca de la plaza principal.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/126464/1765967180670upscalemedia-transformed.jpeg"
+      },
+      {
+        "n": "05",
+        "t": "Tu estancia Honimunn",
+        "d": "Itinerario privado diseñado a medida por vuestro Honimunn Planner, sin prisas ni grupos aglomerados.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/126464/1765967180651dsc8155b.png"
+      }
+    ],
+    "cover": "https://destino.honimunn.com/ImageHandler/c1200x800/24773/puerto_natales-istock-693884070.jpg"
+  },
+  "chile:puerto-varas": {
+    "name": "Puerto Varas",
+    "eyebrow": "8 - 11",
+    "sub": "Situado a orillas del vasto lago Llanquihue, en Chileno, el pintoresco Puerto Varas es conocido por su impresionante paisaje natural, su arquitectura tradicional de estilo aleman y su excelente oferta de alojamiento.",
+    "continent": null,
+    "country": "chile",
+    "items": [
+      {
+        "n": "01",
+        "t": "Naturaleza salvaje",
+        "d": "Situado a orillas del vasto lago Llanquihue, en Chileno, el pintoresco Puerto Varas es conocido por su impresionante paisaje natural, su arquitectura tradicional de estilo aleman y su excelente oferta de alojamiento.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/24690/puerto_varas-shutterstock-727927378.jpg"
+      },
+      {
+        "n": "02",
+        "t": "Qué ver y hacer",
+        "d": "La ciudad ofrece increíbles vistas de los volcanes nevados pero activos de Osorno y Calbuco y magníficas cascadas del lago.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/24690/puerto_varas-istock-1068849530.jpg"
+      },
+      {
+        "n": "03",
+        "t": "Entorno y paisaje",
+        "d": "El Parque Nacional Alerce Andino, en la cordillera de los Andes al sur, ofrece otro mundo para explorar cerca, con exuberantes bosques verdes perfectos para practicar senderismo y aguas azules turquesa ideales para hacer piragüismo.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/24690/puerto_varas-istock-1269311401.jpg"
+      },
+      {
+        "n": "04",
+        "t": "Gastronomía local",
+        "d": "Muchas familias alemanas se asentaron en esta ciudad del sur de Chileno a finales del siglo XIX y sus influencias siguen siendo evidentes en la arquitectura local, la cocina y las tradiciones actuales.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/49518/suite2.jpg"
+      },
+      {
+        "n": "05",
+        "t": "Dónde dormir",
+        "d": "Ubicado en la ciudad de Puerto Varas y diseñado especialmente para aquellos que han llegado a maravillarse con el Volcán Osorno, la arquitectura tradicional alemana o la magnitud del lago Llanquihue.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/49518/suite2.jpg"
+      }
+    ],
+    "cover": "https://destino.honimunn.com/ImageHandler/c1200x800/24690/puerto_varas-shutterstock-727927378.jpg"
+  }
+}

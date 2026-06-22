@@ -1,0 +1,282 @@
+{
+  "tailandia:thailand": {
+    "name": "Thailand",
+    "eyebrow": "Destino Honimunn",
+    "sub": "Conocida con cariño como “la tierra de las sonrisas”, Tailandia se asocia comúnmente con una hermosa arena dorada, playas bordeadas de palmeras, cálidas aguas aguamarinas, gloriosos templos y verdes montañas cubiertas de selvas.",
+    "continent": null,
+    "country": "tailandia",
+    "items": [
+      {
+        "n": "01",
+        "t": "Playas e islas",
+        "d": "Conocida con cariño como “la tierra de las sonrisas”, Tailandia se asocia comúnmente con una hermosa arena dorada, playas bordeadas de palmeras, cálidas aguas aguamarinas, gloriosos templos y verdes montañas cubiertas de selvas.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/24265/bangkok_-nukul2533-_istock-1184272835.jpg"
+      },
+      {
+        "n": "02",
+        "t": "Qué ver y hacer",
+        "d": "Con dieciséis millones de extranjeros volando al país cada año, Tailandia es el principal centro de viajes del sudeste de Asia, ofreciendo una amplia gama de atracciones y actividades para todos los gustos y presupuestos.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/24265/bangkok_-nukul2533-_istock-1184272835.jpg"
+      },
+      {
+        "n": "03",
+        "t": "Entorno y paisaje",
+        "d": "Ya sea explorando la bulliciosa metrópolis de Bangkok, relajándose en las playas tropicales de las islas del sur, buceando en el maravilloso país submarino frente a la costa de Koh Tao, trekking en la selva en el norte o descubriendo las antiguas ciudades de Chiang Mai, Tailandia está llena de atracciones para satisfacer cualquier interés.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/24265/bangkok_-nukul2533-_istock-1184272835.jpg"
+      },
+      {
+        "n": "04",
+        "t": "Dónde dormir",
+        "d": "Hoteles boutique y propiedades con encanto, elegidos por nuestros planners.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/24265/bangkok_-nukul2533-_istock-1184272835.jpg"
+      },
+      {
+        "n": "05",
+        "t": "Tu estancia Honimunn",
+        "d": "Itinerario privado diseñado a medida por vuestro Honimunn Planner, sin prisas ni grupos aglomerados.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/24265/bangkok_-nukul2533-_istock-1184272835.jpg"
+      }
+    ],
+    "cover": "https://destino.honimunn.com/ImageHandler/c1200x800/24265/bangkok_-nukul2533-_istock-1184272835.jpg"
+  },
+  "tailandia:bangkok": {
+    "name": "Bangkok",
+    "eyebrow": "2 - 5",
+    "sub": "Vaporosa, frenética y emocionante, la capital de Tailandia, ubicada en el delta del río Chao Phraya, es un destino turístico legendario.",
+    "continent": null,
+    "country": "tailandia",
+    "items": [
+      {
+        "n": "01",
+        "t": "Vida urbana",
+        "d": "Vaporosa, frenética y emocionante, la capital de Tailandia, ubicada en el delta del río Chao Phraya, es un destino turístico legendario.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/24265/bangkok_-nukul2533-_istock-1184272835.jpg"
+      },
+      {
+        "n": "02",
+        "t": "Cultura viva",
+        "d": "Esta metrópolis es igualmente famosa por su rica oferta cultural, su efervescente vida nocturna, sus excelentes tiendas y sus diversas opciones gastronómicas.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/24265/bangkok_-wit88_-_istock-637157838.jpg"
+      },
+      {
+        "n": "03",
+        "t": "Patrimonio e historia",
+        "d": "Los artículos de la lista de deseos incluyen una visita al alucinante Buda reclinado en Wat Pho, un paseo en barco matutino por los canales para sumergirse en los mercados flotantes y un paseo por el opulento Gran Palacio.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/24265/bangkok_-mantaphoto-_istock-684774510.jpg"
+      },
+      {
+        "n": "04",
+        "t": "Gastronomía local",
+        "d": "El centro turístico de Khaosan Road, el MBK Centre, Siam Square o los fines de semana, el vasto mercado de Chatuchak, ofrecen excelentes oportunidades de compra, mientras que los restaurantes abarcan todos los estilos, desde la increíble comida callejera hasta la alta cocina de cinco estrellas.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/57449/1.jpg"
+      },
+      {
+        "n": "05",
+        "t": "Dónde dormir",
+        "d": "El Mode Sathorn Hotel es uno de los hoteles de negocios con más clase de Bangkok, con una amplia variedad de opciones de compras, entretenimiento y áreas comerciales y culturales en las cercanías.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/57449/1.jpg"
+      }
+    ],
+    "cover": "https://destino.honimunn.com/ImageHandler/c1200x800/24265/bangkok_-nukul2533-_istock-1184272835.jpg"
+  },
+  "tailandia:ayutthaya": {
+    "name": "Ayutthaya",
+    "eyebrow": "4 - 5",
+    "sub": "Ayuttaha, situada a unos 80 kilómetros al norte de Bangkok, sustituyó a Sukothai como capital del reino siamés en el siglo XII y es el sitio de algunas ruinas históricas espectaculares.",
+    "continent": null,
+    "country": "tailandia",
+    "items": [
+      {
+        "n": "01",
+        "t": "Patrimonio e historia",
+        "d": "Ayuttaha, situada a unos 80 kilómetros al norte de Bangkok, sustituyó a Sukothai como capital del reino siamés en el siglo XII y es el sitio de algunas ruinas históricas espectaculares.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/24285/ayutthaya-istock-1328781623.jpg"
+      },
+      {
+        "n": "02",
+        "t": "Vida urbana",
+        "d": "A lo largo de los siglos, la ciudad creció y prosperó, ganándose el apodo de «Venecia del Este» antes de caer en manos de los birmanos en 1767.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/24285/ayutthaya-istock-172425492.jpg"
+      },
+      {
+        "n": "03",
+        "t": "Entorno y paisaje",
+        "d": "El Parque Histórico de Ayutthaya abarca los antiguos restos de monasterios ornamentados y torres religiosas que definieron la ciudad en su apogeo.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/24285/ayutthaya-istock-609836326.jpg"
+      },
+      {
+        "n": "04",
+        "t": "Gastronomía y barrios",
+        "d": "Este sitio arqueológico es la atracción más llamativa de la ciudad y es Patrimonio de la Humanidad de la UNESCO, pero para aquellos que eligen quedarse un rato, la sección más moderna de la ciudad también tiene sus propios encantos, incluidos opulentos templos budistas, pintorescos asentamientos coloniales antiguos y varios mercados que sirven excelentes locales cocina.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/163004/1733838442230_1.jpg"
+      },
+      {
+        "n": "05",
+        "t": "Dónde dormir",
+        "d": "O Kantary Hotel Ayutthaya está localizado em Ayutthaya.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/163004/1733838442230_1.jpg"
+      }
+    ],
+    "cover": "https://destino.honimunn.com/ImageHandler/c1200x800/24285/ayutthaya-istock-1328781623.jpg"
+  },
+  "tailandia:sukhothai": {
+    "name": "Sukhothai",
+    "eyebrow": "5 - 6",
+    "sub": "Uno de los sitios históricos más sagrados de Tailandia, Sukhothai fue una vez la capital del reino más amplio de Sukhothai, que floreció en los siglos XIII y XIV.",
+    "continent": null,
+    "country": "tailandia",
+    "items": [
+      {
+        "n": "01",
+        "t": "Patrimonio e historia",
+        "d": "Uno de los sitios históricos más sagrados de Tailandia, Sukhothai fue una vez la capital del reino más amplio de Sukhothai, que floreció en los siglos XIII y XIV.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/47199/sukhothai-shutterstock-1753873217.jpg"
+      },
+      {
+        "n": "02",
+        "t": "Naturaleza salvaje",
+        "d": "Aunque la ciudad vieja cayó en ruinas después de su desierto en el siglo XVI, desde entonces ha sido restaurada y es considerada uno de los ejemplos más importantes del arte y la arquitectura religiosos antiguos siameses.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/47199/sukhothai-shutterstock-1171796353.jpg"
+      },
+      {
+        "n": "03",
+        "t": "Entorno y paisaje",
+        "d": "Un sitio designado Patrimonio de la Humanidad, se encuentra a 12 km de la ciudad de New Sukothai y es la atracción más destacada de la zona, con una serie de impresionantes estatuas decorativas de Buda, torres, chedis y templos.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/47199/sukhothai-istock-1347659218.jpg"
+      },
+      {
+        "n": "04",
+        "t": "Gastronomía y barrios",
+        "d": "Otros puntos de interés cercanos incluyen dos hermosos parques nacionales y el Museo Nacional Ramkhamhaeng.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/124887/1753272397946_6.jpg"
+      },
+      {
+        "n": "05",
+        "t": "Dónde dormir",
+        "d": "Ubicado en campos de arroz y rodeado de montañas, el Sukhothai Treasure Resort ofrece la ubicación ideal para explorar maravillas culturales y naturales.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/124887/1753272397946_6.jpg"
+      }
+    ],
+    "cover": "https://destino.honimunn.com/ImageHandler/c1200x800/47199/sukhothai-shutterstock-1753873217.jpg"
+  },
+  "tailandia:chiang-rai": {
+    "name": "Chiang Rai",
+    "eyebrow": "5 - 6",
+    "sub": "Esta encantadora y tranquila ciudad es la alternativa más relajada a la bulliciosa Chiang Mai y la capital de\nProvincia de Chiang Rai.",
+    "continent": null,
+    "country": "tailandia",
+    "items": [
+      {
+        "n": "01",
+        "t": "Vida urbana",
+        "d": "Esta encantadora y tranquila ciudad es la alternativa más relajada a la bulliciosa Chiang Mai y la capital de Provincia de Chiang Rai.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/42580/chiang_rai_-kriengsak_wiriyakrieng-_shutterstock_1077692195.jpg"
+      },
+      {
+        "n": "02",
+        "t": "Patrimonio e historia",
+        "d": "Además de su ritmo increíblemente lento, la amabilidad de los lugareños y el hermoso entorno en medio de las ondulantes colinas cubiertas de selva tropical, Chiang Rai también incluye un tesoro de joyas culturales e históricas.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/42580/chiang_rai_-gan_chaonan-_istock-1334833803.jpg"
+      },
+      {
+        "n": "03",
+        "t": "Entorno y paisaje",
+        "d": "No te pierdas una visita a Wat Rong Khun, «The White Temple», un punto culminante arquitectónico contemporáneo con una fachada exquisitamente ornamentada de color nieve, o al histórico Wat Phra Sin, con su interior tradicional de estilo Lanná.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/42580/chiang_rai_-nuttachai_wantanaboon-_shutterstock_1516423637.jpg"
+      },
+      {
+        "n": "04",
+        "t": "Gastronomía y barrios",
+        "d": "También hay varios museos interesantes para explorar, como el peculiar Museo Oub Kham, con su colección de reliquias históricas fascinantes y a menudo extrañas de la región de Lanna; y el Museo y Centro Educativo Hilltribe, que ofrece una excelente visión de las diversas etnias de las tribus de las colinas en la zona.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/91444/homepage1-3.jpeg"
+      },
+      {
+        "n": "05",
+        "t": "Dónde dormir",
+        "d": "Heritage Chiang Rai Hotel and Convention es un hotel de lujo ubicado en Chiang Rai, Tailandia.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/91444/homepage1-3.jpeg"
+      }
+    ],
+    "cover": "https://destino.honimunn.com/ImageHandler/c1200x800/42580/chiang_rai_-kriengsak_wiriyakrieng-_shutterstock_1077692195.jpg"
+  },
+  "tailandia:chiang-mai": {
+    "name": "Chiang Mai",
+    "eyebrow": "6 - 8",
+    "sub": "Llamada 'La Rosa del Norte', la capital del norte de Tailandia es mucho más pequeña y más serena que Bangkok.",
+    "continent": null,
+    "country": "tailandia",
+    "items": [
+      {
+        "n": "01",
+        "t": "Vida urbana",
+        "d": "Llamada 'La Rosa del Norte', la capital del norte de Tailandia es mucho más pequeña y más serena que Bangkok.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/42578/chiang_mai-istock-622780072.jpg"
+      },
+      {
+        "n": "02",
+        "t": "Gastronomía local",
+        "d": "A pesar de esto, la ciudad ha visto un desarrollo extenso en la última década que la ha transformado de una ciudad discreta y del viejo mundo en un centro moderno, con restaurantes de primera categoría y hoteles de cinco estrellas.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/42578/chiang_mai-istock-1279355343.jpg"
+      },
+      {
+        "n": "03",
+        "t": "Patrimonio e historia",
+        "d": "Un paseo por el foso del centro de la ciudad le llevará a través de la variedad de templos brillantes, mercados de alimentos aromáticos y tiendas eclécticas del centro de Chiang Mai, mientras que a solo cinco minutos se encuentra el popular Bazar Nocturno, una meca de las compras para los turistas.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/42578/chiang_mai-istock-685734242.jpg"
+      },
+      {
+        "n": "04",
+        "t": "Gastronomía y barrios",
+        "d": "Otras atracciones destacadas incluyen una visita al moderno distrito de Nimmanhemin, con sus bares y tiendas de lujo, y un viaje por la montaña Suthep, para ver el templo de la cima de una colina y disfrutar de las vistas panorámicas de la ciudad más abajo.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/138664/cross-vibe-chiang-mai-decem-vertical-garden-swimming-pool-2880w.jpg"
+      },
+      {
+        "n": "05",
+        "t": "Dónde dormir",
+        "d": "El Cross Vibe Chiang Mai Decem es un animado hotel de retiro ubicado en Nimman, Chiang Mai.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/138664/cross-vibe-chiang-mai-decem-vertical-garden-swimming-pool-2880w.jpg"
+      }
+    ],
+    "cover": "https://destino.honimunn.com/ImageHandler/c1200x800/42578/chiang_mai-istock-622780072.jpg"
+  },
+  "tailandia:krabi": {
+    "name": "Krabi",
+    "eyebrow": "8 - 12",
+    "sub": "Krabi es la capital de la provincia de Krabi, situada en una desembocadura del río en el mar de Andamán.",
+    "continent": null,
+    "country": "tailandia",
+    "items": [
+      {
+        "n": "01",
+        "t": "Playas e islas",
+        "d": "Krabi es la capital de la provincia de Krabi, situada en una desembocadura del río en el mar de Andamán.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/47197/krabi-istock-1337781063.jpg"
+      },
+      {
+        "n": "02",
+        "t": "Gastronomía local",
+        "d": "El bullicioso pueblo pesquero cuenta con un colorido mercado nocturno de fin de semana y muchos bares, restaurantes y discotecas.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/47197/krabi-shutterstock-1095373292.jpg"
+      },
+      {
+        "n": "03",
+        "t": "Entorno y paisaje",
+        "d": "Krabi es el punto de partida de algunos de los destinos costeros más bellos de la provincia, como Ton Sai, Railay Beach y Phi Phi Island.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/47197/krabi-shutterstock-1854185461.jpg"
+      },
+      {
+        "n": "04",
+        "t": "Gastronomía y barrios",
+        "d": "El paisaje de estos lugares se caracteriza por aguas turquesas y sorprendentes karsts de piedra caliza que sobresalen del océano.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/95791/11.jpg"
+      },
+      {
+        "n": "05",
+        "t": "Dónde dormir",
+        "d": "El Tup Kaek Sunset Beach Resort, ubicado entre el océano y una exuberante vegetación tropical, ofrece alojamiento en Muang Krabi.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/95791/11.jpg"
+      }
+    ],
+    "cover": "https://destino.honimunn.com/ImageHandler/c1200x800/47197/krabi-istock-1337781063.jpg"
+  }
+}

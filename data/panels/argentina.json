@@ -1,0 +1,162 @@
+{
+  "argentina:buenos-aires": {
+    "name": "Buenos Aires",
+    "eyebrow": "2 - 5",
+    "sub": "Situada en la impresionante costa argentina de Río de la Plata, Buenos Aires es una próspera capital costera definida por una rica historia, una cultura vibrante y una fuerte influencia europea, así apodada París de Sudamérica.",
+    "continent": null,
+    "country": "argentina",
+    "items": [
+      {
+        "n": "01",
+        "t": "Playas e islas",
+        "d": "Situada en la impresionante costa argentina de Río de la Plata, Buenos Aires es una próspera capital costera definida por una rica historia, una cultura vibrante y una fuerte influencia europea, así apodada París de Sudamérica.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/25199/buenos_aires-shutterstock-1158321607.jpg"
+      },
+      {
+        "n": "02",
+        "t": "Patrimonio e historia",
+        "d": "Innumerables museos que cubren una cornucopia de temas; una cultura teatral activa; buffets carnívoros insuperables; actuaciones sensuales de tango; un mosaico de arquitectura; y tiendas que se adaptan a todas las fantasías; todas estas facetas y más conforman la seductora mezcla que es Buenos Aires.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/25199/buenos_aires-shutterstock-1127908982.jpg"
+      },
+      {
+        "n": "03",
+        "t": "Entorno y paisaje",
+        "d": "Algunos de los aspectos más destacados de la ciudad incluyen el bullicio del estadio La Bombonera; lugares de tango y milonga como la Bohemia La Catedral; y arquitectura patrimonial como la del Cementerio de la Recoleta, donde los visitantes pueden pasear por una «ciudad» de enormes estatuas y mausoleos de mármol.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/25199/buenos_aires-shutterstock-788229967.jpg"
+      },
+      {
+        "n": "04",
+        "t": "Cultura viva",
+        "d": "No te pierdas el Festival Internacional de Cine Independiente y el vibrante Pride Parade anual.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/241552/11.jpg"
+      },
+      {
+        "n": "05",
+        "t": "Dónde dormir",
+        "d": "El Hotel Libertador está idealmente ubicado en el corazón del centro de Buenos Aires, Argentina, con tiendas, restaurantes, tabernas y transporte público a poca distancia de la propiedad.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/241552/11.jpg"
+      }
+    ],
+    "cover": "https://destino.honimunn.com/ImageHandler/c1200x800/25199/buenos_aires-shutterstock-1158321607.jpg"
+  },
+  "argentina:ushuaia": {
+    "name": "Ushuaia",
+    "eyebrow": "5 - 7",
+    "sub": "Ushuaia, ampliamente considerada la ciudad más meridional del mundo, es un destino sorprendentemente hermoso en la costa sur de la isla Tierra del Fuego, respaldado por montañas y mirando hacia el canal Beagle.",
+    "continent": null,
+    "country": "argentina",
+    "items": [
+      {
+        "n": "01",
+        "t": "Playas e islas",
+        "d": "Ushuaia, ampliamente considerada la ciudad más meridional del mundo, es un destino sorprendentemente hermoso en la costa sur de la isla Tierra del Fuego, respaldado por montañas y mirando hacia el canal Beagle.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/25591/ushuaia_-saiko3p-_shutterstock_599715596.jpg"
+      },
+      {
+        "n": "02",
+        "t": "Vida urbana",
+        "d": "El elegante centro comercial de la ciudad ofrece una gran variedad de actividades culturales y de entretenimiento, mientras que su ubicación natural hace que los amantes de la aventura sean mimados para elegir, como kayak, esquí, senderismo y vela.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/25591/ushuaia_-gonzalo_buzonni-_shutterstock_1398348077.jpg"
+      },
+      {
+        "n": "03",
+        "t": "Entorno y paisaje",
+        "d": "Para una excursión más serena, los cruceros en barco son una forma popular de ver el glaciar frente a la costa de Ushuaia.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/25591/ushuaia_-elleon-_shutterstock_1530749858.jpg"
+      },
+      {
+        "n": "04",
+        "t": "Dónde dormir",
+        "d": "El Hotel Albatros ofrece habitaciones elegantes con conexión Wi-Fi gratuita a solo 280 metros del puerto de Ushuaia.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/48549/176397183919938.png"
+      },
+      {
+        "n": "05",
+        "t": "Tu estancia Honimunn",
+        "d": "Itinerario privado diseñado a medida por vuestro Honimunn Planner, sin prisas ni grupos aglomerados.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/48549/176397183920037.png"
+      }
+    ],
+    "cover": "https://destino.honimunn.com/ImageHandler/c1200x800/25591/ushuaia_-saiko3p-_shutterstock_599715596.jpg"
+  },
+  "argentina:el-calafate": {
+    "name": "El Calafate",
+    "eyebrow": "7 - 10",
+    "sub": "Situado en lo profundo de las vistas nevadas de la Patagonia, en la orilla sur del lago Argentino, El Calafate se ha convertido en una escala clave para los viajeros que se dirigen al cercano Parque Nacional Los Glaciares.",
+    "continent": null,
+    "country": "argentina",
+    "items": [
+      {
+        "n": "01",
+        "t": "Naturaleza salvaje",
+        "d": "Situado en lo profundo de las vistas nevadas de la Patagonia, en la orilla sur del lago Argentino, El Calafate se ha convertido en una escala clave para los viajeros que se dirigen al cercano Parque Nacional Los Glaciares.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/25142/el_calafate_-_sharptoyou-_shutterstock_441016183.jpg"
+      },
+      {
+        "n": "02",
+        "t": "Qué ver y hacer",
+        "d": "Este país de las maravillas helado es mejor conocido como el hogar del espectacular glaciar Perito Moreno, una enorme capa de hielo cambiante compuesta por docenas de glaciares más pequeños.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/25142/el_calafate_-mark_green-_shutterstock_551489233.jpg"
+      },
+      {
+        "n": "03",
+        "t": "Patrimonio e historia",
+        "d": "Realice un recorrido por los glaciares, un paseo en helicóptero o una excursión en 4x4; caminata y navegue hasta su corazón; o visite uno de los ranchos tradicionales (estancias) para obtener más información sobre la cultura local (otro gran lugar para esto es el Centro de Interpretacíon Histórico).",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/25142/el_calafate_-natkom-_shutterstock_425712442.jpg"
+      },
+      {
+        "n": "04",
+        "t": "Gastronomía local",
+        "d": "Una maravillosa selección de restaurantes y boutiques añade atractivo; asegúrate de probar las galletas «alfajores».",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/47505/21.jpg"
+      },
+      {
+        "n": "05",
+        "t": "Dónde dormir",
+        "d": "Pararse frente al glaciar sobrepasa los sentidos y levanta el espíritu.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/47505/21.jpg"
+      }
+    ],
+    "cover": "https://destino.honimunn.com/ImageHandler/c1200x800/25142/el_calafate_-_sharptoyou-_shutterstock_441016183.jpg"
+  },
+  "argentina:puerto-iguazu": {
+    "name": "Puerto Iguazu",
+    "eyebrow": "10 - 13",
+    "sub": "Descansando en la confluencia de los ríos Paraná e Iguazú, Puerto Iguazú es una encantadora ciudad turística que sirve como puerta de entrada a las Cataratas del Iguazú en el lado argentino de la frontera.",
+    "continent": null,
+    "country": "argentina",
+    "items": [
+      {
+        "n": "01",
+        "t": "Vida urbana",
+        "d": "Descansando en la confluencia de los ríos Paraná e Iguazú, Puerto Iguazú es una encantadora ciudad turística que sirve como puerta de entrada a las Cataratas del Iguazú en el lado argentino de la frontera.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/24553/puerto_iguazu-shutterstock-1194102475.jpg"
+      },
+      {
+        "n": "02",
+        "t": "Naturaleza salvaje",
+        "d": "Está rodeado de un paisaje rocoso rojo intercalado con un bosque verde habitado por abundante vida silvestre.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/24553/puerto_iguazu-istock-1140413133.jpg"
+      },
+      {
+        "n": "03",
+        "t": "Entorno y paisaje",
+        "d": "La ciudad es un popular destino turístico y atrae a visitantes de todo el mundo a visitar el Parque Nacional del Iguazú y sus impresionantes cascadas.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/24553/puerto_iguazu-istock-1320268423.jpg"
+      },
+      {
+        "n": "04",
+        "t": "Gastronomía y barrios",
+        "d": "Los visitantes también pueden explorar el espectacular paisaje a través de una variedad de actividades que incluyen: saltar en uno de los muchos tours que se ofrecen, disfrutar de una gran variedad de actividades al aire libre, visitar la Guira Oga - 'La Casa de los Pájaros', y disfrutar de las vistas desde el Hito de las Tres Fronteras, un magnífico parque natural.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/48313/3.jpg"
+      },
+      {
+        "n": "05",
+        "t": "Dónde dormir",
+        "d": "Panoramic Hotel Iguazu es un sofisticado hotel de cinco estrellas que se encuentra serenamente en una colina privilegiada, que domina una vista envidiable del paisaje a continuación.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/48313/3.jpg"
+      }
+    ],
+    "cover": "https://destino.honimunn.com/ImageHandler/c1200x800/24553/puerto_iguazu-shutterstock-1194102475.jpg"
+  }
+}

@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Honimunn — Catálogo de destinos</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/main.css">
+</head>
+<body class="landing-globe theme-light">
+
+<div class="loading-screen" id="loadingScreen">
+  <div class="loading-content">
+    <div class="dot-load"></div>
+    <p class="loading-error" id="loadingError" hidden>No se pudieron cargar los datos.</p>
+  </div>
+</div>
+
+<!-- 1. Landing: globo interactivo -->
+<div id="stage"></div>
+
+<div class="topbar">
+  <div class="logo">
+    <img class="logo-light" src="assets/logo-honimunn-light.png" alt="Honimunn — Hasta la munn y más allá" width="160" height="38">
+    <img class="logo-dark" src="assets/logo-honimunn-dark.png" alt="Honimunn — Hasta la munn y más allá" width="160" height="38">
+  </div>
+  <div class="tagline">Catálogo de destinos</div>
+</div>
+
+<div class="landing-hero" id="landingHero">
+  <h1>Vosotros decidid dónde queréis ir, nosotros os llevamos</h1>
+</div>
+
+<button class="map-back" id="backBtn">
+  <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M19 12H5M11 18l-6-6 6-6"/></svg>
+  Volver al globo
+</button>
+
+<!-- 3. Mapa de país + destinos -->
+<div id="mapStage" data-country="">
+  <div class="map-heading">
+    <div class="eyebrow" id="mapEyebrow">Destino</div>
+    <h2 id="mapTitle">Japón</h2>
+    <p id="mapSubtitle">Tu luna de miel empieza aquí — elige una ciudad</p>
+  </div>
+  <div id="countrySvgWrap"></div>
+  <div class="map-actions">
+    <div class="map-cta experiences-cta" id="experiencesCta">
+      <div class="ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 2l2.4 7.4H22l-6 4.6 2.3 7L12 16.8 5.7 21l2.3-7-6-4.6h7.6z"/></svg></div>
+      <div class="txt"><b>Experiencias</b><span>Gastronomía, cultura y más</span></div>
+    </div>
+    <div class="map-cta beach-cta" id="beachCta">
+      <div class="ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M2 12h20M12 2a10 10 0 010 20 10 10 0 010-20z"/></svg></div>
+      <div class="txt"><b>Extiende tu luna de miel</b><span>Añade unos días de playa</span></div>
+    </div>
+  </div>
+</div>
+
+<!-- 5. Extensiones de playa -->
+<button class="map-back" id="worldBackBtn">
+  <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M19 12H5M11 18l-6-6 6-6"/></svg>
+  <span class="back-label">Volver a Japón</span>
+</button>
+
+<div id="worldStage">
+  <div class="world-heading">
+    <div class="eyebrow">Extensión</div>
+    <h2>Extensiones de playa</h2>
+    <p>Cierra tu luna de miel con unos días frente al mar</p>
+  </div>
+  <div id="worldSvgWrap"></div>
+</div>
+
+<!-- 4. Panel de destino / 6. Experiencias -->
+<div class="rail" id="rail"></div>
+<div id="scrim"></div>
+
+<div id="panel">
+  <div class="panel-close"><button id="closePanel">
+    <svg viewBox="0 0 24 24" fill="none" stroke-width="2"><path d="M18 6L6 18M6 6l12 12"/></svg>
+  </button></div>
+  <div class="panel-hero" id="panelHero"></div>
+  <div class="story" id="panelStory"></div>
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+<script src="js/config.js"></script>
+<script src="js/data-store.js"></script>
+<script src="js/city-panels.js"></script>
+<script src="js/country-map.js"></script>
+<script src="js/extension-map.js"></script>
+<script src="js/globe.js"></script>
+<script src="js/navigation.js"></script>
+<script src="js/experiences.js"></script>
+<script src="js/japan-map.js"></script>
+<script src="js/panel.js"></script>
+<script src="js/app.js"></script>
+</body>
+</html>

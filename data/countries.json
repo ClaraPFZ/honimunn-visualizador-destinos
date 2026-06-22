@@ -1,0 +1,1742 @@
+{
+  "argentina": {
+    "name": "Argentina",
+    "color": "#04B148",
+    "lat": -41.3357,
+    "lon": -63.38199999999999,
+    "continent": "América",
+    "eyebrow": "América",
+    "sub": "Situada en la impresionante costa argentina de Río de la Plata, Buenos Aires es una próspera capital costera definida por una rica historia, una cultura vibrante y una fuerte influ",
+    "items": [
+      {
+        "n": "01",
+        "t": "Descubre Argentina",
+        "d": "Situada en la impresionante costa argentina de Río de la Plata, Buenos Aires es una próspera capital costera definida por una rica historia, una cultura vibrante y una fuerte influ",
+        "img": "argentina landscape"
+      },
+      {
+        "n": "02",
+        "t": "Itinerario a medida",
+        "d": "Tu Honimunn Planner diseña cada etapa del viaje, sin plantillas ni prisas.",
+        "img": "argentina travel"
+      },
+      {
+        "n": "03",
+        "t": "Alojamientos seleccionados",
+        "d": "Hoteles boutique y propiedades que no aparecen en las guías.",
+        "img": "argentina hotel"
+      }
+    ]
+  },
+  "brasil": {
+    "name": "Brasil",
+    "color": "#04B148",
+    "lat": -11.962200000000001,
+    "lon": -48.8280625,
+    "continent": "América",
+    "eyebrow": "América",
+    "sub": "Descansando en la confluencia de los ríos Paraná e Iguazú, Puerto Iguazú es una encantadora ciudad turística que sirve como puerta de entrada a las Cataratas del Iguazú en el lado ",
+    "items": [
+      {
+        "n": "01",
+        "t": "Descubre Brasil",
+        "d": "Descansando en la confluencia de los ríos Paraná e Iguazú, Puerto Iguazú es una encantadora ciudad turística que sirve como puerta de entrada a las Cataratas del Iguazú en el lado ",
+        "img": "brasil landscape"
+      },
+      {
+        "n": "02",
+        "t": "Itinerario a medida",
+        "d": "Tu Honimunn Planner diseña cada etapa del viaje, sin plantillas ni prisas.",
+        "img": "brasil travel"
+      },
+      {
+        "n": "03",
+        "t": "Alojamientos seleccionados",
+        "d": "Hoteles boutique y propiedades que no aparecen en las guías.",
+        "img": "brasil hotel"
+      }
+    ]
+  },
+  "chile": {
+    "name": "Chile",
+    "color": "#04B148",
+    "lat": -40.512280000000004,
+    "lon": -71.05342,
+    "continent": "América",
+    "eyebrow": "América",
+    "sub": "Como se describió previamente…",
+    "items": [
+      {
+        "n": "01",
+        "t": "Descubre Chile",
+        "d": "Como se describió previamente…",
+        "img": "chile landscape"
+      },
+      {
+        "n": "02",
+        "t": "Itinerario a medida",
+        "d": "Tu Honimunn Planner diseña cada etapa del viaje, sin plantillas ni prisas.",
+        "img": "chile travel"
+      },
+      {
+        "n": "03",
+        "t": "Alojamientos seleccionados",
+        "d": "Hoteles boutique y propiedades que no aparecen en las guías.",
+        "img": "chile hotel"
+      }
+    ]
+  },
+  "canada": {
+    "name": "Canadá",
+    "color": "#04B148",
+    "lat": 51.16154285714286,
+    "lon": -118.08364285714286,
+    "continent": "América",
+    "eyebrow": "América",
+    "sub": "Los leñadores, castores, fanáticos del hockey, montados y jarabe de arce brotan inmediatamente a la mente.",
+    "items": [
+      {
+        "n": "01",
+        "t": "Descubre Canadá",
+        "d": "Los leñadores, castores, fanáticos del hockey, montados y jarabe de arce brotan inmediatamente a la mente.",
+        "img": "canada landscape"
+      },
+      {
+        "n": "02",
+        "t": "Itinerario a medida",
+        "d": "Tu Honimunn Planner diseña cada etapa del viaje, sin plantillas ni prisas.",
+        "img": "canada travel"
+      },
+      {
+        "n": "03",
+        "t": "Alojamientos seleccionados",
+        "d": "Hoteles boutique y propiedades que no aparecen en las guías.",
+        "img": "canada hotel"
+      }
+    ]
+  },
+  "caribe": {
+    "name": "Caribe",
+    "color": "#04B148",
+    "lat": 18.178774999999998,
+    "lon": -72.1811,
+    "continent": "América",
+    "eyebrow": "América",
+    "sub": "La Habana es una parada clave en nuestros viajes por la región.",
+    "items": [
+      {
+        "n": "01",
+        "t": "Descubre Caribe",
+        "d": "La Habana es una parada clave en nuestros viajes por la región.",
+        "img": "caribe landscape"
+      },
+      {
+        "n": "02",
+        "t": "Itinerario a medida",
+        "d": "Tu Honimunn Planner diseña cada etapa del viaje, sin plantillas ni prisas.",
+        "img": "caribe travel"
+      },
+      {
+        "n": "03",
+        "t": "Alojamientos seleccionados",
+        "d": "Hoteles boutique y propiedades que no aparecen en las guías.",
+        "img": "caribe hotel"
+      }
+    ]
+  },
+  "estados-unidos": {
+    "name": "Estados Unidos",
+    "color": "#04B148",
+    "lat": 35.6373125,
+    "lon": -117.88376249999999,
+    "continent": "América",
+    "eyebrow": "América",
+    "sub": "Como se describió previamente…",
+    "items": [
+      {
+        "n": "01",
+        "t": "Descubre Estados Unidos",
+        "d": "Como se describió previamente…",
+        "img": "estados-unidos landscape"
+      },
+      {
+        "n": "02",
+        "t": "Itinerario a medida",
+        "d": "Tu Honimunn Planner diseña cada etapa del viaje, sin plantillas ni prisas.",
+        "img": "estados-unidos travel"
+      },
+      {
+        "n": "03",
+        "t": "Alojamientos seleccionados",
+        "d": "Hoteles boutique y propiedades que no aparecen en las guías.",
+        "img": "estados-unidos hotel"
+      }
+    ]
+  },
+  "colombia": {
+    "name": "Colombia",
+    "color": "#04B148",
+    "lat": 7.94035,
+    "lon": -75.06783333333334,
+    "continent": "América",
+    "eyebrow": "América",
+    "sub": "La ciudad portuaria de Cartagena se encuentra en la costa caribeña de Colombia.",
+    "items": [
+      {
+        "n": "01",
+        "t": "Descubre Colombia",
+        "d": "La ciudad portuaria de Cartagena se encuentra en la costa caribeña de Colombia.",
+        "img": "colombia landscape"
+      },
+      {
+        "n": "02",
+        "t": "Itinerario a medida",
+        "d": "Tu Honimunn Planner diseña cada etapa del viaje, sin plantillas ni prisas.",
+        "img": "colombia travel"
+      },
+      {
+        "n": "03",
+        "t": "Alojamientos seleccionados",
+        "d": "Hoteles boutique y propiedades que no aparecen en las guías.",
+        "img": "colombia hotel"
+      }
+    ]
+  },
+  "costa-rica": {
+    "name": "Costa Rica",
+    "color": "#04B148",
+    "lat": 10.109914285714284,
+    "lon": -84.21865714285715,
+    "continent": "América",
+    "eyebrow": "América",
+    "sub": "Como se describió previamente…",
+    "items": [
+      {
+        "n": "01",
+        "t": "Descubre Costa Rica",
+        "d": "Como se describió previamente…",
+        "img": "costa-rica landscape"
+      },
+      {
+        "n": "02",
+        "t": "Itinerario a medida",
+        "d": "Tu Honimunn Planner diseña cada etapa del viaje, sin plantillas ni prisas.",
+        "img": "costa-rica travel"
+      },
+      {
+        "n": "03",
+        "t": "Alojamientos seleccionados",
+        "d": "Hoteles boutique y propiedades que no aparecen en las guías.",
+        "img": "costa-rica hotel"
+      }
+    ]
+  },
+  "ecuador": {
+    "name": "Ecuador",
+    "color": "#04B148",
+    "lat": -2.0082666666666666,
+    "lon": -83.29796666666665,
+    "continent": "América",
+    "eyebrow": "América",
+    "sub": "Guayaquil es una parada clave en nuestros viajes por la región.",
+    "items": [
+      {
+        "n": "01",
+        "t": "Descubre Ecuador",
+        "d": "Guayaquil es una parada clave en nuestros viajes por la región.",
+        "img": "ecuador landscape"
+      },
+      {
+        "n": "02",
+        "t": "Itinerario a medida",
+        "d": "Tu Honimunn Planner diseña cada etapa del viaje, sin plantillas ni prisas.",
+        "img": "ecuador travel"
+      },
+      {
+        "n": "03",
+        "t": "Alojamientos seleccionados",
+        "d": "Hoteles boutique y propiedades que no aparecen en las guías.",
+        "img": "ecuador hotel"
+      }
+    ]
+  },
+  "guatemala": {
+    "name": "Guatemala",
+    "color": "#04B148",
+    "lat": 15.32732,
+    "lon": -90.21702,
+    "continent": "América",
+    "eyebrow": "América",
+    "sub": "Ciudad de Guatemala es una parada clave en nuestros viajes por la región.",
+    "items": [
+      {
+        "n": "01",
+        "t": "Descubre Guatemala",
+        "d": "Ciudad de Guatemala es una parada clave en nuestros viajes por la región.",
+        "img": "guatemala landscape"
+      },
+      {
+        "n": "02",
+        "t": "Itinerario a medida",
+        "d": "Tu Honimunn Planner diseña cada etapa del viaje, sin plantillas ni prisas.",
+        "img": "guatemala travel"
+      },
+      {
+        "n": "03",
+        "t": "Alojamientos seleccionados",
+        "d": "Hoteles boutique y propiedades que no aparecen en las guías.",
+        "img": "guatemala hotel"
+      }
+    ]
+  },
+  "mexico": {
+    "name": "México",
+    "color": "#04B148",
+    "lat": 19.70776,
+    "lon": -94.70526,
+    "continent": "América",
+    "eyebrow": "América",
+    "sub": "Ciudad de México es una parada clave en nuestros viajes por la región.",
+    "items": [
+      {
+        "n": "01",
+        "t": "Descubre México",
+        "d": "Ciudad de México es una parada clave en nuestros viajes por la región.",
+        "img": "mexico landscape"
+      },
+      {
+        "n": "02",
+        "t": "Itinerario a medida",
+        "d": "Tu Honimunn Planner diseña cada etapa del viaje, sin plantillas ni prisas.",
+        "img": "mexico travel"
+      },
+      {
+        "n": "03",
+        "t": "Alojamientos seleccionados",
+        "d": "Hoteles boutique y propiedades que no aparecen en las guías.",
+        "img": "mexico hotel"
+      }
+    ]
+  },
+  "hawaii": {
+    "name": "Hawaii",
+    "color": "#04B148",
+    "lat": 20.93615,
+    "lon": -157.34555,
+    "continent": "América",
+    "eyebrow": "América",
+    "sub": "La isla de Maui se ha encontrado repetidamente en listas exclusivas de las mejores escapadas isleñas del mundo, especialmente por sus kilómetros de playas idílicas, exuberantes val",
+    "items": [
+      {
+        "n": "01",
+        "t": "Descubre Hawaii",
+        "d": "La isla de Maui se ha encontrado repetidamente en listas exclusivas de las mejores escapadas isleñas del mundo, especialmente por sus kilómetros de playas idílicas, exuberantes val",
+        "img": "hawaii landscape"
+      },
+      {
+        "n": "02",
+        "t": "Itinerario a medida",
+        "d": "Tu Honimunn Planner diseña cada etapa del viaje, sin plantillas ni prisas.",
+        "img": "hawaii travel"
+      },
+      {
+        "n": "03",
+        "t": "Alojamientos seleccionados",
+        "d": "Hoteles boutique y propiedades que no aparecen en las guías.",
+        "img": "hawaii hotel"
+      }
+    ]
+  },
+  "panama": {
+    "name": "Panamá",
+    "color": "#04B148",
+    "lat": 9.115075000000001,
+    "lon": -81.02597499999999,
+    "continent": "América",
+    "eyebrow": "América",
+    "sub": "Ciudad de Panamá es una parada clave en nuestros viajes por la región.",
+    "items": [
+      {
+        "n": "01",
+        "t": "Descubre Panamá",
+        "d": "Ciudad de Panamá es una parada clave en nuestros viajes por la región.",
+        "img": "panama landscape"
+      },
+      {
+        "n": "02",
+        "t": "Itinerario a medida",
+        "d": "Tu Honimunn Planner diseña cada etapa del viaje, sin plantillas ni prisas.",
+        "img": "panama travel"
+      },
+      {
+        "n": "03",
+        "t": "Alojamientos seleccionados",
+        "d": "Hoteles boutique y propiedades que no aparecen en las guías.",
+        "img": "panama hotel"
+      }
+    ]
+  },
+  "peru": {
+    "name": "Perú",
+    "color": "#04B148",
+    "lat": -14.219787499999997,
+    "lon": -72.9217375,
+    "continent": "América",
+    "eyebrow": "América",
+    "sub": "Como se describió previamente…",
+    "items": [
+      {
+        "n": "01",
+        "t": "Descubre Perú",
+        "d": "Como se describió previamente…",
+        "img": "peru landscape"
+      },
+      {
+        "n": "02",
+        "t": "Itinerario a medida",
+        "d": "Tu Honimunn Planner diseña cada etapa del viaje, sin plantillas ni prisas.",
+        "img": "peru travel"
+      },
+      {
+        "n": "03",
+        "t": "Alojamientos seleccionados",
+        "d": "Hoteles boutique y propiedades que no aparecen en las guías.",
+        "img": "peru hotel"
+      }
+    ]
+  },
+  "puerto-rico": {
+    "name": "Puerto Rico",
+    "color": "#04B148",
+    "lat": 18.25378,
+    "lon": -66.21246000000001,
+    "continent": "América",
+    "eyebrow": "América",
+    "sub": "San Juan es una parada clave en nuestros viajes por la región.",
+    "items": [
+      {
+        "n": "01",
+        "t": "Descubre Puerto Rico",
+        "d": "San Juan es una parada clave en nuestros viajes por la región.",
+        "img": "puerto-rico landscape"
+      },
+      {
+        "n": "02",
+        "t": "Itinerario a medida",
+        "d": "Tu Honimunn Planner diseña cada etapa del viaje, sin plantillas ni prisas.",
+        "img": "puerto-rico travel"
+      },
+      {
+        "n": "03",
+        "t": "Alojamientos seleccionados",
+        "d": "Hoteles boutique y propiedades que no aparecen en las guías.",
+        "img": "puerto-rico hotel"
+      }
+    ]
+  },
+  "espana": {
+    "name": "España",
+    "color": "#6B37B2",
+    "lat": 39.937780000000004,
+    "lon": -2.6199,
+    "continent": "Europa",
+    "eyebrow": "Europa",
+    "sub": "Madrid es una parada clave en nuestros viajes por la región.",
+    "items": [
+      {
+        "n": "01",
+        "t": "Descubre España",
+        "d": "Madrid es una parada clave en nuestros viajes por la región.",
+        "img": "espana landscape"
+      },
+      {
+        "n": "02",
+        "t": "Itinerario a medida",
+        "d": "Tu Honimunn Planner diseña cada etapa del viaje, sin plantillas ni prisas.",
+        "img": "espana travel"
+      },
+      {
+        "n": "03",
+        "t": "Alojamientos seleccionados",
+        "d": "Hoteles boutique y propiedades que no aparecen en las guías.",
+        "img": "espana hotel"
+      }
+    ]
+  },
+  "francia": {
+    "name": "Francia",
+    "color": "#6B37B2",
+    "lat": 45.851924999999994,
+    "lon": 2.8535500000000003,
+    "continent": "Europa",
+    "eyebrow": "Europa",
+    "sub": "París es una parada clave en nuestros viajes por la región.",
+    "items": [
+      {
+        "n": "01",
+        "t": "Descubre Francia",
+        "d": "París es una parada clave en nuestros viajes por la región.",
+        "img": "francia landscape"
+      },
+      {
+        "n": "02",
+        "t": "Itinerario a medida",
+        "d": "Tu Honimunn Planner diseña cada etapa del viaje, sin plantillas ni prisas.",
+        "img": "francia travel"
+      },
+      {
+        "n": "03",
+        "t": "Alojamientos seleccionados",
+        "d": "Hoteles boutique y propiedades que no aparecen en las guías.",
+        "img": "francia hotel"
+      }
+    ]
+  },
+  "italia": {
+    "name": "Italia",
+    "color": "#6B37B2",
+    "lat": 43.48693333333333,
+    "lon": 11.187066666666666,
+    "continent": "Europa",
+    "eyebrow": "Europa",
+    "sub": "Niza es una parada clave en nuestros viajes por la región.",
+    "items": [
+      {
+        "n": "01",
+        "t": "Descubre Italia",
+        "d": "Niza es una parada clave en nuestros viajes por la región.",
+        "img": "italia landscape"
+      },
+      {
+        "n": "02",
+        "t": "Itinerario a medida",
+        "d": "Tu Honimunn Planner diseña cada etapa del viaje, sin plantillas ni prisas.",
+        "img": "italia travel"
+      },
+      {
+        "n": "03",
+        "t": "Alojamientos seleccionados",
+        "d": "Hoteles boutique y propiedades que no aparecen en las guías.",
+        "img": "italia hotel"
+      }
+    ]
+  },
+  "croacia": {
+    "name": "Croacia",
+    "color": "#6B37B2",
+    "lat": 44.002419999999994,
+    "lon": 16.50802,
+    "continent": "Europa",
+    "eyebrow": "Europa",
+    "sub": "Zagreb es una parada clave en nuestros viajes por la región.",
+    "items": [
+      {
+        "n": "01",
+        "t": "Descubre Croacia",
+        "d": "Zagreb es una parada clave en nuestros viajes por la región.",
+        "img": "croacia landscape"
+      },
+      {
+        "n": "02",
+        "t": "Itinerario a medida",
+        "d": "Tu Honimunn Planner diseña cada etapa del viaje, sin plantillas ni prisas.",
+        "img": "croacia travel"
+      },
+      {
+        "n": "03",
+        "t": "Alojamientos seleccionados",
+        "d": "Hoteles boutique y propiedades que no aparecen en las guías.",
+        "img": "croacia hotel"
+      }
+    ]
+  },
+  "islandia": {
+    "name": "Islandia",
+    "color": "#6B37B2",
+    "lat": 64.63480000000001,
+    "lon": -19.76484,
+    "continent": "Europa",
+    "eyebrow": "Europa",
+    "sub": "Reikiavik es una parada clave en nuestros viajes por la región.",
+    "items": [
+      {
+        "n": "01",
+        "t": "Descubre Islandia",
+        "d": "Reikiavik es una parada clave en nuestros viajes por la región.",
+        "img": "islandia landscape"
+      },
+      {
+        "n": "02",
+        "t": "Itinerario a medida",
+        "d": "Tu Honimunn Planner diseña cada etapa del viaje, sin plantillas ni prisas.",
+        "img": "islandia travel"
+      },
+      {
+        "n": "03",
+        "t": "Alojamientos seleccionados",
+        "d": "Hoteles boutique y propiedades que no aparecen en las guías.",
+        "img": "islandia hotel"
+      }
+    ]
+  },
+  "finlandia": {
+    "name": "Finlandia",
+    "color": "#6B37B2",
+    "lat": 63.286,
+    "lon": 24.30088,
+    "continent": "Europa",
+    "eyebrow": "Europa",
+    "sub": "Helsinki es una parada clave en nuestros viajes por la región.",
+    "items": [
+      {
+        "n": "01",
+        "t": "Descubre Finlandia",
+        "d": "Helsinki es una parada clave en nuestros viajes por la región.",
+        "img": "finlandia landscape"
+      },
+      {
+        "n": "02",
+        "t": "Itinerario a medida",
+        "d": "Tu Honimunn Planner diseña cada etapa del viaje, sin plantillas ni prisas.",
+        "img": "finlandia travel"
+      },
+      {
+        "n": "03",
+        "t": "Alojamientos seleccionados",
+        "d": "Hoteles boutique y propiedades que no aparecen en las guías.",
+        "img": "finlandia hotel"
+      }
+    ]
+  },
+  "noruega": {
+    "name": "Noruega",
+    "color": "#6B37B2",
+    "lat": 62.20504,
+    "lon": 9.59368,
+    "continent": "Europa",
+    "eyebrow": "Europa",
+    "sub": "Oslo es una parada clave en nuestros viajes por la región.",
+    "items": [
+      {
+        "n": "01",
+        "t": "Descubre Noruega",
+        "d": "Oslo es una parada clave en nuestros viajes por la región.",
+        "img": "noruega landscape"
+      },
+      {
+        "n": "02",
+        "t": "Itinerario a medida",
+        "d": "Tu Honimunn Planner diseña cada etapa del viaje, sin plantillas ni prisas.",
+        "img": "noruega travel"
+      },
+      {
+        "n": "03",
+        "t": "Alojamientos seleccionados",
+        "d": "Hoteles boutique y propiedades que no aparecen en las guías.",
+        "img": "noruega hotel"
+      }
+    ]
+  },
+  "grecia": {
+    "name": "Grecia",
+    "color": "#6B37B2",
+    "lat": 37.3571,
+    "lon": 24.191560000000003,
+    "continent": "Europa",
+    "eyebrow": "Europa",
+    "sub": "Atenas es una parada clave en nuestros viajes por la región.",
+    "items": [
+      {
+        "n": "01",
+        "t": "Descubre Grecia",
+        "d": "Atenas es una parada clave en nuestros viajes por la región.",
+        "img": "grecia landscape"
+      },
+      {
+        "n": "02",
+        "t": "Itinerario a medida",
+        "d": "Tu Honimunn Planner diseña cada etapa del viaje, sin plantillas ni prisas.",
+        "img": "grecia travel"
+      },
+      {
+        "n": "03",
+        "t": "Alojamientos seleccionados",
+        "d": "Hoteles boutique y propiedades que no aparecen en las guías.",
+        "img": "grecia hotel"
+      }
+    ]
+  },
+  "australia": {
+    "name": "Australia",
+    "color": "#0064F0",
+    "lat": -29.179180000000002,
+    "lon": 137.76958,
+    "continent": "Oceanía",
+    "eyebrow": "Oceanía",
+    "sub": "Sídney es una parada clave en nuestros viajes por la región.",
+    "items": [
+      {
+        "n": "01",
+        "t": "Descubre Australia",
+        "d": "Sídney es una parada clave en nuestros viajes por la región.",
+        "img": "australia landscape"
+      },
+      {
+        "n": "02",
+        "t": "Itinerario a medida",
+        "d": "Tu Honimunn Planner diseña cada etapa del viaje, sin plantillas ni prisas.",
+        "img": "australia travel"
+      },
+      {
+        "n": "03",
+        "t": "Alojamientos seleccionados",
+        "d": "Hoteles boutique y propiedades que no aparecen en las guías.",
+        "img": "australia hotel"
+      }
+    ]
+  },
+  "islas-cook": {
+    "name": "Islas Cook",
+    "color": "#0064F0",
+    "lat": -20.637975,
+    "lon": -159.76495,
+    "continent": "Oceanía",
+    "eyebrow": "Oceanía",
+    "sub": "Avarua es una parada clave en nuestros viajes por la región.",
+    "items": [
+      {
+        "n": "01",
+        "t": "Descubre Islas Cook",
+        "d": "Avarua es una parada clave en nuestros viajes por la región.",
+        "img": "islas-cook landscape"
+      },
+      {
+        "n": "02",
+        "t": "Itinerario a medida",
+        "d": "Tu Honimunn Planner diseña cada etapa del viaje, sin plantillas ni prisas.",
+        "img": "islas-cook travel"
+      },
+      {
+        "n": "03",
+        "t": "Alojamientos seleccionados",
+        "d": "Hoteles boutique y propiedades que no aparecen en las guías.",
+        "img": "islas-cook hotel"
+      }
+    ]
+  },
+  "fiyi": {
+    "name": "Fiyi",
+    "color": "#0064F0",
+    "lat": -17.46162,
+    "lon": 106.13073999999999,
+    "continent": "Oceanía",
+    "eyebrow": "Oceanía",
+    "sub": "Suva es una parada clave en nuestros viajes por la región.",
+    "items": [
+      {
+        "n": "01",
+        "t": "Descubre Fiyi",
+        "d": "Suva es una parada clave en nuestros viajes por la región.",
+        "img": "fiyi landscape"
+      },
+      {
+        "n": "02",
+        "t": "Itinerario a medida",
+        "d": "Tu Honimunn Planner diseña cada etapa del viaje, sin plantillas ni prisas.",
+        "img": "fiyi travel"
+      },
+      {
+        "n": "03",
+        "t": "Alojamientos seleccionados",
+        "d": "Hoteles boutique y propiedades que no aparecen en las guías.",
+        "img": "fiyi hotel"
+      }
+    ]
+  },
+  "nueva-zelanda": {
+    "name": "Nueva Zelanda",
+    "color": "#0064F0",
+    "lat": -41.18888,
+    "lon": 172.46983999999998,
+    "continent": "Oceanía",
+    "eyebrow": "Oceanía",
+    "sub": "Auckland es una parada clave en nuestros viajes por la región.",
+    "items": [
+      {
+        "n": "01",
+        "t": "Descubre Nueva Zelanda",
+        "d": "Auckland es una parada clave en nuestros viajes por la región.",
+        "img": "nueva-zelanda landscape"
+      },
+      {
+        "n": "02",
+        "t": "Itinerario a medida",
+        "d": "Tu Honimunn Planner diseña cada etapa del viaje, sin plantillas ni prisas.",
+        "img": "nueva-zelanda travel"
+      },
+      {
+        "n": "03",
+        "t": "Alojamientos seleccionados",
+        "d": "Hoteles boutique y propiedades que no aparecen en las guías.",
+        "img": "nueva-zelanda hotel"
+      }
+    ]
+  },
+  "polinesia-francesa": {
+    "name": "Polinesia Francesa",
+    "color": "#0064F0",
+    "lat": -17.01202,
+    "lon": -150.69405999999998,
+    "continent": "Oceanía",
+    "eyebrow": "Oceanía",
+    "sub": "Como se describió previamente…",
+    "items": [
+      {
+        "n": "01",
+        "t": "Descubre Polinesia Francesa",
+        "d": "Como se describió previamente…",
+        "img": "polinesia-francesa landscape"
+      },
+      {
+        "n": "02",
+        "t": "Itinerario a medida",
+        "d": "Tu Honimunn Planner diseña cada etapa del viaje, sin plantillas ni prisas.",
+        "img": "polinesia-francesa travel"
+      },
+      {
+        "n": "03",
+        "t": "Alojamientos seleccionados",
+        "d": "Hoteles boutique y propiedades que no aparecen en las guías.",
+        "img": "polinesia-francesa hotel"
+      }
+    ]
+  },
+  "camboya": {
+    "name": "Camboya",
+    "color": "#E718B0",
+    "lat": 12.251966666666666,
+    "lon": 105.15516666666667,
+    "continent": "Asia",
+    "eyebrow": "Asia",
+    "sub": "Desde que Camboya reabrió sus fronteras a los turistas a principios de la década de 1990, visitantes de todo el mundo han acudido a este fascinante país del sudeste de Asia para ex",
+    "items": [
+      {
+        "n": "01",
+        "t": "Descubre Camboya",
+        "d": "Desde que Camboya reabrió sus fronteras a los turistas a principios de la década de 1990, visitantes de todo el mundo han acudido a este fascinante país del sudeste de Asia para ex",
+        "img": "camboya landscape"
+      },
+      {
+        "n": "02",
+        "t": "Itinerario a medida",
+        "d": "Tu Honimunn Planner diseña cada etapa del viaje, sin plantillas ni prisas.",
+        "img": "camboya travel"
+      },
+      {
+        "n": "03",
+        "t": "Alojamientos seleccionados",
+        "d": "Hoteles boutique y propiedades que no aparecen en las guías.",
+        "img": "camboya hotel"
+      }
+    ]
+  },
+  "tailandia": {
+    "name": "Tailandia",
+    "color": "#E718B0",
+    "lat": 15.398657142857143,
+    "lon": 99.93105714285714,
+    "continent": "Asia",
+    "eyebrow": "Asia",
+    "sub": "Conocida con cariño como “la tierra de las sonrisas”, Tailandia se asocia comúnmente con una hermosa arena dorada, playas bordeadas de palmeras, cálidas aguas aguamarinas, glorioso",
+    "items": [
+      {
+        "n": "01",
+        "t": "Descubre Tailandia",
+        "d": "Conocida con cariño como “la tierra de las sonrisas”, Tailandia se asocia comúnmente con una hermosa arena dorada, playas bordeadas de palmeras, cálidas aguas aguamarinas, glorioso",
+        "img": "tailandia landscape"
+      },
+      {
+        "n": "02",
+        "t": "Itinerario a medida",
+        "d": "Tu Honimunn Planner diseña cada etapa del viaje, sin plantillas ni prisas.",
+        "img": "tailandia travel"
+      },
+      {
+        "n": "03",
+        "t": "Alojamientos seleccionados",
+        "d": "Hoteles boutique y propiedades que no aparecen en las guías.",
+        "img": "tailandia hotel"
+      }
+    ]
+  },
+  "china": {
+    "name": "China",
+    "color": "#E718B0",
+    "lat": 32.85771428571429,
+    "lon": 117.99322857142856,
+    "continent": "Asia",
+    "eyebrow": "Asia",
+    "sub": "Pekín es una parada clave en nuestros viajes por la región.",
+    "items": [
+      {
+        "n": "01",
+        "t": "Descubre China",
+        "d": "Pekín es una parada clave en nuestros viajes por la región.",
+        "img": "china landscape"
+      },
+      {
+        "n": "02",
+        "t": "Itinerario a medida",
+        "d": "Tu Honimunn Planner diseña cada etapa del viaje, sin plantillas ni prisas.",
+        "img": "china travel"
+      },
+      {
+        "n": "03",
+        "t": "Alojamientos seleccionados",
+        "d": "Hoteles boutique y propiedades que no aparecen en las guías.",
+        "img": "china hotel"
+      }
+    ]
+  },
+  "corea": {
+    "name": "Corea",
+    "color": "#E718B0",
+    "lat": 35.91164,
+    "lon": 127.70294000000001,
+    "continent": "Asia",
+    "eyebrow": "Asia",
+    "sub": "Seúl es una parada clave en nuestros viajes por la región.",
+    "items": [
+      {
+        "n": "01",
+        "t": "Descubre Corea",
+        "d": "Seúl es una parada clave en nuestros viajes por la región.",
+        "img": "corea landscape"
+      },
+      {
+        "n": "02",
+        "t": "Itinerario a medida",
+        "d": "Tu Honimunn Planner diseña cada etapa del viaje, sin plantillas ni prisas.",
+        "img": "corea travel"
+      },
+      {
+        "n": "03",
+        "t": "Alojamientos seleccionados",
+        "d": "Hoteles boutique y propiedades que no aparecen en las guías.",
+        "img": "corea hotel"
+      }
+    ]
+  },
+  "butan": {
+    "name": "Bután",
+    "color": "#E718B0",
+    "lat": 27.50548,
+    "lon": 90.02046,
+    "continent": "Asia",
+    "eyebrow": "Asia",
+    "sub": "Thimphu es una parada clave en nuestros viajes por la región.",
+    "items": [
+      {
+        "n": "01",
+        "t": "Descubre Bután",
+        "d": "Thimphu es una parada clave en nuestros viajes por la región.",
+        "img": "butan landscape"
+      },
+      {
+        "n": "02",
+        "t": "Itinerario a medida",
+        "d": "Tu Honimunn Planner diseña cada etapa del viaje, sin plantillas ni prisas.",
+        "img": "butan travel"
+      },
+      {
+        "n": "03",
+        "t": "Alojamientos seleccionados",
+        "d": "Hoteles boutique y propiedades que no aparecen en las guías.",
+        "img": "butan hotel"
+      }
+    ]
+  },
+  "india": {
+    "name": "India",
+    "color": "#E718B0",
+    "lat": 24.663980000000002,
+    "lon": 77.62046000000001,
+    "continent": "Asia",
+    "eyebrow": "Asia",
+    "sub": "Nueva Delhi es una parada clave en nuestros viajes por la región.",
+    "items": [
+      {
+        "n": "01",
+        "t": "Descubre India",
+        "d": "Nueva Delhi es una parada clave en nuestros viajes por la región.",
+        "img": "india landscape"
+      },
+      {
+        "n": "02",
+        "t": "Itinerario a medida",
+        "d": "Tu Honimunn Planner diseña cada etapa del viaje, sin plantillas ni prisas.",
+        "img": "india travel"
+      },
+      {
+        "n": "03",
+        "t": "Alojamientos seleccionados",
+        "d": "Hoteles boutique y propiedades que no aparecen en las guías.",
+        "img": "india hotel"
+      }
+    ]
+  },
+  "nepal": {
+    "name": "Nepal",
+    "color": "#E718B0",
+    "lat": 27.722040000000003,
+    "lon": 84.47538,
+    "continent": "Asia",
+    "eyebrow": "Asia",
+    "sub": "Katmandú es una parada clave en nuestros viajes por la región.",
+    "items": [
+      {
+        "n": "01",
+        "t": "Descubre Nepal",
+        "d": "Katmandú es una parada clave en nuestros viajes por la región.",
+        "img": "nepal landscape"
+      },
+      {
+        "n": "02",
+        "t": "Itinerario a medida",
+        "d": "Tu Honimunn Planner diseña cada etapa del viaje, sin plantillas ni prisas.",
+        "img": "nepal travel"
+      },
+      {
+        "n": "03",
+        "t": "Alojamientos seleccionados",
+        "d": "Hoteles boutique y propiedades que no aparecen en las guías.",
+        "img": "nepal hotel"
+      }
+    ]
+  },
+  "filipinas": {
+    "name": "Filipinas",
+    "color": "#E718B0",
+    "lat": 11.818999999999999,
+    "lon": 121.52625,
+    "continent": "Asia",
+    "eyebrow": "Asia",
+    "sub": "Como se describió previamente…",
+    "items": [
+      {
+        "n": "01",
+        "t": "Descubre Filipinas",
+        "d": "Como se describió previamente…",
+        "img": "filipinas landscape"
+      },
+      {
+        "n": "02",
+        "t": "Itinerario a medida",
+        "d": "Tu Honimunn Planner diseña cada etapa del viaje, sin plantillas ni prisas.",
+        "img": "filipinas travel"
+      },
+      {
+        "n": "03",
+        "t": "Alojamientos seleccionados",
+        "d": "Hoteles boutique y propiedades que no aparecen en las guías.",
+        "img": "filipinas hotel"
+      }
+    ]
+  },
+  "indonesia": {
+    "name": "Indonesia",
+    "color": "#E718B0",
+    "lat": -8.141424999999998,
+    "lon": 113.57383750000001,
+    "continent": "Asia",
+    "eyebrow": "Asia",
+    "sub": "Conocido como el punto de acceso a la playa de Bali, Canggu se encuentra en la impresionante costa sur y abarca el tramo de costa de 8 kilómetros entre Kerobokan y Echo Beach.",
+    "items": [
+      {
+        "n": "01",
+        "t": "Descubre Indonesia",
+        "d": "Conocido como el punto de acceso a la playa de Bali, Canggu se encuentra en la impresionante costa sur y abarca el tramo de costa de 8 kilómetros entre Kerobokan y Echo Beach.",
+        "img": "indonesia landscape"
+      },
+      {
+        "n": "02",
+        "t": "Itinerario a medida",
+        "d": "Tu Honimunn Planner diseña cada etapa del viaje, sin plantillas ni prisas.",
+        "img": "indonesia travel"
+      },
+      {
+        "n": "03",
+        "t": "Alojamientos seleccionados",
+        "d": "Hoteles boutique y propiedades que no aparecen en las guías.",
+        "img": "indonesia hotel"
+      }
+    ]
+  },
+  "jordania": {
+    "name": "Jordania",
+    "color": "#E718B0",
+    "lat": 30.5794,
+    "lon": 35.45472,
+    "continent": "Asia",
+    "eyebrow": "Asia",
+    "sub": "Amán es una parada clave en nuestros viajes por la región.",
+    "items": [
+      {
+        "n": "01",
+        "t": "Descubre Jordania",
+        "d": "Amán es una parada clave en nuestros viajes por la región.",
+        "img": "jordania landscape"
+      },
+      {
+        "n": "02",
+        "t": "Itinerario a medida",
+        "d": "Tu Honimunn Planner diseña cada etapa del viaje, sin plantillas ni prisas.",
+        "img": "jordania travel"
+      },
+      {
+        "n": "03",
+        "t": "Alojamientos seleccionados",
+        "d": "Hoteles boutique y propiedades que no aparecen en las guías.",
+        "img": "jordania hotel"
+      }
+    ]
+  },
+  "egipto": {
+    "name": "Egipto",
+    "color": "#FF2700",
+    "lat": 27.41114,
+    "lon": 32.34384,
+    "continent": "África",
+    "eyebrow": "África",
+    "sub": "El Cairo es una parada clave en nuestros viajes por la región.",
+    "items": [
+      {
+        "n": "01",
+        "t": "Descubre Egipto",
+        "d": "El Cairo es una parada clave en nuestros viajes por la región.",
+        "img": "egipto landscape"
+      },
+      {
+        "n": "02",
+        "t": "Itinerario a medida",
+        "d": "Tu Honimunn Planner diseña cada etapa del viaje, sin plantillas ni prisas.",
+        "img": "egipto travel"
+      },
+      {
+        "n": "03",
+        "t": "Alojamientos seleccionados",
+        "d": "Hoteles boutique y propiedades que no aparecen en las guías.",
+        "img": "egipto hotel"
+      }
+    ]
+  },
+  "laos": {
+    "name": "Laos",
+    "color": "#E718B0",
+    "lat": 20.6495,
+    "lon": 105.63653333333333,
+    "continent": "Asia",
+    "eyebrow": "Asia",
+    "sub": "Con sus amplios bulevares, antiguas pagodas y lagos arbolados, la capital de Vietnam es también la ciudad más atmosférica y fascinante del país.",
+    "items": [
+      {
+        "n": "01",
+        "t": "Descubre Laos",
+        "d": "Con sus amplios bulevares, antiguas pagodas y lagos arbolados, la capital de Vietnam es también la ciudad más atmosférica y fascinante del país.",
+        "img": "laos landscape"
+      },
+      {
+        "n": "02",
+        "t": "Itinerario a medida",
+        "d": "Tu Honimunn Planner diseña cada etapa del viaje, sin plantillas ni prisas.",
+        "img": "laos travel"
+      },
+      {
+        "n": "03",
+        "t": "Alojamientos seleccionados",
+        "d": "Hoteles boutique y propiedades que no aparecen en las guías.",
+        "img": "laos hotel"
+      }
+    ]
+  },
+  "vietnam": {
+    "name": "Vietnam",
+    "color": "#E718B0",
+    "lat": 18.405725,
+    "lon": 106.9394,
+    "continent": "Asia",
+    "eyebrow": "Asia",
+    "sub": "Con sus amplios bulevares, antiguas pagodas y lagos arbolados, la capital de Vietnam es también la ciudad más atmosférica y fascinante del país.",
+    "items": [
+      {
+        "n": "01",
+        "t": "Descubre Vietnam",
+        "d": "Con sus amplios bulevares, antiguas pagodas y lagos arbolados, la capital de Vietnam es también la ciudad más atmosférica y fascinante del país.",
+        "img": "vietnam landscape"
+      },
+      {
+        "n": "02",
+        "t": "Itinerario a medida",
+        "d": "Tu Honimunn Planner diseña cada etapa del viaje, sin plantillas ni prisas.",
+        "img": "vietnam travel"
+      },
+      {
+        "n": "03",
+        "t": "Alojamientos seleccionados",
+        "d": "Hoteles boutique y propiedades que no aparecen en las guías.",
+        "img": "vietnam hotel"
+      }
+    ]
+  },
+  "maldivas": {
+    "name": "Maldivas",
+    "color": "#E718B0",
+    "lat": 4.1755,
+    "lon": 73.5093,
+    "continent": "Asia",
+    "eyebrow": "Asia",
+    "sub": "Abarcando más de 1000 islas coralinas que forman unos 25 atolones naturales, Maldivas está separada del resto del mundo por el aparentemente interminable Océano Índico, ofreciendo ",
+    "items": [
+      {
+        "n": "01",
+        "t": "Descubre Maldivas",
+        "d": "Abarcando más de 1000 islas coralinas que forman unos 25 atolones naturales, Maldivas está separada del resto del mundo por el aparentemente interminable Océano Índico, ofreciendo ",
+        "img": "maldivas landscape"
+      },
+      {
+        "n": "02",
+        "t": "Itinerario a medida",
+        "d": "Tu Honimunn Planner diseña cada etapa del viaje, sin plantillas ni prisas.",
+        "img": "maldivas travel"
+      },
+      {
+        "n": "03",
+        "t": "Alojamientos seleccionados",
+        "d": "Hoteles boutique y propiedades que no aparecen en las guías.",
+        "img": "maldivas hotel"
+      }
+    ]
+  },
+  "singapur": {
+    "name": "Singapur",
+    "color": "#E718B0",
+    "lat": 1.28048,
+    "lon": 103.84604000000002,
+    "continent": "Asia",
+    "eyebrow": "Asia",
+    "sub": "Marina Bay es una parada clave en nuestros viajes por la región.",
+    "items": [
+      {
+        "n": "01",
+        "t": "Descubre Singapur",
+        "d": "Marina Bay es una parada clave en nuestros viajes por la región.",
+        "img": "singapur landscape"
+      },
+      {
+        "n": "02",
+        "t": "Itinerario a medida",
+        "d": "Tu Honimunn Planner diseña cada etapa del viaje, sin plantillas ni prisas.",
+        "img": "singapur travel"
+      },
+      {
+        "n": "03",
+        "t": "Alojamientos seleccionados",
+        "d": "Hoteles boutique y propiedades que no aparecen en las guías.",
+        "img": "singapur hotel"
+      }
+    ]
+  },
+  "sri-lanka": {
+    "name": "Sri Lanka",
+    "color": "#E718B0",
+    "lat": 7.034228571428572,
+    "lon": 80.45955714285715,
+    "continent": "Asia",
+    "eyebrow": "Asia",
+    "sub": "Situada entre las partes más exploradas de la India y el sudeste asiático, la historia, la cultura y la belleza natural de Sri Lanka lo convierten en un destino indudablemente atra",
+    "items": [
+      {
+        "n": "01",
+        "t": "Descubre Sri Lanka",
+        "d": "Situada entre las partes más exploradas de la India y el sudeste asiático, la historia, la cultura y la belleza natural de Sri Lanka lo convierten en un destino indudablemente atra",
+        "img": "sri-lanka landscape"
+      },
+      {
+        "n": "02",
+        "t": "Itinerario a medida",
+        "d": "Tu Honimunn Planner diseña cada etapa del viaje, sin plantillas ni prisas.",
+        "img": "sri-lanka travel"
+      },
+      {
+        "n": "03",
+        "t": "Alojamientos seleccionados",
+        "d": "Hoteles boutique y propiedades que no aparecen en las guías.",
+        "img": "sri-lanka hotel"
+      }
+    ]
+  },
+  "turquia": {
+    "name": "Turquía",
+    "color": "#6B37B2",
+    "lat": 38.480219999999996,
+    "lon": 30.19624,
+    "continent": "Europa",
+    "eyebrow": "Europa",
+    "sub": "Estambul es una parada clave en nuestros viajes por la región.",
+    "items": [
+      {
+        "n": "01",
+        "t": "Descubre Turquía",
+        "d": "Estambul es una parada clave en nuestros viajes por la región.",
+        "img": "turquia landscape"
+      },
+      {
+        "n": "02",
+        "t": "Itinerario a medida",
+        "d": "Tu Honimunn Planner diseña cada etapa del viaje, sin plantillas ni prisas.",
+        "img": "turquia travel"
+      },
+      {
+        "n": "03",
+        "t": "Alojamientos seleccionados",
+        "d": "Hoteles boutique y propiedades que no aparecen en las guías.",
+        "img": "turquia hotel"
+      }
+    ]
+  },
+  "botswana": {
+    "name": "Botswana",
+    "color": "#FF2700",
+    "lat": -18.64665,
+    "lon": 23.976100000000002,
+    "continent": "África",
+    "eyebrow": "África",
+    "sub": "El río Chobe forma el límite norte del Parque Nacional Chobe, conocido por sus diversas y abundantes oportunidades de visualización de juegos.",
+    "items": [
+      {
+        "n": "01",
+        "t": "Descubre Botswana",
+        "d": "El río Chobe forma el límite norte del Parque Nacional Chobe, conocido por sus diversas y abundantes oportunidades de visualización de juegos.",
+        "img": "botswana landscape"
+      },
+      {
+        "n": "02",
+        "t": "Itinerario a medida",
+        "d": "Tu Honimunn Planner diseña cada etapa del viaje, sin plantillas ni prisas.",
+        "img": "botswana travel"
+      },
+      {
+        "n": "03",
+        "t": "Alojamientos seleccionados",
+        "d": "Hoteles boutique y propiedades que no aparecen en las guías.",
+        "img": "botswana hotel"
+      }
+    ]
+  },
+  "sudafrica": {
+    "name": "Sudáfrica",
+    "color": "#FF2700",
+    "lat": -30.961342857142856,
+    "lon": 23.544800000000002,
+    "continent": "África",
+    "eyebrow": "África",
+    "sub": "Situada en la confluencia de los océanos Índico y Atlántico y respaldada por la icónica Montaña de la Mesa, la bulliciosa ciudad de Ciudad del Cabo presenta una atractiva combinaci",
+    "items": [
+      {
+        "n": "01",
+        "t": "Descubre Sudáfrica",
+        "d": "Situada en la confluencia de los océanos Índico y Atlántico y respaldada por la icónica Montaña de la Mesa, la bulliciosa ciudad de Ciudad del Cabo presenta una atractiva combinaci",
+        "img": "sudafrica landscape"
+      },
+      {
+        "n": "02",
+        "t": "Itinerario a medida",
+        "d": "Tu Honimunn Planner diseña cada etapa del viaje, sin plantillas ni prisas.",
+        "img": "sudafrica travel"
+      },
+      {
+        "n": "03",
+        "t": "Alojamientos seleccionados",
+        "d": "Hoteles boutique y propiedades que no aparecen en las guías.",
+        "img": "sudafrica hotel"
+      }
+    ]
+  },
+  "zimbabue": {
+    "name": "Zimbabue",
+    "color": "#FF2700",
+    "lat": -17.9243,
+    "lon": 25.8572,
+    "continent": "África",
+    "eyebrow": "África",
+    "sub": "Conocidas localmente como Mosi-oa-Tunya («El humo que truena»), las Cataratas Victoria son uno de los grandes hitos naturales del mundo.",
+    "items": [
+      {
+        "n": "01",
+        "t": "Descubre Zimbabue",
+        "d": "Conocidas localmente como Mosi-oa-Tunya («El humo que truena»), las Cataratas Victoria son uno de los grandes hitos naturales del mundo.",
+        "img": "zimbabue landscape"
+      },
+      {
+        "n": "02",
+        "t": "Itinerario a medida",
+        "d": "Tu Honimunn Planner diseña cada etapa del viaje, sin plantillas ni prisas.",
+        "img": "zimbabue travel"
+      },
+      {
+        "n": "03",
+        "t": "Alojamientos seleccionados",
+        "d": "Hoteles boutique y propiedades que no aparecen en las guías.",
+        "img": "zimbabue hotel"
+      }
+    ]
+  },
+  "kenia": {
+    "name": "Kenia",
+    "color": "#FF2700",
+    "lat": -0.82914,
+    "lon": 36.60402,
+    "continent": "África",
+    "eyebrow": "África",
+    "sub": "Descansando en el magnífico Gran Valle del Rift y presidido por el majestuoso Monte Kilimanjaro, Kenia se caracteriza por hermosos paisajes naturales de colinas boscosas, granjas d",
+    "items": [
+      {
+        "n": "01",
+        "t": "Descubre Kenia",
+        "d": "Descansando en el magnífico Gran Valle del Rift y presidido por el majestuoso Monte Kilimanjaro, Kenia se caracteriza por hermosos paisajes naturales de colinas boscosas, granjas d",
+        "img": "kenia landscape"
+      },
+      {
+        "n": "02",
+        "t": "Itinerario a medida",
+        "d": "Tu Honimunn Planner diseña cada etapa del viaje, sin plantillas ni prisas.",
+        "img": "kenia travel"
+      },
+      {
+        "n": "03",
+        "t": "Alojamientos seleccionados",
+        "d": "Hoteles boutique y propiedades que no aparecen en las guías.",
+        "img": "kenia hotel"
+      }
+    ]
+  },
+  "madagascar": {
+    "name": "Madagascar",
+    "color": "#FF2700",
+    "lat": -18.79318,
+    "lon": 46.75308,
+    "continent": "África",
+    "eyebrow": "África",
+    "sub": "Antananarivo es una parada clave en nuestros viajes por la región.",
+    "items": [
+      {
+        "n": "01",
+        "t": "Descubre Madagascar",
+        "d": "Antananarivo es una parada clave en nuestros viajes por la región.",
+        "img": "madagascar landscape"
+      },
+      {
+        "n": "02",
+        "t": "Itinerario a medida",
+        "d": "Tu Honimunn Planner diseña cada etapa del viaje, sin plantillas ni prisas.",
+        "img": "madagascar travel"
+      },
+      {
+        "n": "03",
+        "t": "Alojamientos seleccionados",
+        "d": "Hoteles boutique y propiedades que no aparecen en las guías.",
+        "img": "madagascar hotel"
+      }
+    ]
+  },
+  "marruecos": {
+    "name": "Marruecos",
+    "color": "#FF2700",
+    "lat": 33.1796,
+    "lon": -7.12036,
+    "continent": "África",
+    "eyebrow": "África",
+    "sub": "Marrakech es una parada clave en nuestros viajes por la región.",
+    "items": [
+      {
+        "n": "01",
+        "t": "Descubre Marruecos",
+        "d": "Marrakech es una parada clave en nuestros viajes por la región.",
+        "img": "marruecos landscape"
+      },
+      {
+        "n": "02",
+        "t": "Itinerario a medida",
+        "d": "Tu Honimunn Planner diseña cada etapa del viaje, sin plantillas ni prisas.",
+        "img": "marruecos travel"
+      },
+      {
+        "n": "03",
+        "t": "Alojamientos seleccionados",
+        "d": "Hoteles boutique y propiedades que no aparecen en las guías.",
+        "img": "marruecos hotel"
+      }
+    ]
+  },
+  "mauricio": {
+    "name": "Mauricio",
+    "color": "#FF2700",
+    "lat": -20.265520000000002,
+    "lon": 57.43262,
+    "continent": "África",
+    "eyebrow": "África",
+    "sub": "Port Louis es una parada clave en nuestros viajes por la región.",
+    "items": [
+      {
+        "n": "01",
+        "t": "Descubre Mauricio",
+        "d": "Port Louis es una parada clave en nuestros viajes por la región.",
+        "img": "mauricio landscape"
+      },
+      {
+        "n": "02",
+        "t": "Itinerario a medida",
+        "d": "Tu Honimunn Planner diseña cada etapa del viaje, sin plantillas ni prisas.",
+        "img": "mauricio travel"
+      },
+      {
+        "n": "03",
+        "t": "Alojamientos seleccionados",
+        "d": "Hoteles boutique y propiedades que no aparecen en las guías.",
+        "img": "mauricio hotel"
+      }
+    ]
+  },
+  "mozambique": {
+    "name": "Mozambique",
+    "color": "#FF2700",
+    "lat": -22,
+    "lon": 35.3167,
+    "continent": "África",
+    "eyebrow": "África",
+    "sub": "Situado en la provincia mozambiqueña de Inhambane, Vilanculos es un pueblo relajado con unas preciosas playas bañadas por aguas turquesas cristalinas.",
+    "items": [
+      {
+        "n": "01",
+        "t": "Descubre Mozambique",
+        "d": "Situado en la provincia mozambiqueña de Inhambane, Vilanculos es un pueblo relajado con unas preciosas playas bañadas por aguas turquesas cristalinas.",
+        "img": "mozambique landscape"
+      },
+      {
+        "n": "02",
+        "t": "Itinerario a medida",
+        "d": "Tu Honimunn Planner diseña cada etapa del viaje, sin plantillas ni prisas.",
+        "img": "mozambique travel"
+      },
+      {
+        "n": "03",
+        "t": "Alojamientos seleccionados",
+        "d": "Hoteles boutique y propiedades que no aparecen en las guías.",
+        "img": "mozambique hotel"
+      }
+    ]
+  },
+  "namibia": {
+    "name": "Namibia",
+    "color": "#FF2700",
+    "lat": -23.5519625,
+    "lon": 16.080725,
+    "continent": "África",
+    "eyebrow": "África",
+    "sub": "Como se describió previamente…",
+    "items": [
+      {
+        "n": "01",
+        "t": "Descubre Namibia",
+        "d": "Como se describió previamente…",
+        "img": "namibia landscape"
+      },
+      {
+        "n": "02",
+        "t": "Itinerario a medida",
+        "d": "Tu Honimunn Planner diseña cada etapa del viaje, sin plantillas ni prisas.",
+        "img": "namibia travel"
+      },
+      {
+        "n": "03",
+        "t": "Alojamientos seleccionados",
+        "d": "Hoteles boutique y propiedades que no aparecen en las guías.",
+        "img": "namibia hotel"
+      }
+    ]
+  },
+  "reunion": {
+    "name": "Reunión",
+    "color": "#FF2700",
+    "lat": -21.125799999999998,
+    "lon": 55.52686,
+    "continent": "África",
+    "eyebrow": "África",
+    "sub": "Saint-Denis es una parada clave en nuestros viajes por la región.",
+    "items": [
+      {
+        "n": "01",
+        "t": "Descubre Reunión",
+        "d": "Saint-Denis es una parada clave en nuestros viajes por la región.",
+        "img": "reunion landscape"
+      },
+      {
+        "n": "02",
+        "t": "Itinerario a medida",
+        "d": "Tu Honimunn Planner diseña cada etapa del viaje, sin plantillas ni prisas.",
+        "img": "reunion travel"
+      },
+      {
+        "n": "03",
+        "t": "Alojamientos seleccionados",
+        "d": "Hoteles boutique y propiedades que no aparecen en las guías.",
+        "img": "reunion hotel"
+      }
+    ]
+  },
+  "seychelles": {
+    "name": "Seychelles",
+    "color": "#FF2700",
+    "lat": -4.6796,
+    "lon": 55.452,
+    "continent": "África",
+    "eyebrow": "África",
+    "sub": "Salpicando el Océano Índico frente a la costa de África Oriental, Seychelles es famosa por sus escapadas románticas a medida, oportunidades de aventura y su impresionante belleza n",
+    "items": [
+      {
+        "n": "01",
+        "t": "Descubre Seychelles",
+        "d": "Salpicando el Océano Índico frente a la costa de África Oriental, Seychelles es famosa por sus escapadas románticas a medida, oportunidades de aventura y su impresionante belleza n",
+        "img": "seychelles landscape"
+      },
+      {
+        "n": "02",
+        "t": "Itinerario a medida",
+        "d": "Tu Honimunn Planner diseña cada etapa del viaje, sin plantillas ni prisas.",
+        "img": "seychelles travel"
+      },
+      {
+        "n": "03",
+        "t": "Alojamientos seleccionados",
+        "d": "Hoteles boutique y propiedades que no aparecen en las guías.",
+        "img": "seychelles hotel"
+      }
+    ]
+  },
+  "tanzania": {
+    "name": "Tanzania",
+    "color": "#FF2700",
+    "lat": -3.505616666666667,
+    "lon": 36.053533333333334,
+    "continent": "África",
+    "eyebrow": "África",
+    "sub": "El nombre Tanzania evoca imágenes de ñus corriendo en estampida por una vasta sabana, selvas tropicales repletas de monos y aves, y grandes llanuras repletas de legiones de animale",
+    "items": [
+      {
+        "n": "01",
+        "t": "Descubre Tanzania",
+        "d": "El nombre Tanzania evoca imágenes de ñus corriendo en estampida por una vasta sabana, selvas tropicales repletas de monos y aves, y grandes llanuras repletas de legiones de animale",
+        "img": "tanzania landscape"
+      },
+      {
+        "n": "02",
+        "t": "Itinerario a medida",
+        "d": "Tu Honimunn Planner diseña cada etapa del viaje, sin plantillas ni prisas.",
+        "img": "tanzania travel"
+      },
+      {
+        "n": "03",
+        "t": "Alojamientos seleccionados",
+        "d": "Hoteles boutique y propiedades que no aparecen en las guías.",
+        "img": "tanzania hotel"
+      }
+    ]
+  },
+  "uganda": {
+    "name": "Uganda",
+    "color": "#FF2700",
+    "lat": 0.44315714285714286,
+    "lon": 31.054214285714288,
+    "continent": "África",
+    "eyebrow": "África",
+    "sub": "Como se describió previamente…",
+    "items": [
+      {
+        "n": "01",
+        "t": "Descubre Uganda",
+        "d": "Como se describió previamente…",
+        "img": "uganda landscape"
+      },
+      {
+        "n": "02",
+        "t": "Itinerario a medida",
+        "d": "Tu Honimunn Planner diseña cada etapa del viaje, sin plantillas ni prisas.",
+        "img": "uganda travel"
+      },
+      {
+        "n": "03",
+        "t": "Alojamientos seleccionados",
+        "d": "Hoteles boutique y propiedades que no aparecen en las guías.",
+        "img": "uganda hotel"
+      }
+    ]
+  },
+  "zambia": {
+    "name": "Zambia",
+    "color": "#FF2700",
+    "lat": -14.2604,
+    "lon": 30.05305,
+    "continent": "África",
+    "eyebrow": "África",
+    "sub": "Lusaka es una parada clave en nuestros viajes por la región.",
+    "items": [
+      {
+        "n": "01",
+        "t": "Descubre Zambia",
+        "d": "Lusaka es una parada clave en nuestros viajes por la región.",
+        "img": "zambia landscape"
+      },
+      {
+        "n": "02",
+        "t": "Itinerario a medida",
+        "d": "Tu Honimunn Planner diseña cada etapa del viaje, sin plantillas ni prisas.",
+        "img": "zambia travel"
+      },
+      {
+        "n": "03",
+        "t": "Alojamientos seleccionados",
+        "d": "Hoteles boutique y propiedades que no aparecen en las guías.",
+        "img": "zambia hotel"
+      }
+    ]
+  },
+  "japan": {
+    "name": "Japón",
+    "color": "#E718B0",
+    "lat": 34.81258,
+    "lon": 135.13912,
+    "continent": "Asia",
+    "eyebrow": "Asia",
+    "sub": "Osaka es una gran ciudad portuaria y un centro comercial concurrido en la isla japonesa de Honshu, conocida por su arquitectura moderna, su vibrante vida nocturna y su deliciosa co",
+    "items": [
+      {
+        "n": "01",
+        "t": "Descubre Japón",
+        "d": "Osaka es una gran ciudad portuaria y un centro comercial concurrido en la isla japonesa de Honshu, conocida por su arquitectura moderna, su vibrante vida nocturna y su deliciosa co",
+        "img": "japan landscape"
+      },
+      {
+        "n": "02",
+        "t": "Itinerario a medida",
+        "d": "Tu Honimunn Planner diseña cada etapa del viaje, sin plantillas ni prisas.",
+        "img": "japan travel"
+      },
+      {
+        "n": "03",
+        "t": "Alojamientos seleccionados",
+        "d": "Hoteles boutique y propiedades que no aparecen en las guías.",
+        "img": "japan hotel"
+      }
+    ]
+  }
+}

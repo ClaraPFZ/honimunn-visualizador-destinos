@@ -1,0 +1,362 @@
+{
+  "tanzania:tanzania": {
+    "name": "Tanzania",
+    "eyebrow": "Destino Honimunn",
+    "sub": "El nombre Tanzania evoca imágenes de ñus corriendo en estampida por una vasta sabana, selvas tropicales repletas de monos y aves, y grandes llanuras repletas de legiones de animales de caza.",
+    "continent": null,
+    "country": "tanzania",
+    "items": [
+      {
+        "n": "01",
+        "t": "Naturaleza salvaje",
+        "d": "El nombre Tanzania evoca imágenes de ñus corriendo en estampida por una vasta sabana, selvas tropicales repletas de monos y aves, y grandes llanuras repletas de legiones de animales de caza.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/37372/serengeti_western_corridor_-cavan-images-_shutterstock_1909084672.jpg"
+      },
+      {
+        "n": "02",
+        "t": "Qué ver y hacer",
+        "d": "Todas estas maravillas naturales y más se pueden encontrar en esta nación africana excepcionalmente diversa.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/37372/serengeti_western_corridor_-cavan-images-_shutterstock_1909084672.jpg"
+      },
+      {
+        "n": "03",
+        "t": "Playas e islas",
+        "d": "Los visitantes suelen visitar Tanzania para participar en al menos una de las cuatro experiencias turísticas más conocidas de Tanzania: unas relajantes vacaciones junto al mar en la pintoresca isla paradisíaca de Zanzíbar, un recorrido submarino por algunos de los sitios de buceo más famosos del mundo alrededor de las hermosas Islas de las Especias, una aventura de safari en algunas de las reservas de caza más impresionantes de África o una excursión de senderismo por el Parque Nacional del Monte Kilimanjaro.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/37372/serengeti_western_corridor_-cavan-images-_shutterstock_1909084672.jpg"
+      },
+      {
+        "n": "04",
+        "t": "Gastronomía local",
+        "d": "Sea cual sea la elección de estas increíbles vacaciones, sin duda será recibido por unos habitantes fabulosamente amables y tranquilos que, a pesar de estar divididos en 120 grupos étnicos y culturas diferentes, viven en armonía unos con otros y ofrecen una de las cocinas locales más exóticas que pueda imaginar.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/37372/serengeti_western_corridor_-cavan-images-_shutterstock_1909084672.jpg"
+      },
+      {
+        "n": "05",
+        "t": "Dónde dormir",
+        "d": "Hoteles boutique y propiedades con encanto, elegidos por nuestros planners.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/37372/serengeti_western_corridor_-cavan-images-_shutterstock_1909084672.jpg"
+      }
+    ],
+    "cover": "https://destino.honimunn.com/ImageHandler/c1200x800/37372/serengeti_western_corridor_-cavan-images-_shutterstock_1909084672.jpg"
+  },
+  "tanzania:karatu": {
+    "name": "Karatu",
+    "eyebrow": "7 - 8",
+    "sub": "Como se describió previamente…",
+    "continent": null,
+    "country": "tanzania",
+    "items": [
+      {
+        "n": "01",
+        "t": "Dónde dormir",
+        "d": "El Ngorongoro Farmhouse Lodge está situado debajo del majestuoso volcán Oldeani, y cuenta con fácil acceso tanto a la naturaleza salvaje del área de conservación de Ngorongoro, como al simple placer de una excursión a través de 500 acres de tierras de cultivo.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/15348/amp_5944.jpg"
+      },
+      {
+        "n": "02",
+        "t": "Qué ver y hacer",
+        "d": "Descubrid Karatu con calma, en profundidad y con tiempo para disfrutarlo en pareja.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/23964/karatu-shutterstock-2179917353.jpg"
+      },
+      {
+        "n": "03",
+        "t": "Entorno y paisaje",
+        "d": "Descubrid Karatu con calma, en profundidad y con tiempo para disfrutarlo en pareja.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/23964/karatu-shutterstock-1018550353.jpg"
+      },
+      {
+        "n": "04",
+        "t": "Gastronomía y barrios",
+        "d": "Descubrid Karatu con calma, en profundidad y con tiempo para disfrutarlo en pareja.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/15348/amp_5944.jpg"
+      },
+      {
+        "n": "05",
+        "t": "Tu estancia Honimunn",
+        "d": "Itinerario privado diseñado a medida por vuestro Honimunn Planner, sin prisas ni grupos aglomerados.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/15348/amp_6084.jpg"
+      }
+    ],
+    "cover": "https://destino.honimunn.com/ImageHandler/c1200x800/23964/karatu-istock-1410888035.jpg"
+  },
+  "tanzania:serengeti-national-park": {
+    "name": "Serengeti National Park",
+    "eyebrow": "5 - 7",
+    "sub": "El Serengeti, junto con el parque de caza Masai Mara de Kenia, constituyen el parque de vida silvestre más famoso de África, que se extiende por los fascinantes paisajes del norte de Tanzania.",
+    "continent": null,
+    "country": "tanzania",
+    "items": [
+      {
+        "n": "01",
+        "t": "Naturaleza salvaje",
+        "d": "El Serengeti, junto con el parque de caza Masai Mara de Kenia, constituyen el parque de vida silvestre más famoso de África, que se extiende por los fascinantes paisajes del norte de Tanzania.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/13794/shutterstock_231140860.jpg"
+      },
+      {
+        "n": "02",
+        "t": "Qué ver y hacer",
+        "d": "Este es un ecosistema precioso que apoya la migración anual de ñus a través del Serengeti y el Masai Mara.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/13794/shutterstock_748246438.jpg"
+      },
+      {
+        "n": "03",
+        "t": "Entorno y paisaje",
+        "d": "El mayor movimiento masivo de mamíferos terrestres del planeta involucra a más de un millón de animales después de las lluvias, incluidos más de 1,5 millones de ñus de barba blanca y 250 000 cebras.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/13794/shutterstock_2293273591.jpg"
+      },
+      {
+        "n": "04",
+        "t": "Gastronomía y barrios",
+        "d": "Las manadas de leones, así como grupos de elefantes, jirafas, gacelas y eland, deambulan entre las vastas llanuras de hierba fotogénicas entre árboles de acacias de aspecto extraño y maravilloso.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/26836/amp_8133.jpg"
+      },
+      {
+        "n": "05",
+        "t": "Dónde dormir",
+        "d": "Serengeti Kati Kati es un campamento móvil de tiendas de campaña ubicado en el Serengeti central, estratégicamente ubicado para cubrir las vastas llanuras del Serengeti.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/26836/amp_8133.jpg"
+      }
+    ],
+    "cover": "https://destino.honimunn.com/ImageHandler/c1200x800/13794/shutterstock_231140860.jpg"
+  },
+  "tanzania:zanzibar": {
+    "name": "Zanzibar",
+    "eyebrow": "8 - 12",
+    "sub": "Situada a unos 40 kilómetros de la costa de Tanzania, la isla de Zanzíbar se caracteriza por sus exquisitas playas de arena blanca bordeadas de palmeras, y sus aguas turquesas y arrecifes rebosan una abundante vida marina exótica.",
+    "continent": null,
+    "country": "tanzania",
+    "items": [
+      {
+        "n": "01",
+        "t": "Playas e islas",
+        "d": "Situada a unos 40 kilómetros de la costa de Tanzania, la isla de Zanzíbar se caracteriza por sus exquisitas playas de arena blanca bordeadas de palmeras, y sus aguas turquesas y arrecifes rebosan una abundante vida marina exótica.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/13944/zanzibar-istock-1301087425.jpg"
+      },
+      {
+        "n": "02",
+        "t": "Qué ver y hacer",
+        "d": "Se trata de una gran meca para los amantes de los deportes acuáticos, que acuden aquí para practicar submarinismo, esnórquel, pesca en alta mar, piragüismo y kitesurf.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/13944/shutterstock_1700649799.jpg"
+      },
+      {
+        "n": "03",
+        "t": "Cultura viva",
+        "d": "Los visitantes pueden incluso ir a navegar en barcos tradicionales.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/13944/istock-1136453251.jpg"
+      },
+      {
+        "n": "04",
+        "t": "Gastronomía y barrios",
+        "d": "El casco antiguo de la isla, Stone Town, cuenta con un laberinto de callejuelas estrechas repletas de boutiques, bares, restaurantes, bazares, mezquitas y adornadas casas árabes.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/98932/33.jpg"
+      },
+      {
+        "n": "05",
+        "t": "Dónde dormir",
+        "d": "El Zanbluu Beach Hotel está situado en un pequeño acantilado en Kiwengwa, Zanzíbar, y ofrece impresionantes vistas del océano Índico.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/98932/33.jpg"
+      }
+    ],
+    "cover": "https://destino.honimunn.com/ImageHandler/c1200x800/13944/zanzibar-istock-1301087425.jpg"
+  },
+  "tanzania:arusha": {
+    "name": "Arusha",
+    "eyebrow": "2 - 3",
+    "sub": "Descansada a los pies del monte Meru, la extensa ciudad de Arusha es conocida como la capital de safari del norte de Tanzania.",
+    "continent": null,
+    "country": "tanzania",
+    "items": [
+      {
+        "n": "01",
+        "t": "Naturaleza salvaje",
+        "d": "Descansada a los pies del monte Meru, la extensa ciudad de Arusha es conocida como la capital de safari del norte de Tanzania.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/13682/shutterstock_1263391738.jpg"
+      },
+      {
+        "n": "02",
+        "t": "Qué ver y hacer",
+        "d": "Sirve como una excelente base para explorar la zona circundante extraordinariamente pintoresca que incluye el majestuoso monte Kilimanjaro, así como el Manyara, Tarangire y Ngorongoro National Parques.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/13682/shutterstock_1713478198.jpg"
+      },
+      {
+        "n": "03",
+        "t": "Playas e islas",
+        "d": "Arusha es un buen lugar para tomar un día o dos fuera del circuito de safari, ya que cuenta con un clima templado y exuberante entorno.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/13682/shutterstock_2054136812.jpg"
+      },
+      {
+        "n": "04",
+        "t": "Gastronomía y barrios",
+        "d": "Los visitantes podrán explorar el Parque Nacional Serengeti, abundante fauna silvestre, el magnífico Parque Nacional de Arusha, y asumir el reto de escalar el Monte Meru, quinta montaña más alta.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/168360/and_67921.jpg"
+      },
+      {
+        "n": "05",
+        "t": "Dónde dormir",
+        "d": "El Kahawa House es un alojamiento acogedor situado en una zona suburbana en el norte de Tanzania, en Arusha, a 6 km al suroeste del centro de la ciudad.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/168360/and_67921.jpg"
+      }
+    ],
+    "cover": "https://destino.honimunn.com/ImageHandler/c1200x800/13682/shutterstock_1263391738.jpg"
+  },
+  "tanzania:lake-burunge": {
+    "name": "Lake Burunge",
+    "eyebrow": "3 - 4",
+    "sub": "Ubicado en el corredor migratorio de importancia ecológica de Manyara y Tarangire, el lago Burunge-Manyara es uno de los tres principales lagos de la región de Manyara, en Tanzania, que ofrece increíbles oportunidades de visualización de juegos.",
+    "continent": null,
+    "country": "tanzania",
+    "items": [
+      {
+        "n": "01",
+        "t": "Lo esencial",
+        "d": "Ubicado en el corredor migratorio de importancia ecológica de Manyara y Tarangire, el lago Burunge-Manyara es uno de los tres principales lagos de la región de Manyara, en Tanzania, que ofrece increíbles oportunidades de visualización de juegos.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/60087/lake_burunge-shutterstock-1099026716.jpg"
+      },
+      {
+        "n": "02",
+        "t": "Qué ver y hacer",
+        "d": "Los miradores a lo largo de la orilla ofrecen encuentros de cerca con los animales salvajes que vienen a beber o cazar, así como con 300 especies de aves.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/60087/lake_burunge-shutterstock-83062600.jpg"
+      },
+      {
+        "n": "03",
+        "t": "Cultura viva",
+        "d": "Paseos guiados, paseos guiados, piragüismo y visitas culturales a los vecinos pueblos Mbugwe y masai son solo algunas de las actividades que los visitantes pueden esperar.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/60087/lake_burunge-shutterstock-239904697.jpg"
+      },
+      {
+        "n": "04",
+        "t": "Naturaleza salvaje",
+        "d": "El vecino Parque Nacional Tarangire es otro punto destacado de la zona, a solo 30 kilómetros de distancia.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/25657/twc2018-105.jpg"
+      },
+      {
+        "n": "05",
+        "t": "Dónde dormir",
+        "d": "Tiendas de lujo permanentes.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/25657/twc2018-105.jpg"
+      }
+    ],
+    "cover": "https://destino.honimunn.com/ImageHandler/c1200x800/60087/lake_burunge-shutterstock-1099026716.jpg"
+  },
+  "tanzania:serengeti-western-corridor": {
+    "name": "Serengeti Western Corridor",
+    "eyebrow": "5 - 7",
+    "sub": "Definido por sus dos ríos paralelos: el Mbalageti y el Grumeti, el remoto corredor occidental del Serengeti alberga una deslumbrante variedad de especies animales, aves y florales.",
+    "continent": null,
+    "country": "tanzania",
+    "items": [
+      {
+        "n": "01",
+        "t": "Naturaleza salvaje",
+        "d": "Definido por sus dos ríos paralelos: el Mbalageti y el Grumeti, el remoto corredor occidental del Serengeti alberga una deslumbrante variedad de especies animales, aves y florales.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/37372/serengeti_western_corridor_-matej_kastelic-_shutterstock_682728133.jpg"
+      },
+      {
+        "n": "02",
+        "t": "Qué ver y hacer",
+        "d": "Esta región se convierte en una colmena de actividad alrededor de julio, cuando ofrece asientos en primera fila para la Gran Migración, con cientos de miles de ñus y otras especies migratorias atravesando los bosques de la zona y sus llanuras.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/37372/serengeti_western_corridor_-cavan-images-_shutterstock_1909084672.jpg"
+      },
+      {
+        "n": "03",
+        "t": "Entorno y paisaje",
+        "d": "Si bien este es sin duda el punto culminante anual de la vida silvestre, el Western Corridor ofrece una buena vista del juego durante todo el año, con paseos guiados, safaris a caballo y viajes en globo como alternativa a los viajes.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/37372/serengeti_western_corridor_-_florian_bott-_shutterstock_1354679693.jpg"
+      },
+      {
+        "n": "04",
+        "t": "Dónde dormir",
+        "d": "El Lahia Tented Camps goza de una ubicación práctica en el centro del corredor occidental del parque nacional de Serengeti y ofrece fácil acceso a los principales lugares de interés de la zona, como el Maasai kopjes, el Museo Olduvai Gorge, el valle de Seromera y el río Grumeti.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/169491/landscape_and_lodge.jpg"
+      },
+      {
+        "n": "05",
+        "t": "Tu estancia Honimunn",
+        "d": "Itinerario privado diseñado a medida por vuestro Honimunn Planner, sin prisas ni grupos aglomerados.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/169491/dji_0058.jpg"
+      }
+    ],
+    "cover": "https://destino.honimunn.com/ImageHandler/c1200x800/37372/serengeti_western_corridor_-matej_kastelic-_shutterstock_682728133.jpg"
+  },
+  "tanzania:kenya": {
+    "name": "Kenya",
+    "eyebrow": "Destino Honimunn",
+    "sub": "Descansando en el magnífico Gran Valle del Rift y presidido por el majestuoso Monte Kilimanjaro, Kenia se caracteriza por hermosos paisajes naturales de colinas boscosas, granjas de patchwork, sabana arbolada y vastos bosques rebosantes de una extraordinaria abundancia de vida silvestre.",
+    "continent": null,
+    "country": "tanzania",
+    "items": [
+      {
+        "n": "01",
+        "t": "Naturaleza salvaje",
+        "d": "Descansando en el magnífico Gran Valle del Rift y presidido por el majestuoso Monte Kilimanjaro, Kenia se caracteriza por hermosos paisajes naturales de colinas boscosas, granjas de patchwork, sabana arbolada y vastos bosques rebosantes de una extraordinaria abundancia de vida silvestre.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/37372/serengeti_western_corridor_-matej_kastelic-_shutterstock_682728133.jpg"
+      },
+      {
+        "n": "02",
+        "t": "Playas e islas",
+        "d": "La diversidad de culturas africanas tradicionales de la nación está influenciada por más de 70 grupos étnicos únicos, desde las tribus maasai, samburu, kikuyu y turkana hasta los árabes e indios que se asentaron en la costa.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/37372/serengeti_western_corridor_-matej_kastelic-_shutterstock_682728133.jpg"
+      },
+      {
+        "n": "03",
+        "t": "Entorno y paisaje",
+        "d": "Añadir a esto: una exquisita costa tropical rodeada de impresionantes playas de arena dorada; magníficos jardines de coral que ofrecen excelentes oportunidades de buceo y snorkel; y un montón de animados resorts de playa, y es fácil ver por qué tantos visitantes acuden aquí de todo el mundo para experimentar una verdadera Aventura africana en uno de los destinos de safari más prístinos del mundo.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/37372/serengeti_western_corridor_-matej_kastelic-_shutterstock_682728133.jpg"
+      },
+      {
+        "n": "04",
+        "t": "Dónde dormir",
+        "d": "Hoteles boutique y propiedades con encanto, elegidos por nuestros planners.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/37372/serengeti_western_corridor_-matej_kastelic-_shutterstock_682728133.jpg"
+      },
+      {
+        "n": "05",
+        "t": "Tu estancia Honimunn",
+        "d": "Itinerario privado diseñado a medida por vuestro Honimunn Planner, sin prisas ni grupos aglomerados.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/37372/serengeti_western_corridor_-matej_kastelic-_shutterstock_682728133.jpg"
+      }
+    ],
+    "cover": "https://destino.honimunn.com/ImageHandler/c1200x800/37372/serengeti_western_corridor_-matej_kastelic-_shutterstock_682728133.jpg"
+  },
+  "tanzania:nairobi": {
+    "name": "Nairobi",
+    "eyebrow": "8 - 9",
+    "sub": "Situada a lo largo del río Nairobi, en la hermosa Kenia, la capital de Nairobi es la ciudad más cosmopolita de África Oriental.",
+    "continent": null,
+    "country": "tanzania",
+    "items": [
+      {
+        "n": "01",
+        "t": "Vida urbana",
+        "d": "Situada a lo largo del río Nairobi, en la hermosa Kenia, la capital de Nairobi es la ciudad más cosmopolita de África Oriental.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/13738/istock-684062570.jpg"
+      },
+      {
+        "n": "02",
+        "t": "Naturaleza salvaje",
+        "d": "Sirve como un excelente punto de partida para los viajes de safari africano por Kenia.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/13738/istock-926974946.jpg"
+      },
+      {
+        "n": "03",
+        "t": "Entorno y paisaje",
+        "d": "Nairobi es la cuarta ciudad más grande de África y es un lugar vibrante y emocionante para estar.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/13738/istock-536684038.jpg"
+      },
+      {
+        "n": "04",
+        "t": "Patrimonio e historia",
+        "d": "Hay algunas atracciones fascinantes: su cultura cafetería, una vida nocturna desenfrenada, el Museo Nacional, el Museo Karen Blixen y, sobre todo, a solo 20 minutos del centro de la ciudad, los leones salvajes y los búfalos vagan por la única reserva de caza urbana del mundo.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/123601/nbofa-exterior-9815-hor-wide2.jpg"
+      },
+      {
+        "n": "05",
+        "t": "Dónde dormir",
+        "d": "El Four Points by Sheraton Nairobi Airport está convenientemente ubicado cerca del aeropuerto internacional Jomo Kenyatta de Kenia.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/123601/nbofa-exterior-9815-hor-wide2.jpg"
+      }
+    ],
+    "cover": "https://destino.honimunn.com/ImageHandler/c1200x800/13738/istock-684062570.jpg"
+  }
+}

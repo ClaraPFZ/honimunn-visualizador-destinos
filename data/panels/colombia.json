@@ -1,0 +1,242 @@
+{
+  "colombia:cartagena": {
+    "name": "Cartagena",
+    "eyebrow": "11 - 13",
+    "sub": "La ciudad portuaria de Cartagena se encuentra en la costa caribeña de Colombia.",
+    "continent": null,
+    "country": "colombia",
+    "items": [
+      {
+        "n": "01",
+        "t": "Playas e islas",
+        "d": "La ciudad portuaria de Cartagena se encuentra en la costa caribeña de Colombia.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/46645/cartagena-shutterstock-170733701.jpg"
+      },
+      {
+        "n": "02",
+        "t": "Qué ver y hacer",
+        "d": "Es un popular destino de playa con un clima tropical templado.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/46645/cartagena-istock-154927028.jpg"
+      },
+      {
+        "n": "03",
+        "t": "Vida urbana",
+        "d": "Esta ciudad costera caribeña ofrece a los visitantes una mezcla de lo antiguo y lo nuevo y emocionante.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/46645/cartagena-istock-1278262003.jpg"
+      },
+      {
+        "n": "04",
+        "t": "Patrimonio e historia",
+        "d": "Adéntrate en las calles adoquinadas de la ciudad amurallada, Patrimonio de la Humanidad con muros de piedra de 400 años de antigüedad que cubren 13 kilómetros, y explora un intrincado laberinto de casas en tonos pastel, arquitectura colonial, iglesias y lugares históricos como el Palacio de la Inquisición.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/360454/665ca4ea55f95d42fa520f7d_65ccd7aa68221e86c355defb_caffe20bar20-201.jpeg"
+      },
+      {
+        "n": "05",
+        "t": "Dónde dormir",
+        "d": "El Hotel Casa La Mantilla se encuentra en el pintoresco entorno de Cartagena.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/360454/665ca4ea55f95d42fa520f7d_65ccd7aa68221e86c355defb_caffe20bar20-201.jpeg"
+      }
+    ],
+    "cover": "https://destino.honimunn.com/ImageHandler/c1200x800/46645/cartagena-shutterstock-170733701.jpg"
+  },
+  "colombia:isla-baru": {
+    "name": "Isla Baru",
+    "eyebrow": "13 - 16",
+    "sub": "Formando parte de las Islas del Rosario, Isla Baru se encuentra a sólo una hora fuera de Cartagena, Colombia.",
+    "continent": null,
+    "country": "colombia",
+    "items": [
+      {
+        "n": "01",
+        "t": "Playas e islas",
+        "d": "Formando parte de las Islas del Rosario, Isla Baru se encuentra a sólo una hora fuera de Cartagena, Colombia.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/148778/shutterstock_1330719809.jpg"
+      },
+      {
+        "n": "02",
+        "t": "Qué ver y hacer",
+        "d": "Este paraíso tropical es el hogar de la famosa playa con franjas de palmeras, Playa Blanca, con arena blanca en polvo fina y bañada por aguas caribeñas imposiblemente azules.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/148778/shutterstock_195628739.jpg"
+      },
+      {
+        "n": "03",
+        "t": "Entorno y paisaje",
+        "d": "Los visitantes pueden saltar en un paseo en barco a las cercanas Islas del Rosario, bucear a través de un país de las maravillas submarinas, despertar en una amplia sala frente al mar con el sonido de las olas, relajarse en una hamaca junto al mar y probar 'arepas', un pan tradicional colombiana.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/148778/shutterstock_2031558689.jpg"
+      },
+      {
+        "n": "04",
+        "t": "Gastronomía y barrios",
+        "d": "No pierda la oportunidad de visitar el Avario Nacional de Colombia, un santuario de aves que alberga una gran variedad de aves, incluyendo flamencos, cóndores, pavos reales y guacamayos.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/148757/11.jpg"
+      },
+      {
+        "n": "05",
+        "t": "Dónde dormir",
+        "d": "El Hotel Las Islas ofrece alojamiento con vistas al océano en Isla Barú, Colombia.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/148757/11.jpg"
+      }
+    ],
+    "cover": "https://destino.honimunn.com/ImageHandler/c1200x800/148778/shutterstock_1330719809.jpg"
+  },
+  "colombia:bogota": {
+    "name": "Bogota",
+    "eyebrow": "1 - 3",
+    "sub": "Situada a 2600 metros sobre el nivel del mar, en la base de las montañas de Guadalupe y Monserrate, es la capital de Colombia y uno de los principales destinos culturales de Sudamérica.",
+    "continent": null,
+    "country": "colombia",
+    "items": [
+      {
+        "n": "01",
+        "t": "Playas e islas",
+        "d": "Situada a 2600 metros sobre el nivel del mar, en la base de las montañas de Guadalupe y Monserrate, es la capital de Colombia y uno de los principales destinos culturales de Sudamérica.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/46644/bogota_-arturo_rosenow-_istock-1182337590.jpg"
+      },
+      {
+        "n": "02",
+        "t": "Patrimonio e historia",
+        "d": "Los mecenas de las artes pueden elegir entre los museos, galerías de arte, teatros escénicos y monumentos nacionales de la ciudad.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/46644/bogota_-diego_grandi-_shutterstock_645025342.jpg"
+      },
+      {
+        "n": "03",
+        "t": "Vida urbana",
+        "d": "Tan impresionante es la colección de bibliotecas e instituciones académicas de Bogotá que la ciudad se ha ganado el apodo de «La Atenas de América del Sur».",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/46644/bogota_-jess_kraft-_shutterstock_153960107.jpg"
+      },
+      {
+        "n": "04",
+        "t": "Gastronomía y barrios",
+        "d": "El distrito histórico de La Candelaria presume de muchas de estas ofertas, así como de una arquitectura histórica realmente impresionante.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/301466/1767162920401hotel-coco-un-refugio-urbano-en-bogota-min.jpg"
+      },
+      {
+        "n": "05",
+        "t": "Dónde dormir",
+        "d": "El Hotel Coco está situado en el distrito financiero y de restaurantes de Bogotá, con fácil acceso al artístico distrito de Chapinero y a las serenas calles adoquinadas de Rosales.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/301466/1767162920401hotel-coco-un-refugio-urbano-en-bogota-min.jpg"
+      }
+    ],
+    "cover": "https://destino.honimunn.com/ImageHandler/c1200x800/46644/bogota_-arturo_rosenow-_istock-1182337590.jpg"
+  },
+  "colombia:the-coffee-triangle": {
+    "name": "The Coffee Triangle",
+    "eyebrow": "3 - 6",
+    "sub": "Colombia es conocida por producir algunos de los mejores cafés del mundo - en una pintoresca región montañosa llamada Zona Cafetera - que significa el Triángulo del Café.",
+    "continent": null,
+    "country": "colombia",
+    "items": [
+      {
+        "n": "01",
+        "t": "Naturaleza salvaje",
+        "d": "Colombia es conocida por producir algunos de los mejores cafés del mundo - en una pintoresca región montañosa llamada Zona Cafetera - que significa el Triángulo del Café.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/46656/istock-1412823557.jpg"
+      },
+      {
+        "n": "02",
+        "t": "Gastronomía local",
+        "d": "Abarcando las regiones de Caldas, Risaralda y Quindío, Zona Cafetera ha abrazado el turismo y ofrece una amplia gama de auténticos hoteles o granjas tradicionales, desde los que los viajeros pueden recorrer las colinas de color verde esmeralda, los valles fértiles y las famosas plantaciones de café de gran altitud.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/46656/istock-611891416.jpg"
+      },
+      {
+        "n": "03",
+        "t": "Entorno y paisaje",
+        "d": "Los visitantes pueden pasar tiempo en las granjas, aprendiendo sobre el proceso de cultivo del café, que es especialmente divertido durante las temporadas de cosecha que van de abril a mayo y de octubre a diciembre.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/46656/shutterstock_1559587703.jpg"
+      },
+      {
+        "n": "04",
+        "t": "Gastronomía y barrios",
+        "d": "Aquellos que buscan una experiencia local relajada podrán disfrutar de la pequeña y soñolienta ciudad mochilera de Salento, en el departamento de Quindío, mientras que los amantes de la naturaleza no deben perderse senderismo en el impresionante Valle de Cocora y visitar el Parque Nacional Natural Los Nevados, uno de los parques nacionales más famosos de Colombia.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/133375/1747386519095_DSC01074-1280x853.jpg"
+      },
+      {
+        "n": "05",
+        "t": "Dónde dormir",
+        "d": "El Sazagua Cocora Hotel Boutique es un hotel acogedor e íntimo ubicado en el corazón del paisaje cultural cafetero.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/133375/1747386519095_DSC01074-1280x853.jpg"
+      }
+    ],
+    "cover": "https://destino.honimunn.com/ImageHandler/c1200x800/46656/istock-1412823557.jpg"
+  },
+  "colombia:medellin": {
+    "name": "Medellin",
+    "eyebrow": "6 - 9",
+    "sub": "Una vez considerada una de las ciudades más peligrosas del mundo, Medellín ha desechado su mala reputación y ahora es más comúnmente conocida como «La Ciudad de la Primavera Eterna», tratando a los residentes y visitantes a temperaturas cálidas consistentemente.",
+    "continent": null,
+    "country": "colombia",
+    "items": [
+      {
+        "n": "01",
+        "t": "Vida urbana",
+        "d": "Una vez considerada una de las ciudades más peligrosas del mundo, Medellín ha desechado su mala reputación y ahora es más comúnmente conocida como «La Ciudad de la Primavera Eterna», tratando a los residentes y visitantes a temperaturas cálidas consistentemente.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/46647/medellin_-alejo_miranda-_shutterstock_408289096.jpg"
+      },
+      {
+        "n": "02",
+        "t": "Qué ver y hacer",
+        "d": "Medellín está situado en el valle de Aburra y rodeado de siete colinas que ofrecen excelentes vistas de la ciudad.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/46647/medellin_-sebastian_saldarriaga_torres-_istock-1318666263.jpg"
+      },
+      {
+        "n": "03",
+        "t": "Entorno y paisaje",
+        "d": "De vuelta a la ciudad, los visitantes pueden experimentar la obra de artistas de fama mundial como Fernando Botero en parques y plazas locales, admirar la hermosa exhibición de luces navideñas durante la temporada festiva, y celebran ya que la ciudad está rebosada de color durante los 10 días de fiesta de las flores.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/46647/medellin_-matyas_rehak-_shutterstock_357037127.jpg"
+      },
+      {
+        "n": "04",
+        "t": "Dónde dormir",
+        "d": "El Hotel Faranda Collection Medellín se encuentra en Medellín y ofrece alojamiento cómodo cerca del parque El Poblado.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/333164/8859-1696436504_651d910bb664e_coll-mde-i-hab-1010-2.jpg.jpg"
+      },
+      {
+        "n": "05",
+        "t": "Tu estancia Honimunn",
+        "d": "Itinerario privado diseñado a medida por vuestro Honimunn Planner, sin prisas ni grupos aglomerados.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/333164/8859-1697833872_6532e38d12684_coll-mde-i-habitacin-1004-2-1.jpg.jpg"
+      }
+    ],
+    "cover": "https://destino.honimunn.com/ImageHandler/c1200x800/46647/medellin_-alejo_miranda-_shutterstock_408289096.jpg"
+  },
+  "colombia:tayrona-national-park": {
+    "name": "Tayrona National Park",
+    "eyebrow": "9 - 11",
+    "sub": "El Parque Nacional Tayrona se encuentra a los pies de la reserva de Sierra Nevada de Santa Marta y es uno de los atractivos naturales más populares del país.",
+    "continent": null,
+    "country": "colombia",
+    "items": [
+      {
+        "n": "01",
+        "t": "Naturaleza salvaje",
+        "d": "El Parque Nacional Tayrona se encuentra a los pies de la reserva de Sierra Nevada de Santa Marta y es uno de los atractivos naturales más populares del país.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/46654/istock-866383300.jpg"
+      },
+      {
+        "n": "02",
+        "t": "Vida urbana",
+        "d": "Antiguamente hogar del pueblo Tayrona, el área todavía abarca sitios sagrados ocupados por grupos indígenas, y restos arqueológicos que incluyen la ciudad prehispánica de Pueblito, un antiguo pueblo repleto de restos arqueológicos.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/46654/istock-856908128.jpg"
+      },
+      {
+        "n": "03",
+        "t": "Playas e islas",
+        "d": "Además de su patrimonio cultural, Tayrona es también conocida por algunas de las playas más bellas de la costa y una increíble variedad de vida silvestre: más de 100 especies de mamíferos, 300 especies de aves y 1000 especies marinas se encuentran dentro de los límites del parque.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/46654/istock-1135422837.jpg"
+      },
+      {
+        "n": "04",
+        "t": "Dónde dormir",
+        "d": "Con una ubicación ideal en la entrada principal del parque Tayrona, Senda Koguiwa es un complejo de hermosas cabañas que descansan en un exuberante paisaje de diez hectáreas, con vistas al río Piedra.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/271107/senda-koguiwa-portada.jpg"
+      },
+      {
+        "n": "05",
+        "t": "Tu estancia Honimunn",
+        "d": "Itinerario privado diseñado a medida por vuestro Honimunn Planner, sin prisas ni grupos aglomerados.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/271107/senda-koguiwa-cabana-recepcion.jpg"
+      }
+    ],
+    "cover": "https://destino.honimunn.com/ImageHandler/c1200x800/46654/istock-866383300.jpg"
+  }
+}

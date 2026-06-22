@@ -1,0 +1,198 @@
+{
+  "tokyo": {
+    "name": "Tokyo",
+    "color": "#FF2700",
+    "x": 245,
+    "y": 232,
+    "eyebrow": "Energía urbana",
+    "sub": "Modernidad vibrante, neones y tradición conviviendo en cada esquina.",
+    "items": [
+      {
+        "n": "01",
+        "t": "Playas e islas",
+        "d": "Tokio es una metrópolis masiva, rica y fascinante, que incluye un continente situado al noroeste de la Bahía de Tokio y dos hermosos archipiélagos subtropicales, las islas Izu y Ogasawara.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/32453/tokyo-istock-979786164.jpg"
+      },
+      {
+        "n": "02",
+        "t": "Naturaleza salvaje",
+        "d": "Abarca paisajes naturales escarpados, visiones de futuro de alta tecnología y destellos de la vida tradicional.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/32453/tokyo-shutterstock-1029873808.jpg"
+      },
+      {
+        "n": "03",
+        "t": "Patrimonio e historia",
+        "d": "Los diversos distritos de esta fenomenal ciudad varían enormemente en carácter, desde la explosión electrónica de Akihabara hasta los magníficos jardines y santuarios imperiales de Chiyoda; desde la animada meca juvenil de Shibuya hasta las espléndidas cerámicas y mercados de templos de Asakusa.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/32453/tokyo-istock-464620985.jpg"
+      },
+      {
+        "n": "04",
+        "t": "Gastronomía y barrios",
+        "d": "Si no te gusta lo que ves, sube al tren y dirígete a la siguiente estación, y encontrarás algo totalmente diferente.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/223875/17659649165351725435963076346--1-.jpg"
+      },
+      {
+        "n": "05",
+        "t": "Dónde dormir",
+        "d": "El Dai-ichi Hotel Tokyo es un histórico hotel internacional situado en el distrito de Shimbashi de Minato, Tokio (Japón), con acceso directo a la estación JR de Shimbashi.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/223875/17659649165351725435963076346--1-.jpg"
+      }
+    ]
+  },
+  "kyoto": {
+    "name": "Kyoto",
+    "color": "#E718B0",
+    "x": 157,
+    "y": 272,
+    "eyebrow": "Corazón imperial",
+    "sub": "La capital imperial donde el Japón más tradicional se conserva intacto.",
+    "items": [
+      {
+        "n": "01",
+        "t": "Playas e islas",
+        "d": "Ubicada en la isla Honshu, en la región japonesa de Kansai, Kioto, el corazón cultural de la nación, es famosa por sus magníficos templos, tranquilos jardines zen y santuarios históricos.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/25890/kyoto-shutterstock-693072511.jpg"
+      },
+      {
+        "n": "02",
+        "t": "Vida urbana",
+        "d": "Rica en tradición pero llena de energía moderna, la ciudad ofrece una extraordinaria combinación de belleza antigua y experiencias contemporáneas.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/25890/kyoto-istock-539108552.jpg"
+      },
+      {
+        "n": "03",
+        "t": "Cultura viva",
+        "d": "Entre los lugares de interés imperdibles se encuentran el santuario sintoísta Fushimi Inari-Taisha, de otro mundo; Kiyomizu-Dera, que ofrece una ceremonia de «entrega de amor» y vistas asombrosas, y el Tōfuku-Ji budista, famoso por su glorioso jardín.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/25890/kyoto-shutterstock-281413265.jpg"
+      },
+      {
+        "n": "04",
+        "t": "Gastronomía local",
+        "d": "Kioto es famosa por su gastronomía, y lugares como el mercado de Nishiki ofrecen una amplia variedad de delicias culinarias.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/192631/hearton.jpg"
+      },
+      {
+        "n": "05",
+        "t": "Dónde dormir",
+        "d": "El Hearton Hotel Tokyo está situado en el corazón de la bulliciosa ciudad de Kioto, rodeado de una variedad de lugares de interés populares y está a poca distancia a pie de la estación de metro Karasuma-Oike y del mercado Nishiki.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/192631/hearton.jpg"
+      }
+    ]
+  },
+  "osaka": {
+    "name": "Osaka",
+    "color": "#AD2C1F",
+    "x": 151,
+    "y": 334,
+    "eyebrow": "Capital gastronómica",
+    "sub": "La cocina de Japón: street food auténtico y energía sin descanso.",
+    "items": [
+      {
+        "n": "01",
+        "t": "Playas e islas",
+        "d": "Osaka es una gran ciudad portuaria y un centro comercial concurrido en la isla japonesa de Honshu, conocida por su arquitectura moderna, su vibrante vida nocturna y su deliciosa comida callejera.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/47280/osaka_-f11photo-_shutterstock_1907305267.jpg"
+      },
+      {
+        "n": "02",
+        "t": "Patrimonio e historia",
+        "d": "Esta bulliciosa ciudad cuenta con una serie de atractivos atractivos, entre ellos el restaurado Castillo Shogunato de Osaka del siglo XVI, rodeado de fosos y ciruelas, melocotones y cerezos.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/47280/osaka_-seanpavonephoto-_istock-635865112.jpg"
+      },
+      {
+        "n": "03",
+        "t": "Entorno y paisaje",
+        "d": "La ciudad también cuenta con una impresionante variedad de museos, como el Museo Nacional de Etnología, el Museo al Aire Libre de Antiguas Casas de Granjas Japonesas y el Museo de Artesanía Folclórica de Japón.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/47280/osaka_-avigator_fortuner-_shutterstock_770297647.jpg"
+      },
+      {
+        "n": "04",
+        "t": "Gastronomía y barrios",
+        "d": "Otras atracciones obligadas son los Universal Studios Japan y el parque de conmemoración de la Expo, que cuenta con la emblemática Torre del Sol.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/231543/1733315835701_SR_Japan_Osaka_Citadines-Namba-Osaka_Residents-lounge-768x531.jpg"
+      },
+      {
+        "n": "05",
+        "t": "Dónde dormir",
+        "d": "Citadines Namba Osaka se encuentra en el corazón de Osaka, Japón.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/231543/1733315835701_SR_Japan_Osaka_Citadines-Namba-Osaka_Residents-lounge-768x531.jpg"
+      }
+    ]
+  },
+  "hiroshima": {
+    "name": "Hiroshima",
+    "color": "#80196E",
+    "x": 95,
+    "y": 360,
+    "eyebrow": "Memoria y renacimiento",
+    "sub": "Historia, paz y la isla de Miyajima a un paso.",
+    "items": [
+      {
+        "n": "01",
+        "t": "Patrimonio e historia",
+        "d": "Hiroshima tiene un profundo significado histórico: fue la primera ciudad que sufrió una explosión atómica, que causó devastación en todo el centro urbano el 6 de agosto de 1945.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/47279/hiroshima-shutterstock-1110888351.jpg"
+      },
+      {
+        "n": "02",
+        "t": "Vida urbana",
+        "d": "El único edificio que quedaba en la zona era la cúpula de Genbaku, que ahora se conoce como la «Ciudad de la Paz» y se ha convertido en un símbolo mundial de esperanza para la paz eterna.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/47279/hiroshima-shutterstock-630797432.jpg"
+      },
+      {
+        "n": "03",
+        "t": "Entorno y paisaje",
+        "d": "Hiroshima-jo es una réplica del castillo original donde los ancianos japoneses se reunieron durante siglos para discutir estrategias y políticas.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/47279/hiroshima-shutterstock-4467452261.jpg"
+      },
+      {
+        "n": "04",
+        "t": "Gastronomía y barrios",
+        "d": "Hoy en día Hiroshima es un próspero destino turístico con una interesante escena gastronómica y una vida nocturna muy vibrante.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/89248/1738174550160_si-hijsi-hotel-exterior-34449_Wide-Hor.jpg"
+      },
+      {
+        "n": "05",
+        "t": "Dónde dormir",
+        "d": "El Sheraton Grand Hiroshima Hotel está convenientemente situado en la ciudad, junto a la estación JR Hiroshima, con acceso directo a las terminales de tren bala y autobuses.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/89248/1738174550160_si-hijsi-hotel-exterior-34449_Wide-Hor.jpg"
+      }
+    ]
+  },
+  "miyajima": {
+    "name": "Miyajima",
+    "color": "#6B37B2",
+    "x": 88,
+    "y": 375,
+    "eyebrow": "Isla sagrada",
+    "sub": "El torii flotante y senderos entre bosques y templos.",
+    "items": []
+  },
+  "kanazawa": {
+    "name": "Kanazawa",
+    "color": "#2000FF",
+    "x": 120,
+    "y": 248,
+    "eyebrow": "Jardines y artesanía",
+    "sub": "Ciudad samurái junto al mar del Japón.",
+    "items": []
+  },
+  "takayama": {
+    "name": "Takayama",
+    "color": "#0064F0",
+    "x": 175,
+    "y": 290,
+    "eyebrow": "Alpes japoneses",
+    "sub": "Calles de madera, sake y montañas de postal.",
+    "items": []
+  },
+  "koya": {
+    "name": "Koyasan",
+    "color": "#04B148",
+    "x": 130,
+    "y": 318,
+    "eyebrow": "Espiritualidad",
+    "sub": "Monasterios budistas en la cima de la montaña sagrada.",
+    "items": []
+  }
+}

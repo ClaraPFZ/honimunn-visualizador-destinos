@@ -1,0 +1,15 @@
+{
+  "name": "honimunn-visualizador-destinos",
+  "private": true,
+  "description": "Visualizador interactivo de destinos Honimunn",
+  "scripts": {
+    "serve": "python3 -m http.server 8080",
+    "build:data": "node scripts/build-from-catalog.js && node scripts/build-country-extensions.js",
+    "validate:data": "node scripts/validate-data-integrity.js",
+    "split:panels": "node scripts/split-city-panels.js",
+    "extract:legacy": "node scripts/extract-legacy-data.js",
+    "audit:maps": "node scripts/audit-country-maps.js",
+    "audit:layout": "node scripts/audit-map-layout.js",
+    "audit:labels": "node scripts/audit-map-labels.js"
+  }
+}

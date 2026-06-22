@@ -1,0 +1,197 @@
+{
+  "reunion:saint-denis": {
+    "name": "Saint-Denis",
+    "eyebrow": "Destino Honimunn",
+    "sub": "Saint-Denis es una parada clave en nuestros viajes por la región.",
+    "country": "reunion",
+    "items": [
+      {
+        "n": "01",
+        "t": "Lo esencial",
+        "d": "Saint-Denis concentra lo mejor del destino: cultura, paisaje y momentos para recordar.",
+        "img": ""
+      },
+      {
+        "n": "02",
+        "t": "Qué ver y hacer",
+        "d": "Explorad sus barrios, miradores y experiencias locales con tiempo para disfrutarlos sin prisas.",
+        "img": ""
+      },
+      {
+        "n": "03",
+        "t": "Entorno y paisaje",
+        "d": "Naturaleza, costa o montaña a poca distancia — el complemento perfecto para vuestra luna de miel.",
+        "img": ""
+      },
+      {
+        "n": "04",
+        "t": "Gastronomía y barrios",
+        "d": "Mercados, restaurantes y calles con vida propia donde saborear el destino.",
+        "img": ""
+      },
+      {
+        "n": "05",
+        "t": "Tu estancia Honimunn",
+        "d": "Itinerario privado a medida con alojamientos seleccionados por vuestro Honimunn Planner.",
+        "img": ""
+      }
+    ],
+    "cover": ""
+  },
+  "reunion:saint-pierre": {
+    "name": "Saint-Pierre",
+    "eyebrow": "Destino Honimunn",
+    "sub": "Saint-Pierre es una parada clave en nuestros viajes por la región.",
+    "country": "reunion",
+    "items": [
+      {
+        "n": "01",
+        "t": "Lo esencial",
+        "d": "Saint-Pierre concentra lo mejor del destino: cultura, paisaje y momentos para recordar.",
+        "img": ""
+      },
+      {
+        "n": "02",
+        "t": "Qué ver y hacer",
+        "d": "Explorad sus barrios, miradores y experiencias locales con tiempo para disfrutarlos sin prisas.",
+        "img": ""
+      },
+      {
+        "n": "03",
+        "t": "Entorno y paisaje",
+        "d": "Naturaleza, costa o montaña a poca distancia — el complemento perfecto para vuestra luna de miel.",
+        "img": ""
+      },
+      {
+        "n": "04",
+        "t": "Gastronomía y barrios",
+        "d": "Mercados, restaurantes y calles con vida propia donde saborear el destino.",
+        "img": ""
+      },
+      {
+        "n": "05",
+        "t": "Tu estancia Honimunn",
+        "d": "Itinerario privado a medida con alojamientos seleccionados por vuestro Honimunn Planner.",
+        "img": ""
+      }
+    ],
+    "cover": ""
+  },
+  "reunion:cilaos": {
+    "name": "Cilaos",
+    "eyebrow": "Destino Honimunn",
+    "sub": "Cilaos es una parada clave en nuestros viajes por la región.",
+    "country": "reunion",
+    "items": [
+      {
+        "n": "01",
+        "t": "Lo esencial",
+        "d": "Cilaos concentra lo mejor del destino: cultura, paisaje y momentos para recordar.",
+        "img": ""
+      },
+      {
+        "n": "02",
+        "t": "Qué ver y hacer",
+        "d": "Explorad sus barrios, miradores y experiencias locales con tiempo para disfrutarlos sin prisas.",
+        "img": ""
+      },
+      {
+        "n": "03",
+        "t": "Entorno y paisaje",
+        "d": "Naturaleza, costa o montaña a poca distancia — el complemento perfecto para vuestra luna de miel.",
+        "img": ""
+      },
+      {
+        "n": "04",
+        "t": "Gastronomía y barrios",
+        "d": "Mercados, restaurantes y calles con vida propia donde saborear el destino.",
+        "img": ""
+      },
+      {
+        "n": "05",
+        "t": "Tu estancia Honimunn",
+        "d": "Itinerario privado a medida con alojamientos seleccionados por vuestro Honimunn Planner.",
+        "img": ""
+      }
+    ],
+    "cover": ""
+  },
+  "reunion:salazie": {
+    "name": "Salazie",
+    "eyebrow": "Destino Honimunn",
+    "sub": "Salazie es una parada clave en nuestros viajes por la región.",
+    "country": "reunion",
+    "items": [
+      {
+        "n": "01",
+        "t": "Lo esencial",
+        "d": "Salazie concentra lo mejor del destino: cultura, paisaje y momentos para recordar.",
+        "img": ""
+      },
+      {
+        "n": "02",
+        "t": "Qué ver y hacer",
+        "d": "Explorad sus barrios, miradores y experiencias locales con tiempo para disfrutarlos sin prisas.",
+        "img": ""
+      },
+      {
+        "n": "03",
+        "t": "Entorno y paisaje",
+        "d": "Naturaleza, costa o montaña a poca distancia — el complemento perfecto para vuestra luna de miel.",
+        "img": ""
+      },
+      {
+        "n": "04",
+        "t": "Gastronomía y barrios",
+        "d": "Mercados, restaurantes y calles con vida propia donde saborear el destino.",
+        "img": ""
+      },
+      {
+        "n": "05",
+        "t": "Tu estancia Honimunn",
+        "d": "Itinerario privado a medida con alojamientos seleccionados por vuestro Honimunn Planner.",
+        "img": ""
+      }
+    ],
+    "cover": ""
+  },
+  "reunion:piton-de-la-fournaise": {
+    "name": "Piton de la Fournaise",
+    "eyebrow": "Destino Honimunn",
+    "sub": "Piton de la Fournaise es una parada clave en nuestros viajes por la región.",
+    "country": "reunion",
+    "items": [
+      {
+        "n": "01",
+        "t": "Lo esencial",
+        "d": "Piton de la Fournaise concentra lo mejor del destino: cultura, paisaje y momentos para recordar.",
+        "img": ""
+      },
+      {
+        "n": "02",
+        "t": "Qué ver y hacer",
+        "d": "Explorad sus barrios, miradores y experiencias locales con tiempo para disfrutarlos sin prisas.",
+        "img": ""
+      },
+      {
+        "n": "03",
+        "t": "Entorno y paisaje",
+        "d": "Naturaleza, costa o montaña a poca distancia — el complemento perfecto para vuestra luna de miel.",
+        "img": ""
+      },
+      {
+        "n": "04",
+        "t": "Gastronomía y barrios",
+        "d": "Mercados, restaurantes y calles con vida propia donde saborear el destino.",
+        "img": ""
+      },
+      {
+        "n": "05",
+        "t": "Tu estancia Honimunn",
+        "d": "Itinerario privado a medida con alojamientos seleccionados por vuestro Honimunn Planner.",
+        "img": ""
+      }
+    ],
+    "cover": ""
+  }
+}

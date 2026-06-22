@@ -1,0 +1,162 @@
+{
+  "botswana:chobe-river-front": {
+    "name": "Chobe River Front",
+    "eyebrow": "9 - 11",
+    "sub": "El río Chobe forma el límite norte del Parque Nacional Chobe, conocido por sus diversas y abundantes oportunidades de visualización de juegos.",
+    "continent": null,
+    "country": "botswana",
+    "items": [
+      {
+        "n": "01",
+        "t": "Naturaleza salvaje",
+        "d": "El río Chobe forma el límite norte del Parque Nacional Chobe, conocido por sus diversas y abundantes oportunidades de visualización de juegos.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/37301/Chobe%2017.JPG"
+      },
+      {
+        "n": "02",
+        "t": "Qué ver y hacer",
+        "d": "Esta sección del parque es mejor conocida por su densa concentración de vida silvestre, incluidas las poblaciones de elefantes e hipopótamos, pero las aguas atraen todo tipo de juegos, incluyendo grandes manadas de búfalos y los leones que se aprovecha de ellos; una visita al Frente del Río Chobe garantiza encuentros estrechos con una variedad de Vida silvestre africana.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/37301/Chobe%202.JPG"
+      },
+      {
+        "n": "03",
+        "t": "Aventura y experiencias",
+        "d": "Los visitantes pueden esperar una serie de actividades emocionantes, como 4x4 a lo largo de las orillas, cruceros en lancha motora y avistamiento de aves raras.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/37301/Chobe%206.JPG"
+      },
+      {
+        "n": "04",
+        "t": "Gastronomía y barrios",
+        "d": "Para disfrutar de una experiencia de safari única y de lujo, alquila una casa flotante.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/171132/thebe_safaris_16.jpg"
+      },
+      {
+        "n": "05",
+        "t": "Dónde dormir",
+        "d": "El Jackalberry Chobe se encuentra en Kasane, a 6 km del parque nacional Sedudu Gate Chobe y ofrece varias instalaciones, como un bar.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/171132/thebe_safaris_16.jpg"
+      }
+    ],
+    "cover": "https://destino.honimunn.com/ImageHandler/c1200x800/37301/Chobe%2017.JPG"
+  },
+  "botswana:okavango-delta": {
+    "name": "Okavango Delta",
+    "eyebrow": "11 - 13",
+    "sub": "Situado en la esquina noroeste de Botsuana, el Delta del Okavango es Patrimonio de la Humanidad, ya que es el delta interior más grande del mundo.",
+    "continent": null,
+    "country": "botswana",
+    "items": [
+      {
+        "n": "01",
+        "t": "Patrimonio e historia",
+        "d": "Situado en la esquina noroeste de Botsuana, el Delta del Okavango es Patrimonio de la Humanidad, ya que es el delta interior más grande del mundo.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/479/istock-648362800.jpg"
+      },
+      {
+        "n": "02",
+        "t": "Playas e islas",
+        "d": "El magnífico río Okavango se extiende sobre las arenas secas del desierto de Kalahari, formando este floreciente oasis anegado con innumerables vías fluviales serpenteantes y lagunas cristalinas repletas de nenúfares, así como fértiles llanuras inundables e islas de caña habitadas con abundante vida silvestre.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/479/istock-1436675927.jpg"
+      },
+      {
+        "n": "03",
+        "t": "Entorno y paisaje",
+        "d": "El delta del Okavango se extiende sobre unos impresionantes 15000 kilómetros cuadrados.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/479/istock-148484081.jpg"
+      },
+      {
+        "n": "04",
+        "t": "Aventura y experiencias",
+        "d": "Los visitantes pueden disfrutar de una serie de actividades maravillosas, como observación de juegos, pesca, observación de aves o realizar una auténtica excursión guiada a Mokoro por este paraíso de los humedales en una canoa tradicional de dugout.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/280424/xaoo_by_night.jpg"
+      },
+      {
+        "n": "05",
+        "t": "Dónde dormir",
+        "d": "Ubicado en el corazón del delta del Okavango, Xaoo Safari Camp es un paraíso para los amantes del lujo y la aventura.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/280424/xaoo_by_night.jpg"
+      }
+    ],
+    "cover": "https://destino.honimunn.com/ImageHandler/c1200x800/479/istock-648362800.jpg"
+  },
+  "botswana:johannesburg": {
+    "name": "Johannesburg",
+    "eyebrow": "9 - 10",
+    "sub": "Como se describió previamente…",
+    "continent": null,
+    "country": "botswana",
+    "items": [
+      {
+        "n": "01",
+        "t": "Dónde dormir",
+        "d": "Alojamiento asequible con un servicio amable.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/19163/EP%20-%20Metcourt%20Suites%20-%20Deluxe%20King%20-%20large.jpg"
+      },
+      {
+        "n": "02",
+        "t": "Qué ver y hacer",
+        "d": "Descubrid Johannesburg con calma, en profundidad y con tiempo para disfrutarlo en pareja.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/773/shutterstock_1355648834.jpg"
+      },
+      {
+        "n": "03",
+        "t": "Entorno y paisaje",
+        "d": "Descubrid Johannesburg con calma, en profundidad y con tiempo para disfrutarlo en pareja.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/773/istock-2005010727.jpg"
+      },
+      {
+        "n": "04",
+        "t": "Gastronomía y barrios",
+        "d": "Descubrid Johannesburg con calma, en profundidad y con tiempo para disfrutarlo en pareja.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/19163/EP%20-%20Metcourt%20Suites%20-%20Deluxe%20King%20-%20large.jpg"
+      },
+      {
+        "n": "05",
+        "t": "Tu estancia Honimunn",
+        "d": "Itinerario privado diseñado a medida por vuestro Honimunn Planner, sin prisas ni grupos aglomerados.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/19163/JCP_0898.jpg"
+      }
+    ],
+    "cover": "https://destino.honimunn.com/ImageHandler/c1200x800/773/shutterstock_1676958676.jpg"
+  },
+  "botswana:victoria-falls-zimbabwe": {
+    "name": "Victoria Falls (Zimbabwe)",
+    "eyebrow": "7 - 9",
+    "sub": "Conocidas localmente como Mosi-oa-Tunya («El humo que truena»), las Cataratas Victoria son uno de los grandes hitos naturales del mundo.",
+    "continent": null,
+    "country": "botswana",
+    "items": [
+      {
+        "n": "01",
+        "t": "Lo esencial",
+        "d": "Conocidas localmente como Mosi-oa-Tunya («El humo que truena»), las Cataratas Victoria son uno de los grandes hitos naturales del mundo.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/481/vicfallszim-istock-185225607_10.jpg"
+      },
+      {
+        "n": "02",
+        "t": "Qué ver y hacer",
+        "d": "A ambos lados del río Zambeze, entre Zambia y Zimbabue, forman una enorme cortina de agua que llena el aire de niebla y sonido.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/481/vicfallszim-istock-185225607_7.jpg"
+      },
+      {
+        "n": "03",
+        "t": "Entorno y paisaje",
+        "d": "El lado zimbabuense ofrece las vistas más espectaculares, donde la niebla se eleva como cortinas fantasmales y los arcoíris se forman arcos iris a través del rocío.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/481/vicfallszim-istock-185225607_12.jpg"
+      },
+      {
+        "n": "04",
+        "t": "Gastronomía y barrios",
+        "d": "Con unos 1708 metros de diámetro, se considera la capa continua de agua que cae más grande de la Tierra.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/298936/insika_lodge_vic_falls_-_18.jpg"
+      },
+      {
+        "n": "05",
+        "t": "Dónde dormir",
+        "d": "Contamos con 40 habitaciones, spa e instalaciones para conferencias, y estamos desarrollando nuestro propio embarcadero a orillas del río con dos de nuestros propios barcos de crucero al atardecer.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/298936/insika_lodge_vic_falls_-_18.jpg"
+      }
+    ],
+    "cover": "https://destino.honimunn.com/ImageHandler/c1200x800/481/vicfallszim-istock-185225607_10.jpg"
+  }
+}

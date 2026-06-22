@@ -1,0 +1,276 @@
+{
+  "china:pekin": {
+    "name": "Pekín",
+    "eyebrow": "Destino Honimunn",
+    "sub": "Pekín es una parada clave en nuestros viajes por la región.",
+    "country": "china",
+    "items": [
+      {
+        "n": "01",
+        "t": "Lo esencial",
+        "d": "Pekín concentra lo mejor del destino: cultura, paisaje y momentos para recordar.",
+        "img": ""
+      },
+      {
+        "n": "02",
+        "t": "Qué ver y hacer",
+        "d": "Explorad sus barrios, miradores y experiencias locales con tiempo para disfrutarlos sin prisas.",
+        "img": ""
+      },
+      {
+        "n": "03",
+        "t": "Entorno y paisaje",
+        "d": "Naturaleza, costa o montaña a poca distancia — el complemento perfecto para vuestra luna de miel.",
+        "img": ""
+      },
+      {
+        "n": "04",
+        "t": "Gastronomía y barrios",
+        "d": "Mercados, restaurantes y calles con vida propia donde saborear el destino.",
+        "img": ""
+      },
+      {
+        "n": "05",
+        "t": "Tu estancia Honimunn",
+        "d": "Itinerario privado a medida con alojamientos seleccionados por vuestro Honimunn Planner.",
+        "img": ""
+      }
+    ],
+    "cover": ""
+  },
+  "china:shanghai": {
+    "name": "Shanghái",
+    "eyebrow": "Destino Honimunn",
+    "sub": "Shanghái es una parada clave en nuestros viajes por la región.",
+    "country": "china",
+    "items": [
+      {
+        "n": "01",
+        "t": "Lo esencial",
+        "d": "Shanghái concentra lo mejor del destino: cultura, paisaje y momentos para recordar.",
+        "img": ""
+      },
+      {
+        "n": "02",
+        "t": "Qué ver y hacer",
+        "d": "Explorad sus barrios, miradores y experiencias locales con tiempo para disfrutarlos sin prisas.",
+        "img": ""
+      },
+      {
+        "n": "03",
+        "t": "Entorno y paisaje",
+        "d": "Naturaleza, costa o montaña a poca distancia — el complemento perfecto para vuestra luna de miel.",
+        "img": ""
+      },
+      {
+        "n": "04",
+        "t": "Gastronomía y barrios",
+        "d": "Mercados, restaurantes y calles con vida propia donde saborear el destino.",
+        "img": ""
+      },
+      {
+        "n": "05",
+        "t": "Tu estancia Honimunn",
+        "d": "Itinerario privado a medida con alojamientos seleccionados por vuestro Honimunn Planner.",
+        "img": ""
+      }
+    ],
+    "cover": ""
+  },
+  "china:xi-an": {
+    "name": "Xi'an",
+    "eyebrow": "Destino Honimunn",
+    "sub": "Xi'an es una parada clave en nuestros viajes por la región.",
+    "country": "china",
+    "items": [
+      {
+        "n": "01",
+        "t": "Lo esencial",
+        "d": "Xi'an concentra lo mejor del destino: cultura, paisaje y momentos para recordar.",
+        "img": ""
+      },
+      {
+        "n": "02",
+        "t": "Qué ver y hacer",
+        "d": "Explorad sus barrios, miradores y experiencias locales con tiempo para disfrutarlos sin prisas.",
+        "img": ""
+      },
+      {
+        "n": "03",
+        "t": "Entorno y paisaje",
+        "d": "Naturaleza, costa o montaña a poca distancia — el complemento perfecto para vuestra luna de miel.",
+        "img": ""
+      },
+      {
+        "n": "04",
+        "t": "Gastronomía y barrios",
+        "d": "Mercados, restaurantes y calles con vida propia donde saborear el destino.",
+        "img": ""
+      },
+      {
+        "n": "05",
+        "t": "Tu estancia Honimunn",
+        "d": "Itinerario privado a medida con alojamientos seleccionados por vuestro Honimunn Planner.",
+        "img": ""
+      }
+    ],
+    "cover": ""
+  },
+  "china:guilin": {
+    "name": "Guilin",
+    "eyebrow": "Destino Honimunn",
+    "sub": "Guilin es una parada clave en nuestros viajes por la región.",
+    "country": "china",
+    "items": [
+      {
+        "n": "01",
+        "t": "Lo esencial",
+        "d": "Guilin concentra lo mejor del destino: cultura, paisaje y momentos para recordar.",
+        "img": ""
+      },
+      {
+        "n": "02",
+        "t": "Qué ver y hacer",
+        "d": "Explorad sus barrios, miradores y experiencias locales con tiempo para disfrutarlos sin prisas.",
+        "img": ""
+      },
+      {
+        "n": "03",
+        "t": "Entorno y paisaje",
+        "d": "Naturaleza, costa o montaña a poca distancia — el complemento perfecto para vuestra luna de miel.",
+        "img": ""
+      },
+      {
+        "n": "04",
+        "t": "Gastronomía y barrios",
+        "d": "Mercados, restaurantes y calles con vida propia donde saborear el destino.",
+        "img": ""
+      },
+      {
+        "n": "05",
+        "t": "Tu estancia Honimunn",
+        "d": "Itinerario privado a medida con alojamientos seleccionados por vuestro Honimunn Planner.",
+        "img": ""
+      }
+    ],
+    "cover": ""
+  },
+  "china:chengdu": {
+    "name": "Chengdu",
+    "eyebrow": "Destino Honimunn",
+    "sub": "Chengdu es una parada clave en nuestros viajes por la región.",
+    "country": "china",
+    "items": [
+      {
+        "n": "01",
+        "t": "Lo esencial",
+        "d": "Chengdu concentra lo mejor del destino: cultura, paisaje y momentos para recordar.",
+        "img": ""
+      },
+      {
+        "n": "02",
+        "t": "Qué ver y hacer",
+        "d": "Explorad sus barrios, miradores y experiencias locales con tiempo para disfrutarlos sin prisas.",
+        "img": ""
+      },
+      {
+        "n": "03",
+        "t": "Entorno y paisaje",
+        "d": "Naturaleza, costa o montaña a poca distancia — el complemento perfecto para vuestra luna de miel.",
+        "img": ""
+      },
+      {
+        "n": "04",
+        "t": "Gastronomía y barrios",
+        "d": "Mercados, restaurantes y calles con vida propia donde saborear el destino.",
+        "img": ""
+      },
+      {
+        "n": "05",
+        "t": "Tu estancia Honimunn",
+        "d": "Itinerario privado a medida con alojamientos seleccionados por vuestro Honimunn Planner.",
+        "img": ""
+      }
+    ],
+    "cover": ""
+  },
+  "china:hiroshima": {
+    "name": "Hiroshima",
+    "eyebrow": "4 - 5",
+    "sub": "Hiroshima tiene un profundo significado histórico: fue la primera ciudad que sufrió una explosión atómica, que causó devastación en todo el centro urbano el 6 de agosto de 1945.",
+    "continent": null,
+    "country": "china",
+    "items": [
+      {
+        "n": "01",
+        "t": "Patrimonio e historia",
+        "d": "Hiroshima tiene un profundo significado histórico: fue la primera ciudad que sufrió una explosión atómica, que causó devastación en todo el centro urbano el 6 de agosto de 1945.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/47279/hiroshima-shutterstock-1110888351.jpg"
+      },
+      {
+        "n": "02",
+        "t": "Vida urbana",
+        "d": "El único edificio que quedaba en la zona era la cúpula de Genbaku, que ahora se conoce como la «Ciudad de la Paz» y se ha convertido en un símbolo mundial de esperanza para la paz eterna.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/47279/hiroshima-shutterstock-630797432.jpg"
+      },
+      {
+        "n": "03",
+        "t": "Entorno y paisaje",
+        "d": "Hiroshima-jo es una réplica del castillo original donde los ancianos japoneses se reunieron durante siglos para discutir estrategias y políticas.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/47279/hiroshima-shutterstock-4467452261.jpg"
+      },
+      {
+        "n": "04",
+        "t": "Gastronomía y barrios",
+        "d": "Hoy en día Hiroshima es un próspero destino turístico con una interesante escena gastronómica y una vida nocturna muy vibrante.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/89248/1738174550160_si-hijsi-hotel-exterior-34449_Wide-Hor.jpg"
+      },
+      {
+        "n": "05",
+        "t": "Dónde dormir",
+        "d": "El Sheraton Grand Hiroshima Hotel está convenientemente situado en la ciudad, junto a la estación JR Hiroshima, con acceso directo a las terminales de tren bala y autobuses.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/89248/1738174550160_si-hijsi-hotel-exterior-34449_Wide-Hor.jpg"
+      }
+    ],
+    "cover": "https://destino.honimunn.com/ImageHandler/c1200x800/47279/hiroshima-shutterstock-1110888351.jpg"
+  },
+  "china:miyajima-island": {
+    "name": "Miyajima",
+    "eyebrow": "Destino Honimunn",
+    "sub": "Miyajima es una parada clave en nuestros viajes por la región.",
+    "country": "china",
+    "items": [
+      {
+        "n": "01",
+        "t": "Lo esencial",
+        "d": "Miyajima concentra lo mejor del destino: cultura, paisaje y momentos para recordar.",
+        "img": ""
+      },
+      {
+        "n": "02",
+        "t": "Qué ver y hacer",
+        "d": "Explorad sus barrios, miradores y experiencias locales con tiempo para disfrutarlos sin prisas.",
+        "img": ""
+      },
+      {
+        "n": "03",
+        "t": "Entorno y paisaje",
+        "d": "Naturaleza, costa o montaña a poca distancia — el complemento perfecto para vuestra luna de miel.",
+        "img": ""
+      },
+      {
+        "n": "04",
+        "t": "Gastronomía y barrios",
+        "d": "Mercados, restaurantes y calles con vida propia donde saborear el destino.",
+        "img": ""
+      },
+      {
+        "n": "05",
+        "t": "Tu estancia Honimunn",
+        "d": "Itinerario privado a medida con alojamientos seleccionados por vuestro Honimunn Planner.",
+        "img": ""
+      }
+    ],
+    "cover": ""
+  }
+}

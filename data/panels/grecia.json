@@ -1,0 +1,197 @@
+{
+  "grecia:atenas": {
+    "name": "Atenas",
+    "eyebrow": "Destino Honimunn",
+    "sub": "Atenas es una parada clave en nuestros viajes por la región.",
+    "country": "grecia",
+    "items": [
+      {
+        "n": "01",
+        "t": "Lo esencial",
+        "d": "Atenas concentra lo mejor del destino: cultura, paisaje y momentos para recordar.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Acropolis_of_Athens_%2816427166881%29.jpg/1200px-Acropolis_of_Athens_%2816427166881%29.jpg"
+      },
+      {
+        "n": "02",
+        "t": "Qué ver y hacer",
+        "d": "Explorad sus barrios, miradores y experiencias locales con tiempo para disfrutarlos sin prisas.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Acropolis_of_Athens_%2816427166881%29.jpg/1200px-Acropolis_of_Athens_%2816427166881%29.jpg"
+      },
+      {
+        "n": "03",
+        "t": "Entorno y paisaje",
+        "d": "Naturaleza, costa o montaña a poca distancia — el complemento perfecto para vuestra luna de miel.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Acropolis_of_Athens_%2816427166881%29.jpg/1200px-Acropolis_of_Athens_%2816427166881%29.jpg"
+      },
+      {
+        "n": "04",
+        "t": "Gastronomía y barrios",
+        "d": "Mercados, restaurantes y calles con vida propia donde saborear el destino.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Acropolis_of_Athens_%2816427166881%29.jpg/1200px-Acropolis_of_Athens_%2816427166881%29.jpg"
+      },
+      {
+        "n": "05",
+        "t": "Tu estancia Honimunn",
+        "d": "Itinerario privado a medida con alojamientos seleccionados por vuestro Honimunn Planner.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Acropolis_of_Athens_%2816427166881%29.jpg/1200px-Acropolis_of_Athens_%2816427166881%29.jpg"
+      }
+    ],
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Acropolis_of_Athens_%2816427166881%29.jpg/1200px-Acropolis_of_Athens_%2816427166881%29.jpg"
+  },
+  "grecia:santorini": {
+    "name": "Santorini",
+    "eyebrow": "Destino Honimunn",
+    "sub": "Santorini es una parada clave en nuestros viajes por la región.",
+    "country": "grecia",
+    "items": [
+      {
+        "n": "01",
+        "t": "Lo esencial",
+        "d": "Santorini concentra lo mejor del destino: cultura, paisaje y momentos para recordar.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Santorini_%28officially_Thira%29_%28cropped%29.jpg/1200px-Santorini_%28officially_Thira%29_%28cropped%29.jpg"
+      },
+      {
+        "n": "02",
+        "t": "Qué ver y hacer",
+        "d": "Explorad sus barrios, miradores y experiencias locales con tiempo para disfrutarlos sin prisas.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Santorini_%28officially_Thira%29_%28cropped%29.jpg/1200px-Santorini_%28officially_Thira%29_%28cropped%29.jpg"
+      },
+      {
+        "n": "03",
+        "t": "Entorno y paisaje",
+        "d": "Naturaleza, costa o montaña a poca distancia — el complemento perfecto para vuestra luna de miel.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Santorini_%28officially_Thira%29_%28cropped%29.jpg/1200px-Santorini_%28officially_Thira%29_%28cropped%29.jpg"
+      },
+      {
+        "n": "04",
+        "t": "Gastronomía y barrios",
+        "d": "Mercados, restaurantes y calles con vida propia donde saborear el destino.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Santorini_%28officially_Thira%29_%28cropped%29.jpg/1200px-Santorini_%28officially_Thira%29_%28cropped%29.jpg"
+      },
+      {
+        "n": "05",
+        "t": "Tu estancia Honimunn",
+        "d": "Itinerario privado a medida con alojamientos seleccionados por vuestro Honimunn Planner.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Santorini_%28officially_Thira%29_%28cropped%29.jpg/1200px-Santorini_%28officially_Thira%29_%28cropped%29.jpg"
+      }
+    ],
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Santorini_%28officially_Thira%29_%28cropped%29.jpg/1200px-Santorini_%28officially_Thira%29_%28cropped%29.jpg"
+  },
+  "grecia:mykonos": {
+    "name": "Mykonos",
+    "eyebrow": "Destino Honimunn",
+    "sub": "Mykonos es una parada clave en nuestros viajes por la región.",
+    "country": "grecia",
+    "items": [
+      {
+        "n": "01",
+        "t": "Lo esencial",
+        "d": "Mykonos concentra lo mejor del destino: cultura, paisaje y momentos para recordar.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Mykonos_windmills.jpg/1200px-Mykonos_windmills.jpg"
+      },
+      {
+        "n": "02",
+        "t": "Qué ver y hacer",
+        "d": "Explorad sus barrios, miradores y experiencias locales con tiempo para disfrutarlos sin prisas.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Mykonos_windmills.jpg/1200px-Mykonos_windmills.jpg"
+      },
+      {
+        "n": "03",
+        "t": "Entorno y paisaje",
+        "d": "Naturaleza, costa o montaña a poca distancia — el complemento perfecto para vuestra luna de miel.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Mykonos_windmills.jpg/1200px-Mykonos_windmills.jpg"
+      },
+      {
+        "n": "04",
+        "t": "Gastronomía y barrios",
+        "d": "Mercados, restaurantes y calles con vida propia donde saborear el destino.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Mykonos_windmills.jpg/1200px-Mykonos_windmills.jpg"
+      },
+      {
+        "n": "05",
+        "t": "Tu estancia Honimunn",
+        "d": "Itinerario privado a medida con alojamientos seleccionados por vuestro Honimunn Planner.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Mykonos_windmills.jpg/1200px-Mykonos_windmills.jpg"
+      }
+    ],
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Mykonos_windmills.jpg/1200px-Mykonos_windmills.jpg"
+  },
+  "grecia:creta": {
+    "name": "Creta",
+    "eyebrow": "Destino Honimunn",
+    "sub": "Creta es una parada clave en nuestros viajes por la región.",
+    "country": "grecia",
+    "items": [
+      {
+        "n": "01",
+        "t": "Lo esencial",
+        "d": "Creta concentra lo mejor del destino: cultura, paisaje y momentos para recordar.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Knossos_-_North_Portico_02.jpg/1200px-Knossos_-_North_Portico_02.jpg"
+      },
+      {
+        "n": "02",
+        "t": "Qué ver y hacer",
+        "d": "Explorad sus barrios, miradores y experiencias locales con tiempo para disfrutarlos sin prisas.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Knossos_-_North_Portico_02.jpg/1200px-Knossos_-_North_Portico_02.jpg"
+      },
+      {
+        "n": "03",
+        "t": "Entorno y paisaje",
+        "d": "Naturaleza, costa o montaña a poca distancia — el complemento perfecto para vuestra luna de miel.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Knossos_-_North_Portico_02.jpg/1200px-Knossos_-_North_Portico_02.jpg"
+      },
+      {
+        "n": "04",
+        "t": "Gastronomía y barrios",
+        "d": "Mercados, restaurantes y calles con vida propia donde saborear el destino.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Knossos_-_North_Portico_02.jpg/1200px-Knossos_-_North_Portico_02.jpg"
+      },
+      {
+        "n": "05",
+        "t": "Tu estancia Honimunn",
+        "d": "Itinerario privado a medida con alojamientos seleccionados por vuestro Honimunn Planner.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Knossos_-_North_Portico_02.jpg/1200px-Knossos_-_North_Portico_02.jpg"
+      }
+    ],
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Knossos_-_North_Portico_02.jpg/1200px-Knossos_-_North_Portico_02.jpg"
+  },
+  "grecia:meteora": {
+    "name": "Meteora",
+    "eyebrow": "Destino Honimunn",
+    "sub": "Meteora es una parada clave en nuestros viajes por la región.",
+    "country": "grecia",
+    "items": [
+      {
+        "n": "01",
+        "t": "Lo esencial",
+        "d": "Meteora concentra lo mejor del destino: cultura, paisaje y momentos para recordar.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Meteora%27s_monastery_2.jpg/1200px-Meteora%27s_monastery_2.jpg"
+      },
+      {
+        "n": "02",
+        "t": "Qué ver y hacer",
+        "d": "Explorad sus barrios, miradores y experiencias locales con tiempo para disfrutarlos sin prisas.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Meteora%27s_monastery_2.jpg/1200px-Meteora%27s_monastery_2.jpg"
+      },
+      {
+        "n": "03",
+        "t": "Entorno y paisaje",
+        "d": "Naturaleza, costa o montaña a poca distancia — el complemento perfecto para vuestra luna de miel.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Meteora%27s_monastery_2.jpg/1200px-Meteora%27s_monastery_2.jpg"
+      },
+      {
+        "n": "04",
+        "t": "Gastronomía y barrios",
+        "d": "Mercados, restaurantes y calles con vida propia donde saborear el destino.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Meteora%27s_monastery_2.jpg/1200px-Meteora%27s_monastery_2.jpg"
+      },
+      {
+        "n": "05",
+        "t": "Tu estancia Honimunn",
+        "d": "Itinerario privado a medida con alojamientos seleccionados por vuestro Honimunn Planner.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Meteora%27s_monastery_2.jpg/1200px-Meteora%27s_monastery_2.jpg"
+      }
+    ],
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Meteora%27s_monastery_2.jpg/1200px-Meteora%27s_monastery_2.jpg"
+  }
+}

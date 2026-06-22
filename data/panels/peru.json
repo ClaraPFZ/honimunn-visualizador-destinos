@@ -1,0 +1,322 @@
+{
+  "peru:lima": {
+    "name": "Lima",
+    "eyebrow": "4 - 5",
+    "sub": "Como se describió previamente…",
+    "continent": null,
+    "country": "peru",
+    "items": [
+      {
+        "n": "01",
+        "t": "Dónde dormir",
+        "d": "Un moderno edificio con una ubicación privilegiada en el distrito de Miraflores, muy cerca del paseo marítimo y con vistas al mar.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/92809/1765963884759screenshot-2025-12-17-112856.png"
+      },
+      {
+        "n": "02",
+        "t": "Qué ver y hacer",
+        "d": "Descubrid Lima con calma, en profundidad y con tiempo para disfrutarlo en pareja.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/25701/lima_-christian_vinces-_shutterstock_105382232.jpg"
+      },
+      {
+        "n": "03",
+        "t": "Entorno y paisaje",
+        "d": "Descubrid Lima con calma, en profundidad y con tiempo para disfrutarlo en pareja.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/25701/lima_-christian_vinces-_shutterstock_1384221842.jpg"
+      },
+      {
+        "n": "04",
+        "t": "Gastronomía y barrios",
+        "d": "Descubrid Lima con calma, en profundidad y con tiempo para disfrutarlo en pareja.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/92809/1765963884759screenshot-2025-12-17-112856.png"
+      },
+      {
+        "n": "05",
+        "t": "Tu estancia Honimunn",
+        "d": "Itinerario privado diseñado a medida por vuestro Honimunn Planner, sin prisas ni grupos aglomerados.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/92809/1765963884762screenshot-2025-12-17-112913.png"
+      }
+    ],
+    "cover": "https://destino.honimunn.com/ImageHandler/c1200x800/25701/lima_-christian_vinces-_shutterstock_391854592.jpg"
+  },
+  "peru:cusco": {
+    "name": "Cusco",
+    "eyebrow": "13 - 15",
+    "sub": "Como se describió previamente…",
+    "continent": null,
+    "country": "peru",
+    "items": [
+      {
+        "n": "01",
+        "t": "Dónde dormir",
+        "d": "El Hotel San Agustín Dorado está situado en una de las avenidas más importantes de Cusco conocida como «El Sol» a sólo 2 cuadras de la plaza principal.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/68272/1734521347827_371dc199e1dd0ccc23a1de8f2fb84483.jpg"
+      },
+      {
+        "n": "02",
+        "t": "Qué ver y hacer",
+        "d": "Descubrid Cusco con calma, en profundidad y con tiempo para disfrutarlo en pareja.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/25123/cusco-shutterstock-1665747436.jpg"
+      },
+      {
+        "n": "03",
+        "t": "Entorno y paisaje",
+        "d": "Descubrid Cusco con calma, en profundidad y con tiempo para disfrutarlo en pareja.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/25123/cusco-shutterstock-194508335.jpg"
+      },
+      {
+        "n": "04",
+        "t": "Gastronomía y barrios",
+        "d": "Descubrid Cusco con calma, en profundidad y con tiempo para disfrutarlo en pareja.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/68272/1734521347827_371dc199e1dd0ccc23a1de8f2fb84483.jpg"
+      },
+      {
+        "n": "05",
+        "t": "Tu estancia Honimunn",
+        "d": "Itinerario privado diseñado a medida por vuestro Honimunn Planner, sin prisas ni grupos aglomerados.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/68272/1734521347826_935cbfe4d525c640e357672a1155036d.jpg"
+      }
+    ],
+    "cover": "https://destino.honimunn.com/ImageHandler/c1200x800/25123/cusco-istock-809075824.jpg"
+  },
+  "peru:machu-picchu-pueblo": {
+    "name": "Machu Picchu Pueblo",
+    "eyebrow": "11 - 12",
+    "sub": "Enposado en lo alto de los Andes, Machu Picchu Pueblo es una ciudad ribereña conocida por su proximidad a las famosas ruinas de Machu Picchu.",
+    "continent": null,
+    "country": "peru",
+    "items": [
+      {
+        "n": "01",
+        "t": "Vida urbana",
+        "d": "Enposado en lo alto de los Andes, Machu Picchu Pueblo es una ciudad ribereña conocida por su proximidad a las famosas ruinas de Machu Picchu.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/25146/machu_picchu_pueblo_-paolo_cost-_shutterstock_1089629972.jpg"
+      },
+      {
+        "n": "02",
+        "t": "Gastronomía local",
+        "d": "Esta ciudad de bosque nuboso está rodeada de imponentes acantilados boscosos y cuenta con una infinita variedad de hoteles, restaurantes, mercados y calles laberínticas.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/25146/machu_picchu_pueblo_-paulo_naba-_shutterstock_430643230.jpg"
+      },
+      {
+        "n": "03",
+        "t": "Entorno y paisaje",
+        "d": "Machu Picchu Pueblo, también conocido como Aguas Calientes, sirve de base excelente para explorar el famoso yacimiento arqueológico antiguo de Machu Picchu.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/25146/machu_picchu_pueblo_-the_world_in_hdr-_shutterstock_354957407.jpg"
+      },
+      {
+        "n": "04",
+        "t": "Naturaleza salvaje",
+        "d": "Los visitantes pueden disfrutar de otras actividades, como realizar un masaje relajante después de un largo día de exploración, dar un paseo por la exuberante selva tropical hasta las cascadas de Mandor, emprender una caminata aventurera por la montaña Putucusi o sumergirse en los relajantes baños termales con los Andes como telón de fondo.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/47886/mapi_001.jpg"
+      },
+      {
+        "n": "05",
+        "t": "Dónde dormir",
+        "d": "Contemporáneo y funcional son los conceptos que definen a este hotel ubicado en el pintoresco Machu Picchu Pueblo.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/47886/mapi_001.jpg"
+      }
+    ],
+    "cover": "https://destino.honimunn.com/ImageHandler/c1200x800/25146/machu_picchu_pueblo_-paolo_cost-_shutterstock_1089629972.jpg"
+  },
+  "peru:the-sacred-valley-of-the-incas": {
+    "name": "The Sacred Valley of the Incas",
+    "eyebrow": "12 - 13",
+    "sub": "También conocido como Valle de Urubamba, el Valle Sagrado de los Incas se encuentra en los Andes peruanos, debajo del famoso sitio de Machu Picchu y no muy lejos de Cuzco, la capital inca no oficial.",
+    "continent": null,
+    "country": "peru",
+    "items": [
+      {
+        "n": "01",
+        "t": "Vida urbana",
+        "d": "También conocido como Valle de Urubamba, el Valle Sagrado de los Incas se encuentra en los Andes peruanos, debajo del famoso sitio de Machu Picchu y no muy lejos de Cuzco, la capital inca no oficial.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/25800/the_sacred_valley_of_the_incas_-_tetyana_dotsenko-_shutterstock_718031926.jpg"
+      },
+      {
+        "n": "02",
+        "t": "Qué ver y hacer",
+        "d": "Este fértil valle se alimenta de una red de vías navegables y abarca una gran cantidad de yacimientos arqueológicos, incluido Ollantaytambo, famoso por sus extensas ruinas incas; Tipon, que cuenta con terrazas agrícolas antiguas y un sistema de riego en funcionamiento; y Pisac, con sus antiguos vestigios y coloridos semanales.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/25800/the_sacred_valley_of_the_incas_-bartosz_hadyniak-_istock-627491510.jpg"
+      },
+      {
+        "n": "03",
+        "t": "Dónde dormir",
+        "d": "El Life Hotel Valle Sagrado está situado en El Valle Sagrado de los Incas.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/293301/1743073950820_1.jpg"
+      },
+      {
+        "n": "04",
+        "t": "Gastronomía y barrios",
+        "d": "Descubrid The Sacred Valley of the Incas con calma, en profundidad y con tiempo para disfrutarlo en pareja.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/293301/1743073950820_1.jpg"
+      },
+      {
+        "n": "05",
+        "t": "Tu estancia Honimunn",
+        "d": "Itinerario privado diseñado a medida por vuestro Honimunn Planner, sin prisas ni grupos aglomerados.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/293301/1743073950822_2.jpg"
+      }
+    ],
+    "cover": "https://destino.honimunn.com/ImageHandler/c1200x800/25800/the_sacred_valley_of_the_incas_-_tetyana_dotsenko-_shutterstock_718031926.jpg"
+  },
+  "peru:paracas": {
+    "name": "Paracas",
+    "eyebrow": "3 - 4",
+    "sub": "Un paisaje lunar se encuentra con el océano en Paracas, un pequeño pueblo de playa en la península de Paracas, en el sur de Perú.",
+    "continent": null,
+    "country": "peru",
+    "items": [
+      {
+        "n": "01",
+        "t": "Playas e islas",
+        "d": "Un paisaje lunar se encuentra con el océano en Paracas, un pequeño pueblo de playa en la península de Paracas, en el sur de Perú.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/26365/paracas-shutterstock-1686339741.jpg"
+      },
+      {
+        "n": "02",
+        "t": "Qué ver y hacer",
+        "d": "Los acantilados de Stark caen en el océano y los promontorios escarpados salen al mar, ofreciendo una residencia frente a la playa a las manadas de aves marinas de la zona.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/26365/paracas-shutterstock-20650894491.jpg"
+      },
+      {
+        "n": "03",
+        "t": "Entorno y paisaje",
+        "d": "Muchos visitantes viajan a Paracas para disfrutar de las playas y las ventajas de una ciudad turística, sin embargo es la reserva marina adyacente y las islas periféricas que más intrigan a los viajeros, ofreciendo la oportunidad de ver pingüinos, leones marinos, delfines y focas en su hábitat natural.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/26365/paracas-shutterstock-7806147461.jpg"
+      },
+      {
+        "n": "04",
+        "t": "Gastronomía y barrios",
+        "d": "No te pierdas el Candelabro de Paracas, un geoglífico místico grabado en la roca y que data del 200 a.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/292803/1200x583_1440x700_4.jpg"
+      },
+      {
+        "n": "05",
+        "t": "Dónde dormir",
+        "d": "El Casa Andina Select Paracas es un hotel frente a la playa ubicado en Paracas, una ciudad costera de la región de Ica, en Perú.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/292803/1200x583_1440x700_4.jpg"
+      }
+    ],
+    "cover": "https://destino.honimunn.com/ImageHandler/c1200x800/26365/paracas-shutterstock-1686339741.jpg"
+  },
+  "peru:arequipa": {
+    "name": "Arequipa",
+    "eyebrow": "5 - 6",
+    "sub": "La preciosa ciudad de Arequipa es una mezcla perfecta de tesoros arquitectónicos antiguos y edificios modernos, bendecidos con un promedio de 300 días de clima soleado al año.",
+    "continent": null,
+    "country": "peru",
+    "items": [
+      {
+        "n": "01",
+        "t": "Vida urbana",
+        "d": "La preciosa ciudad de Arequipa es una mezcla perfecta de tesoros arquitectónicos antiguos y edificios modernos, bendecidos con un promedio de 300 días de clima soleado al año.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/26344/arequipa_-stephanie_van_deventer-_shutterstock_1045277485.jpg"
+      },
+      {
+        "n": "02",
+        "t": "Qué ver y hacer",
+        "d": "También se le conoce como «La ciudad blanca», un apodo que se deriva de sus numerosos edificios blancos, que contrastan llamativos con el entorno verde.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/26344/arequipa_-flavio_huamani-_shutterstock_534691549.jpg"
+      },
+      {
+        "n": "03",
+        "t": "Gastronomía local",
+        "d": "Es la ciudad más elegante de Perú y el mejor lugar para visitar si eres un entusiasta en busca de excelentes oportunidades gastronómicas, con una variedad de fabulosos restaurantes que ofrecen especialidades locales picantes como rocoto relleno, chupe de Camarones y ocopa.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/26344/arequipa_-saiko3p-_shutterstock_342386849.jpg"
+      },
+      {
+        "n": "04",
+        "t": "Gastronomía y barrios",
+        "d": "Esta ciudad tiene una historia ilustre y sus tradiciones distintivas la convierten en un destino peruano verdaderamente único.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/50244/11.jpg"
+      },
+      {
+        "n": "05",
+        "t": "Dónde dormir",
+        "d": "El Hotel San Agustin Posada del Monasterio se encuentra frente al convento de Santa Catalina.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/50244/11.jpg"
+      }
+    ],
+    "cover": "https://destino.honimunn.com/ImageHandler/c1200x800/26344/arequipa_-stephanie_van_deventer-_shutterstock_1045277485.jpg"
+  },
+  "peru:colca-canyon": {
+    "name": "Colca Canyon",
+    "eyebrow": "6 - 7",
+    "sub": "El espectacular Valle del Colca es famoso por su dramático paisaje: los pliegues de montaña que se sumergen en las profundidades del Cañón del Colca, a través del cual discurre el río Colca durante unos 50 kilómetros, pasando por antiguos pueblos españoles donde las mujeres todavía se visten con atuendo tradicional andino.",
+    "continent": null,
+    "country": "peru",
+    "items": [
+      {
+        "n": "01",
+        "t": "Naturaleza salvaje",
+        "d": "El espectacular Valle del Colca es famoso por su dramático paisaje: los pliegues de montaña que se sumergen en las profundidades del Cañón del Colca, a través del cual discurre el río Colca durante unos 50 kilómetros, pasando por antiguos pueblos españoles donde las mujeres todavía se visten con atuendo tradicional andino.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/26347/colca_canyon-istock-13203277511.jpg"
+      },
+      {
+        "n": "02",
+        "t": "Cultura viva",
+        "d": "Los residentes de este valle son los descendientes de los habitantes del valle Cabana-Quechua y Collagua, una tribu pre-inca conocida por su impresionante arte textil y tallado en piedra.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/26347/colca_canyon-istock-11621407331.jpg"
+      },
+      {
+        "n": "03",
+        "t": "Patrimonio e historia",
+        "d": "Lo más destacado de la región incluyen visitas a las diversas iglesias coloniales del valle, paseos a caballo y expediciones de observación de cóndor.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/26347/colca_canyon-istock-5158275381.jpg"
+      },
+      {
+        "n": "04",
+        "t": "Dónde dormir",
+        "d": "La posada El Refugio ofrece alojamiento rústico en el impresionante valle del Colca, a solo 500 m de la estación de autobuses de Chivay.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/95234/1764956836328delise-hoteles-el-refugio-eventos-portada.jpg"
+      },
+      {
+        "n": "05",
+        "t": "Tu estancia Honimunn",
+        "d": "Itinerario privado diseñado a medida por vuestro Honimunn Planner, sin prisas ni grupos aglomerados.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/95234/delise-hoteles-web-el-refugio-servicios-3.jpeg"
+      }
+    ],
+    "cover": "https://destino.honimunn.com/ImageHandler/c1200x800/26347/colca_canyon-istock-13203277511.jpg"
+  },
+  "peru:puno": {
+    "name": "Puno",
+    "eyebrow": "7 - 9",
+    "sub": "Ubicada a orillas del resplandeciente lago Titicaca, en el Altiplano del Perú, esta gran ciudad recibe el nombre de la «capital folclórica» del país, conocida por su música y danza tradicionales.",
+    "continent": null,
+    "country": "peru",
+    "items": [
+      {
+        "n": "01",
+        "t": "Vida urbana",
+        "d": "Ubicada a orillas del resplandeciente lago Titicaca, en el Altiplano del Perú, esta gran ciudad recibe el nombre de la «capital folclórica» del país, conocida por su música y danza tradicionales.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/26361/istock-1435086779.jpg"
+      },
+      {
+        "n": "02",
+        "t": "Playas e islas",
+        "d": "También es famosa por su increíble colección de islas flotantes, islas artificiales creadas a partir de cañas, que exhiben la singular cultura de supervivencia que vive aquí desde la época preincaica.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/26361/istock-1334213109.jpg"
+      },
+      {
+        "n": "03",
+        "t": "Entorno y paisaje",
+        "d": "Otros aspectos destacados incluyen visitas a la atmosférica e histórica Iglesia de San Pedro, la magnífica Capilla Sixtina de las Américas y un paseo por el paseo marítimo en la costa del lago Titicaca.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/26361/istock-1347913793.jpg"
+      },
+      {
+        "n": "04",
+        "t": "Gastronomía y barrios",
+        "d": "Los tipos activos deben asumir el desafío de subir los 700 escalones hasta el mirador de Kuntur Wasi, presidido por una enorme escultura de cóndor metálico, para recompensar las impresionantes vistas de la ciudad y el lago Titicaca más allá.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/68479/1740659298849_013aafa1-d8dd-4235-8800-15bf2a74892d.jpg"
+      },
+      {
+        "n": "05",
+        "t": "Dónde dormir",
+        "d": "El Hotel José Antonio Puno está ubicado entre la impresionante belleza del lago más grande de Sudamérica, a solo ocho minutos de la ciudad.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/68479/1740659298849_013aafa1-d8dd-4235-8800-15bf2a74892d.jpg"
+      }
+    ],
+    "cover": "https://destino.honimunn.com/ImageHandler/c1200x800/26361/istock-1435086779.jpg"
+  }
+}

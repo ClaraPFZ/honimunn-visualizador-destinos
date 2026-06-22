@@ -1,0 +1,322 @@
+{
+  "vietnam:hanoi": {
+    "name": "Hanoi",
+    "eyebrow": "2 - 4",
+    "sub": "Con sus amplios bulevares, antiguas pagodas y lagos arbolados, la capital de Vietnam es también la ciudad más atmosférica y fascinante del país.",
+    "continent": null,
+    "country": "vietnam",
+    "items": [
+      {
+        "n": "01",
+        "t": "Vida urbana",
+        "d": "Con sus amplios bulevares, antiguas pagodas y lagos arbolados, la capital de Vietnam es también la ciudad más atmosférica y fascinante del país.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/25895/shutterstock_2374017509.jpg"
+      },
+      {
+        "n": "02",
+        "t": "Patrimonio e historia",
+        "d": "Aquí hay energía y encanto que surgen de la gentilada mezcla del colonialismo francés y la gracia y tradición asiáticas.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/25895/istock-642391846.jpg"
+      },
+      {
+        "n": "03",
+        "t": "Entorno y paisaje",
+        "d": "Disfruta de un escaparate de t'ai chi sincronizado en el lago Hoan Kiem; pasea por el animado casco antiguo con sus calles estrechas con comerciantes y acumulados de scooters entrando y saliendo, y no pierdas la oportunidad de ver un espectáculo de títeres acuáticos en el Thang Long Puppet Theatre.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/25895/istock-1461240621.jpg"
+      },
+      {
+        "n": "04",
+        "t": "Gastronomía y barrios",
+        "d": "Otros lugares para visitar incluyen la Ciudadela Imperial de Thang Long, el complejo del templo de la Pagoda de Perfume y la Ópera de Hanoi, en el corazón del barrio francés.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/108673/2.jpg"
+      },
+      {
+        "n": "05",
+        "t": "Dónde dormir",
+        "d": "El Hanoi Pearl Hotel es un hotel boutique de lujo situado en el casco antiguo de Hanoi, en Vietnam, a pocos minutos a pie del legendario lago Hoan Kiem.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/108673/2.jpg"
+      }
+    ],
+    "cover": "https://destino.honimunn.com/ImageHandler/c1200x800/25895/shutterstock_2374017509.jpg"
+  },
+  "vietnam:mai-chau": {
+    "name": "Mai Chau",
+    "eyebrow": "4 - 5",
+    "sub": "El aislado distrito rural de Mai Chau se encuentra escondido en un idílico valle del norte de Vietnam.",
+    "continent": null,
+    "country": "vietnam",
+    "items": [
+      {
+        "n": "01",
+        "t": "Playas e islas",
+        "d": "El aislado distrito rural de Mai Chau se encuentra escondido en un idílico valle del norte de Vietnam.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/89974/mai_chau-shutterstock-1007680756.jpg"
+      },
+      {
+        "n": "02",
+        "t": "Naturaleza salvaje",
+        "d": "La zona es conocida por sus excelentes oportunidades para practicar senderismo y ciclismo, así como por su pintoresco paisaje pastoral y el estilo de vida relajado del pueblo.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/89974/mai_chau-shutterstock-654901765.jpg"
+      },
+      {
+        "n": "03",
+        "t": "Vida urbana",
+        "d": "La capital del distrito, también conocida como Mai Chau, se utiliza comúnmente como trampolín para explorar los numerosos pueblos tradicionales de la zona que son famosos por sus casas de pilotes con techos de hojas de palma, suelos de listones de bambú y grandes ventanas estampadas.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/89974/mai_chau-istock-1265435629.jpg"
+      },
+      {
+        "n": "04",
+        "t": "Gastronomía y barrios",
+        "d": "Para una experiencia vietnamita maravillosamente auténtica, los visitantes pueden disfrutar de una estancia de una noche en una de estas casas con pilotes donde pueden interactuar con los lugareños y aprender sobre sus tradiciones y costumbres.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/140141/2.jpg"
+      },
+      {
+        "n": "05",
+        "t": "Dónde dormir",
+        "d": "Mai Chau Eco Lodge está idealmente ubicado en el corazón del valle de Mai Chau, con vistas a acres de exuberantes arrozales y espectaculares montañas esmeralda.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/140141/2.jpg"
+      }
+    ],
+    "cover": "https://destino.honimunn.com/ImageHandler/c1200x800/89974/mai_chau-shutterstock-1007680756.jpg"
+  },
+  "vietnam:ninh-binh": {
+    "name": "Ninh Binh",
+    "eyebrow": "5 - 6",
+    "sub": "Ubicado a 100 km al sur de Hanoi en el Delta del Río Rojo, Ninh Binh es la capital de la provincia de Vietnam Ninh Binh.",
+    "continent": null,
+    "country": "vietnam",
+    "items": [
+      {
+        "n": "01",
+        "t": "Vida urbana",
+        "d": "Ubicado a 100 km al sur de Hanoi en el Delta del Río Rojo, Ninh Binh es la capital de la provincia de Vietnam Ninh Binh.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/89991/ninh_binh_-efired-_shutterstock_465800216.jpg"
+      },
+      {
+        "n": "02",
+        "t": "Naturaleza salvaje",
+        "d": "Con sus sencillas conexiones de transporte con destinos tanto al norte como al sur, esta ciudad relajada es la base ideal para explorar el paisaje paisajístico de los alrededores.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/89991/ninh_binh_-john_bill-_shutterstock_281260313.jpg"
+      },
+      {
+        "n": "03",
+        "t": "Patrimonio e historia",
+        "d": "Lo más destacado de la zona es sin duda el Complejo de Paisajes Trang An, declarado Patrimonio de la Humanidad por la UNESCO con exuberantes campos de arrozales verdes, algunos paisajes calcáreos por excelencia vietnamitas y una serie de impresionantes cuevas.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/89991/ninh_binh_-huythoai-_istock-1293422246.jpg"
+      },
+      {
+        "n": "04",
+        "t": "Gastronomía y barrios",
+        "d": "Otros lugares de interés populares cercanos incluyen la pagoda más grande del país y las extraordinarias vistas desde la cima de Hang Mua Peak.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/99154/1732875941032_DJI_0069_800-1200px-768x1152.jpg"
+      },
+      {
+        "n": "05",
+        "t": "Dónde dormir",
+        "d": "El Emeralda Resort Ninh Binh está situado en las afueras de la reserva natural de Van Long, en la provincia de Ninh Binh, a 90 minutos en coche de Hanói.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/99154/1732875941032_DJI_0069_800-1200px-768x1152.jpg"
+      }
+    ],
+    "cover": "https://destino.honimunn.com/ImageHandler/c1200x800/89991/ninh_binh_-efired-_shutterstock_465800216.jpg"
+  },
+  "vietnam:hue": {
+    "name": "Hue",
+    "eyebrow": "7 - 9",
+    "sub": "Aseductora y hermosa, la antigua capital de Vietnam sigue siendo venerada como centro cultural y religioso, y alcanzó el estatus de Patrimonio Mundial de la UNESCO en 1993.",
+    "continent": null,
+    "country": "vietnam",
+    "items": [
+      {
+        "n": "01",
+        "t": "Patrimonio e historia",
+        "d": "Aseductora y hermosa, la antigua capital de Vietnam sigue siendo venerada como centro cultural y religioso, y alcanzó el estatus de Patrimonio Mundial de la UNESCO en 1993.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/43737/hue-shutterstock-1153486768.jpg"
+      },
+      {
+        "n": "02",
+        "t": "Qué ver y hacer",
+        "d": "La ciudad debe su encanto en parte a su entorno en el río Perfume, pero lo que es más importante, a sus numerosos templos y palacios antiguos, todos vestigios de la última dinastía vietnamita que queda, la dinastía Nguyen.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/43737/hue-shutterstock-283511414.jpg"
+      },
+      {
+        "n": "03",
+        "t": "Vida urbana",
+        "d": "La ciudadela de Hue del siglo XIX, también conocida como La Ciudad Imperial, debería estar en lo más alto de su lista de «cosas que ver» (necesitará un día para atravesar todo el complejo); mientras que a lo largo de la orilla del río hay un sinfín de santuas y estupas más, incluida la Pagoda Thien Mu con su torre octogonal.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/43737/hue-shutterstock-1131889760.jpg"
+      },
+      {
+        "n": "04",
+        "t": "Gastronomía local",
+        "d": "Bájese en varias aguas termales minerales, tome un paseo en barco por el río o tome un «recorrido gastronómico» por los magníficos restaurantes de la ciudad.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/165379/1741180859977_5O4A8310-min.jpg"
+      },
+      {
+        "n": "05",
+        "t": "Dónde dormir",
+        "d": "El Melia Vinpearl Hue se encuentra en el corazón de la antigua Hue, con una ubicación privilegiada, con vistas al río Huong y apoyado en la montaña Ngu.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/164937/8.png"
+      }
+    ],
+    "cover": "https://destino.honimunn.com/ImageHandler/c1200x800/43737/hue-shutterstock-1153486768.jpg"
+  },
+  "vietnam:hoi-an": {
+    "name": "Hoi An",
+    "eyebrow": "9 - 11",
+    "sub": "Hoi An, en la costa central de Vietnam, es encantador.",
+    "continent": null,
+    "country": "vietnam",
+    "items": [
+      {
+        "n": "01",
+        "t": "Playas e islas",
+        "d": "Hoi An, en la costa central de Vietnam, es encantador.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/43738/hoi_an_-hadynyah-_istock-1129430360.jpg"
+      },
+      {
+        "n": "02",
+        "t": "Patrimonio e historia",
+        "d": "Este antiguo bullicioso pueblo portuario ofrece una colorida combinación de arquitectura, canales, puentes y templos de influencia francesa, china y japonesa, y la falta de tráfico ruidoso (no se permiten automóviles en las calles principales) significa que puedes descubrir la ciudad en relativa paz y tranquilidad.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/43738/hoi_an_-yumi_mini-_istock-1167119719.jpg"
+      },
+      {
+        "n": "03",
+        "t": "Entorno y paisaje",
+        "d": "Su zona frente al mar está llena de hoteles boutique, restaurantes, sastrerías y tiendas de arte y artesanía.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/43738/hoi_an_-qui_thinh_tran-__istock-1330638721.jpg"
+      },
+      {
+        "n": "04",
+        "t": "Gastronomía y barrios",
+        "d": "Si tienes tiempo, trata de visitar las ruinas de My Son Sanctuary, un antiguo complejo de templos de la torre hindú, consigue ropa hecha a medida creada por un sastre local y recoge uno de los muchos faroles vietnamitas hermosos de fabricación local.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/165379/1741180859977_5O4A8310-min.jpg"
+      },
+      {
+        "n": "05",
+        "t": "Dónde dormir",
+        "d": "Inspirado en la belleza del pavo real, símbolo de la pasión, el Hoi An Delicacy Hotel & Spa ofrece alojamiento a poca distancia a pie del casco antiguo.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/140306/12.jpg"
+      }
+    ],
+    "cover": "https://destino.honimunn.com/ImageHandler/c1200x800/43738/hoi_an_-hadynyah-_istock-1129430360.jpg"
+  },
+  "vietnam:ho-chi-minh-city": {
+    "name": "Ho Chi Minh City",
+    "eyebrow": "11 - 13",
+    "sub": "El complemento perfecto para la más serena de Hanoi, la ciudad de Ho Chi Minh (antes Saigón) tiene una energía pulsante que es imposible de resistir.",
+    "continent": null,
+    "country": "vietnam",
+    "items": [
+      {
+        "n": "01",
+        "t": "Vida urbana",
+        "d": "El complemento perfecto para la más serena de Hanoi, la ciudad de Ho Chi Minh (antes Saigón) tiene una energía pulsante que es imposible de resistir.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/37200/istock-918767152.jpg"
+      },
+      {
+        "n": "02",
+        "t": "Gastronomía local",
+        "d": "Las atracciones incluyen el bullicioso mercado Ben Thanh, donde los vendedores venden todo, desde alimentos, dulces y especias hasta tabaco, souvenirs y ropa, incluyendo trajes hechos a medida, y Nha Hang Ngon, donde se puede degustar comida tradicional de la calle servida desde puestos de comida en un jardín frondoso.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/37200/shutterstock_2221330347.jpg"
+      },
+      {
+        "n": "03",
+        "t": "Patrimonio e historia",
+        "d": "Otros lugares y experiencias notables incluyen la Basílica de Notre-Dame, la Pagoda del Emperador de Jade por sus estatuas y tallas en madera, el Museo de los Restos de Guerra y la Pagoda de Khanh Van Nam Vien, que se dice que es el único templo taoísta puro en Vietnam.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/37200/istock-1401126607.jpg"
+      },
+      {
+        "n": "04",
+        "t": "Dónde dormir",
+        "d": "El Alagon D'Antique Hotel & Spa está situado en Ciudad Ho Chi Minh, cerca de varios lugares de interés.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/208935/1.jpg"
+      },
+      {
+        "n": "05",
+        "t": "Tu estancia Honimunn",
+        "d": "Itinerario privado diseñado a medida por vuestro Honimunn Planner, sin prisas ni grupos aglomerados.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/165379/1741180859984_res1-min.jpeg"
+      }
+    ],
+    "cover": "https://destino.honimunn.com/ImageHandler/c1200x800/37200/istock-918767152.jpg"
+  },
+  "vietnam:thailand": {
+    "name": "Thailand",
+    "eyebrow": "Destino Honimunn",
+    "sub": "Conocida con cariño como “la tierra de las sonrisas”, Tailandia se asocia comúnmente con una hermosa arena dorada, playas bordeadas de palmeras, cálidas aguas aguamarinas, gloriosos templos y verdes montañas cubiertas de selvas.",
+    "continent": null,
+    "country": "vietnam",
+    "items": [
+      {
+        "n": "01",
+        "t": "Playas e islas",
+        "d": "Conocida con cariño como “la tierra de las sonrisas”, Tailandia se asocia comúnmente con una hermosa arena dorada, playas bordeadas de palmeras, cálidas aguas aguamarinas, gloriosos templos y verdes montañas cubiertas de selvas.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/165379/1741180859977_5O4A8310-min.jpg"
+      },
+      {
+        "n": "02",
+        "t": "Qué ver y hacer",
+        "d": "Con dieciséis millones de extranjeros volando al país cada año, Tailandia es el principal centro de viajes del sudeste de Asia, ofreciendo una amplia gama de atracciones y actividades para todos los gustos y presupuestos.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/165379/1741180859984_res1-min.jpeg"
+      },
+      {
+        "n": "03",
+        "t": "Entorno y paisaje",
+        "d": "Ya sea explorando la bulliciosa metrópolis de Bangkok, relajándose en las playas tropicales de las islas del sur, buceando en el maravilloso país submarino frente a la costa de Koh Tao, trekking en la selva en el norte o descubriendo las antiguas ciudades de Chiang Mai, Tailandia está llena de atracciones para satisfacer cualquier interés.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/165379/1741181033061_res4-min.jpg"
+      },
+      {
+        "n": "04",
+        "t": "Dónde dormir",
+        "d": "Hoteles boutique y propiedades con encanto, elegidos por nuestros planners.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/165379/1741180859944_cabin14-min.jpg"
+      },
+      {
+        "n": "05",
+        "t": "Tu estancia Honimunn",
+        "d": "Itinerario privado diseñado a medida por vuestro Honimunn Planner, sin prisas ni grupos aglomerados.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/165379/1741180859981_5O4A8358-min.jpg"
+      }
+    ],
+    "cover": "https://destino.honimunn.com/ImageHandler/c1200x800/165379/1741180859977_5O4A8310-min.jpg"
+  },
+  "vietnam:bangkok": {
+    "name": "Bangkok",
+    "eyebrow": "11 - 14",
+    "sub": "Vaporosa, frenética y emocionante, la capital de Tailandia, ubicada en el delta del río Chao Phraya, es un destino turístico legendario.",
+    "continent": null,
+    "country": "vietnam",
+    "items": [
+      {
+        "n": "01",
+        "t": "Vida urbana",
+        "d": "Vaporosa, frenética y emocionante, la capital de Tailandia, ubicada en el delta del río Chao Phraya, es un destino turístico legendario.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/24265/bangkok_-nukul2533-_istock-1184272835.jpg"
+      },
+      {
+        "n": "02",
+        "t": "Cultura viva",
+        "d": "Esta metrópolis es igualmente famosa por su rica oferta cultural, su efervescente vida nocturna, sus excelentes tiendas y sus diversas opciones gastronómicas.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/24265/bangkok_-wit88_-_istock-637157838.jpg"
+      },
+      {
+        "n": "03",
+        "t": "Patrimonio e historia",
+        "d": "Los artículos de la lista de deseos incluyen una visita al alucinante Buda reclinado en Wat Pho, un paseo en barco matutino por los canales para sumergirse en los mercados flotantes y un paseo por el opulento Gran Palacio.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/24265/bangkok_-mantaphoto-_istock-684774510.jpg"
+      },
+      {
+        "n": "04",
+        "t": "Gastronomía local",
+        "d": "El centro turístico de Khaosan Road, el MBK Centre, Siam Square o los fines de semana, el vasto mercado de Chatuchak, ofrecen excelentes oportunidades de compra, mientras que los restaurantes abarcan todos los estilos, desde la increíble comida callejera hasta la alta cocina de cinco estrellas.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/165379/1741180859977_5O4A8310-min.jpg"
+      },
+      {
+        "n": "05",
+        "t": "Dónde dormir",
+        "d": "El Montien Hotel Surawong Bangkok está ubicado en el animado distrito de Silom de Bangkok.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/311835/17600844267121466834.jpg"
+      }
+    ],
+    "cover": "https://destino.honimunn.com/ImageHandler/c1200x800/24265/bangkok_-nukul2533-_istock-1184272835.jpg"
+  }
+}

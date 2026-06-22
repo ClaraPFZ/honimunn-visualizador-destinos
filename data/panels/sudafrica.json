@@ -1,0 +1,282 @@
+{
+  "sudafrica:cape-town": {
+    "name": "Cape Town",
+    "eyebrow": "2 - 6",
+    "sub": "Situada en la confluencia de los océanos Índico y Atlántico y respaldada por la icónica Montaña de la Mesa, la bulliciosa ciudad de Ciudad del Cabo presenta una atractiva combinación de atractivos.",
+    "continent": null,
+    "country": "sudafrica",
+    "items": [
+      {
+        "n": "01",
+        "t": "Playas e islas",
+        "d": "Situada en la confluencia de los océanos Índico y Atlántico y respaldada por la icónica Montaña de la Mesa, la bulliciosa ciudad de Ciudad del Cabo presenta una atractiva combinación de atractivos.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/509/capetown-istock-620737858_18.jpg"
+      },
+      {
+        "n": "02",
+        "t": "Qué ver y hacer",
+        "d": "Increíbles playas de arena blanca y fina, rutas vinícolas muy aclamadas y senderos de montaña asombrosamente hermosos rodean este centro cosmopolita.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/509/capetown-istock-620737858_42.jpg"
+      },
+      {
+        "n": "03",
+        "t": "Entorno y paisaje",
+        "d": "Esta diversa metrópolis está repleta de magníficas tiendas y restaurantes, extraordinarios monumentos patrimoniales, multitud de lugares de entretenimiento y un espectacular y elegante puerto frente al mar.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/509/capetown-istock-620737858_162.jpg"
+      },
+      {
+        "n": "04",
+        "t": "Gastronomía y barrios",
+        "d": "Entre los lugares más destacados se incluyen el Museo Zeitz de Arte Africano Contemporáneo; las asombrosas vistas de Table Mountain; la playa de Boulders, donde los pingüinos pueden nadar hasta ti en las cálidas aguas del Océano Índico; el Jardín Botánico de Kirstenbosch, donde puedes pasear por las copas de los árboles entre una increíble flora nativa o asistir a un concierto al aire libre en la base de la montaña; la isla Robben, donde los visitantes pueden ver la celda donde Nelson Mandela estuvo encarcelado durante 18 años; y muchos más.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/1201/37737_4_23950084__lobby_and_lounge_area.jpg"
+      },
+      {
+        "n": "05",
+        "t": "Dónde dormir",
+        "d": "El moderno y elegante hotel Garden Court Victoria Junction tiene una ubicación ideal en el corazón del bullicioso distrito urbano de Green Point, donde se encuentran algunas de las tiendas, restaurantes y vida nocturna más interesantes de Ciudad del Cabo.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/1201/37737_4_23950084__lobby_and_lounge_area.jpg"
+      }
+    ],
+    "cover": "https://destino.honimunn.com/ImageHandler/c1200x800/509/capetown-istock-620737858_18.jpg"
+  },
+  "sudafrica:moditlo-private-game-reserve": {
+    "name": "Moditlo Private Game Reserve",
+    "eyebrow": "6 - 8",
+    "sub": "Ubicada cerca de Hoedspruit, la reserva privada de caza Moditlo es una escapada cautivadora junto al famoso Parque Nacional Greater Kruger y Blue Canyon Conservancy.",
+    "continent": null,
+    "country": "sudafrica",
+    "items": [
+      {
+        "n": "01",
+        "t": "Naturaleza salvaje",
+        "d": "Ubicada cerca de Hoedspruit, la reserva privada de caza Moditlo es una escapada cautivadora junto al famoso Parque Nacional Greater Kruger y Blue Canyon Conservancy.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/324929/istock-954669924.jpg"
+      },
+      {
+        "n": "02",
+        "t": "Qué ver y hacer",
+        "d": "El nombre de la reserva, que se pronuncia «mo-di-tlo», rinde homenaje a las majestuosas manadas de elefantes que se extienden a lo largo de 36 000 acres de sabana boscosa africana.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/324929/istock-692811736.jpg"
+      },
+      {
+        "n": "03",
+        "t": "Entorno y paisaje",
+        "d": "Moditlo cuenta con lagos, arroyos y presas que nutren el crecimiento de una exuberante vegetación y ofrecen un hábitat perfecto para una gran variedad de vida silvestre.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/324929/istock-671720612.jpg"
+      },
+      {
+        "n": "04",
+        "t": "Gastronomía y barrios",
+        "d": "Con la cordillera de Drakensberg como telón de fondo, Moditlo ofrece una rica variedad de vida silvestre, desde hipopótamos y guepardos hasta jirafas, cebras y más.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/35814/1751014422300_1.-Signature-Picture.jpg"
+      },
+      {
+        "n": "05",
+        "t": "Dónde dormir",
+        "d": "Situada en 36.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/35814/1751014422300_1.-Signature-Picture.jpg"
+      }
+    ],
+    "cover": "https://destino.honimunn.com/ImageHandler/c1200x800/324929/istock-954669924.jpg"
+  },
+  "sudafrica:johannesburg": {
+    "name": "Johannesburg",
+    "eyebrow": "2 - 3",
+    "sub": "Johannesburgo es una de las ciudades más grandes y vibrantes de África.",
+    "continent": null,
+    "country": "sudafrica",
+    "items": [
+      {
+        "n": "01",
+        "t": "Vida urbana",
+        "d": "Johannesburgo es una de las ciudades más grandes y vibrantes de África.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/773/shutterstock_469114847.jpg"
+      },
+      {
+        "n": "02",
+        "t": "Qué ver y hacer",
+        "d": "Es una potencia económica en África y la puerta de entrada al sur de África.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/773/shutterstock_1318332356.jpg"
+      },
+      {
+        "n": "03",
+        "t": "Entorno y paisaje",
+        "d": "Esta bulliciosa ciudad ofrece una amplia gama de actividades, atracciones y mucho que hacer en la ciudad y sus alrededores, incluida la cercana Pretoria.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/773/shutterstock_690901663.jpg"
+      },
+      {
+        "n": "04",
+        "t": "Gastronomía local",
+        "d": "El centro es una mezcla multicultural de tiendas de medicina tradicional, restaurantes chinos, paradas de taxis y rascacielos ultramodernos.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/19163/EP%20-%20Metcourt%20Suites%20-%20Deluxe%20King%20-%20large.jpg"
+      },
+      {
+        "n": "05",
+        "t": "Dónde dormir",
+        "d": "Alojamiento asequible con un servicio amable.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/19163/EP%20-%20Metcourt%20Suites%20-%20Deluxe%20King%20-%20large.jpg"
+      }
+    ],
+    "cover": "https://destino.honimunn.com/ImageHandler/c1200x800/773/shutterstock_469114847.jpg"
+  },
+  "sudafrica:south-africa": {
+    "name": "South Africa",
+    "eyebrow": "Destino Honimunn",
+    "sub": "Uno de los lugares más diversos cultural y geográficamente de la tierra, Sudáfrica, conocida con cariño por los lugareños como la «nación del arco iris», cuenta con 11 idiomas oficiales, y sus habitantes están influenciados por una fascinante mezcla de culturas.",
+    "continent": null,
+    "country": "sudafrica",
+    "items": [
+      {
+        "n": "01",
+        "t": "Cultura viva",
+        "d": "Uno de los lugares más diversos cultural y geográficamente de la tierra, Sudáfrica, conocida con cariño por los lugareños como la «nación del arco iris», cuenta con 11 idiomas oficiales, y sus habitantes están influenciados por una fascinante mezcla de culturas.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/14206/mahe_island_-jenny_sturm-_shutterstock_267849362.jpg"
+      },
+      {
+        "n": "02",
+        "t": "Playas e islas",
+        "d": "Descubra los restaurantes gourmet, la impresionante escena artística, la vibrante vida nocturna y las hermosas playas de Ciudad del Cabo.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/14206/mahe_island_-jenny_sturm-_shutterstock_267849362.jpg"
+      },
+      {
+        "n": "03",
+        "t": "Gastronomía local",
+        "d": "Disfrute de una braai (barbacoa) local en el municipio de Soweto, explore los bulliciosos mercados indios de Durban o pruebe algunos de los mejores vinos del mundo en las innumerables fincas vinícolas que salpican los viñedos del Cabo.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/14206/mahe_island_-jenny_sturm-_shutterstock_267849362.jpg"
+      },
+      {
+        "n": "04",
+        "t": "Gastronomía y barrios",
+        "d": "Algunas atracciones históricas para explorar incluyen los campos de batalla de Zululandia de KwaZulu-Natal, el Museo del Apartheid en Johannesburgo y la isla Robben, justo al lado de la costa de Ciudad del Cabo.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/14206/mahe_island_-jenny_sturm-_shutterstock_267849362.jpg"
+      },
+      {
+        "n": "05",
+        "t": "Dónde dormir",
+        "d": "Hoteles boutique y propiedades con encanto, elegidos por nuestros planners.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/14206/mahe_island_-jenny_sturm-_shutterstock_267849362.jpg"
+      }
+    ],
+    "cover": "https://destino.honimunn.com/ImageHandler/c1200x800/14206/mahe_island_-jenny_sturm-_shutterstock_267849362.jpg"
+  },
+  "sudafrica:hermanus": {
+    "name": "Hermanus",
+    "eyebrow": "5 - 6",
+    "sub": "Situado a solo 140 kilómetros de Ciudad del Cabo y construido entre las hermosas costas de la bahía Walker, Hermanus ha pasado de ser una pequeña ciudad turística costera a convertirse en el lugar más conocido del mundo para la observación de ballenas.",
+    "continent": null,
+    "country": "sudafrica",
+    "items": [
+      {
+        "n": "01",
+        "t": "Playas e islas",
+        "d": "Situado a solo 140 kilómetros de Ciudad del Cabo y construido entre las hermosas costas de la bahía Walker, Hermanus ha pasado de ser una pequeña ciudad turística costera a convertirse en el lugar más conocido del mundo para la observación de ballenas.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/400/1739439786290_iStock-1757651704.jpg"
+      },
+      {
+        "n": "02",
+        "t": "Qué ver y hacer",
+        "d": "Esta ciudad también es famosa por su belleza paisajística natural, con largas extensiones de playas vírgenes.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/400/1739439764005_iStock-1088169824.jpg"
+      },
+      {
+        "n": "03",
+        "t": "Gastronomía local",
+        "d": "También hay una excelente variedad de restaurantes, cafeterías y bares.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/400/1739439764004_iStock-939729026.jpg"
+      },
+      {
+        "n": "04",
+        "t": "Gastronomía y barrios",
+        "d": "Hoy en día, Hermanus es más que un popular destino de vacaciones y ofrece a los visitantes todo tipo de actividades, tanto energéticas como relajantes.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/88406/upstrairs_lounge_braai_a1.jpg"
+      },
+      {
+        "n": "05",
+        "t": "Dónde dormir",
+        "d": "Whale Coast Villa se encuentra en el popular suburbio de Hermanus de Voelklip, una ciudad famosa por los avistamientos de ballenas francas del sur durante la temporada de ballenas.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/88406/upstrairs_lounge_braai_a1.jpg"
+      }
+    ],
+    "cover": "https://destino.honimunn.com/ImageHandler/c1200x800/400/1739439786290_iStock-1757651704.jpg"
+  },
+  "sudafrica:stellenbosch": {
+    "name": "Stellenbosch",
+    "eyebrow": "6 - 7",
+    "sub": "A solo 45 minutos de Ciudad del Cabo, Stellenbosch es un atractivo destino de Western Cape con una emocionante escena culinaria, edificios históricos fotogénicos y un ambiente juvenil.",
+    "continent": null,
+    "country": "sudafrica",
+    "items": [
+      {
+        "n": "01",
+        "t": "Patrimonio e historia",
+        "d": "A solo 45 minutos de Ciudad del Cabo, Stellenbosch es un atractivo destino de Western Cape con una emocionante escena culinaria, edificios históricos fotogénicos y un ambiente juvenil.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/1137/1739538042208_iStock-1390271594.jpg"
+      },
+      {
+        "n": "02",
+        "t": "Naturaleza salvaje",
+        "d": "La hermosa ciudad universitaria está rodeada de montañas, viñedos y reservas naturales (Jonkershoek y Simonsberg), lo que la convierte en una base encantadora para hacer excursiones de vino, excursiones de un día y aventuras al aire libre.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/1137/1739538042210_iStock-1308255281.jpg"
+      },
+      {
+        "n": "03",
+        "t": "Gastronomía local",
+        "d": "El centro de la ciudad se caracteriza tanto por una «sensación de vacaciones» (galerías de arte sublimes, restaurantes galardonados y atractivas boutiques que bordean las frondosas calles empedradas) como por una sensación de vitalidad mientras los estudiantes se mueven entre las facultades.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/1137/1739538058552_shutterstock_1265957386.jpg"
+      },
+      {
+        "n": "04",
+        "t": "Vida urbana",
+        "d": "Los entusiastas de la arquitectura disfrutarán de los numerosos edificios holandeses y victorianos del Cabo, mientras que los amantes de la música pueden disfrutar de conciertos de música clásica de clase mundial en el gran Conservatorio de Música.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/8478/D-142.jpg"
+      },
+      {
+        "n": "05",
+        "t": "Dónde dormir",
+        "d": "El edificio original con marco de madera fue construido en 1947 e inicialmente llamado Cedarwood Hotel.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/8478/D-142.jpg"
+      }
+    ],
+    "cover": "https://destino.honimunn.com/ImageHandler/c1200x800/1137/1739538042208_iStock-1390271594.jpg"
+  },
+  "sudafrica:lalibela-wildlife-reserve": {
+    "name": "Lalibela Wildlife Reserve",
+    "eyebrow": "7 - 9",
+    "sub": "Situado en la Provincia Oriental del Cabo de Sudáfrica, Lalibela Game Reserve es un destino de safari de renombre mundial.",
+    "continent": null,
+    "country": "sudafrica",
+    "items": [
+      {
+        "n": "01",
+        "t": "Naturaleza salvaje",
+        "d": "Situado en la Provincia Oriental del Cabo de Sudáfrica, Lalibela Game Reserve es un destino de safari de renombre mundial.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/14897/_cga1998.jpg"
+      },
+      {
+        "n": "02",
+        "t": "Gastronomía local",
+        "d": "Lalibela es conocida por sus excepcionales opciones de alojamiento cómodo y por su deliciosa cocina.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/14897/lalibela_982.jpg"
+      },
+      {
+        "n": "03",
+        "t": "Entorno y paisaje",
+        "d": "Ofrece una experiencia memorable de safari africano Big 5 en un entorno espectacular y sin malaria.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/14897/_dsc2682.jpg"
+      },
+      {
+        "n": "04",
+        "t": "Gastronomía y barrios",
+        "d": "Con una extensión de más de 10 500 hectáreas, es el hogar de una fantástica diversidad de flora y fauna, incluyendo el famoso Big 5, así como guepardo, chacal, hiena, lince, jirafa, jabalí, cebra, ñus, impala, blesbuck y muchas otras especies de antílopes, todos los cuales vagan libremente por la reserva.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/8698/lalsa_0060.jpg"
+      },
+      {
+        "n": "05",
+        "t": "Dónde dormir",
+        "d": "Lentaba, el «albergue en la ladera», tiene capacidad para 20 personas en diez chalets aislados con techo de paja (5 de lujo y 5 clásicos), ubicados donde magníficos jardines indígenas se funden en el arbusto circundante.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/8698/lalsa_0060.jpg"
+      }
+    ],
+    "cover": "https://destino.honimunn.com/ImageHandler/c1200x800/14897/_cga1998.jpg"
+  }
+}

@@ -1,0 +1,197 @@
+{
+  "marruecos:marrakech": {
+    "name": "Marrakech",
+    "eyebrow": "Destino Honimunn",
+    "sub": "Marrakech es una parada clave en nuestros viajes por la región.",
+    "country": "marruecos",
+    "items": [
+      {
+        "n": "01",
+        "t": "Lo esencial",
+        "d": "Marrakech concentra lo mejor del destino: cultura, paisaje y momentos para recordar.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Marrakech_%28Morocco%29_%282%29.jpg/1200px-Marrakech_%28Morocco%29_%282%29.jpg"
+      },
+      {
+        "n": "02",
+        "t": "Qué ver y hacer",
+        "d": "Explorad sus barrios, miradores y experiencias locales con tiempo para disfrutarlos sin prisas.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Marrakech_%28Morocco%29_%282%29.jpg/1200px-Marrakech_%28Morocco%29_%282%29.jpg"
+      },
+      {
+        "n": "03",
+        "t": "Entorno y paisaje",
+        "d": "Naturaleza, costa o montaña a poca distancia — el complemento perfecto para vuestra luna de miel.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Marrakech_%28Morocco%29_%282%29.jpg/1200px-Marrakech_%28Morocco%29_%282%29.jpg"
+      },
+      {
+        "n": "04",
+        "t": "Gastronomía y barrios",
+        "d": "Mercados, restaurantes y calles con vida propia donde saborear el destino.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Marrakech_%28Morocco%29_%282%29.jpg/1200px-Marrakech_%28Morocco%29_%282%29.jpg"
+      },
+      {
+        "n": "05",
+        "t": "Tu estancia Honimunn",
+        "d": "Itinerario privado a medida con alojamientos seleccionados por vuestro Honimunn Planner.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Marrakech_%28Morocco%29_%282%29.jpg/1200px-Marrakech_%28Morocco%29_%282%29.jpg"
+      }
+    ],
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Marrakech_%28Morocco%29_%282%29.jpg/1200px-Marrakech_%28Morocco%29_%282%29.jpg"
+  },
+  "marruecos:fez": {
+    "name": "Fez",
+    "eyebrow": "Destino Honimunn",
+    "sub": "Fez es una parada clave en nuestros viajes por la región.",
+    "country": "marruecos",
+    "items": [
+      {
+        "n": "01",
+        "t": "Lo esencial",
+        "d": "Fez concentra lo mejor del destino: cultura, paisaje y momentos para recordar.",
+        "img": ""
+      },
+      {
+        "n": "02",
+        "t": "Qué ver y hacer",
+        "d": "Explorad sus barrios, miradores y experiencias locales con tiempo para disfrutarlos sin prisas.",
+        "img": ""
+      },
+      {
+        "n": "03",
+        "t": "Entorno y paisaje",
+        "d": "Naturaleza, costa o montaña a poca distancia — el complemento perfecto para vuestra luna de miel.",
+        "img": ""
+      },
+      {
+        "n": "04",
+        "t": "Gastronomía y barrios",
+        "d": "Mercados, restaurantes y calles con vida propia donde saborear el destino.",
+        "img": ""
+      },
+      {
+        "n": "05",
+        "t": "Tu estancia Honimunn",
+        "d": "Itinerario privado a medida con alojamientos seleccionados por vuestro Honimunn Planner.",
+        "img": ""
+      }
+    ],
+    "cover": ""
+  },
+  "marruecos:casablanca": {
+    "name": "Casablanca",
+    "eyebrow": "Destino Honimunn",
+    "sub": "Casablanca es una parada clave en nuestros viajes por la región.",
+    "country": "marruecos",
+    "items": [
+      {
+        "n": "01",
+        "t": "Lo esencial",
+        "d": "Casablanca concentra lo mejor del destino: cultura, paisaje y momentos para recordar.",
+        "img": ""
+      },
+      {
+        "n": "02",
+        "t": "Qué ver y hacer",
+        "d": "Explorad sus barrios, miradores y experiencias locales con tiempo para disfrutarlos sin prisas.",
+        "img": ""
+      },
+      {
+        "n": "03",
+        "t": "Entorno y paisaje",
+        "d": "Naturaleza, costa o montaña a poca distancia — el complemento perfecto para vuestra luna de miel.",
+        "img": ""
+      },
+      {
+        "n": "04",
+        "t": "Gastronomía y barrios",
+        "d": "Mercados, restaurantes y calles con vida propia donde saborear el destino.",
+        "img": ""
+      },
+      {
+        "n": "05",
+        "t": "Tu estancia Honimunn",
+        "d": "Itinerario privado a medida con alojamientos seleccionados por vuestro Honimunn Planner.",
+        "img": ""
+      }
+    ],
+    "cover": ""
+  },
+  "marruecos:chefchaouen": {
+    "name": "Chefchaouen",
+    "eyebrow": "Destino Honimunn",
+    "sub": "Chefchaouen es una parada clave en nuestros viajes por la región.",
+    "country": "marruecos",
+    "items": [
+      {
+        "n": "01",
+        "t": "Lo esencial",
+        "d": "Chefchaouen concentra lo mejor del destino: cultura, paisaje y momentos para recordar.",
+        "img": ""
+      },
+      {
+        "n": "02",
+        "t": "Qué ver y hacer",
+        "d": "Explorad sus barrios, miradores y experiencias locales con tiempo para disfrutarlos sin prisas.",
+        "img": ""
+      },
+      {
+        "n": "03",
+        "t": "Entorno y paisaje",
+        "d": "Naturaleza, costa o montaña a poca distancia — el complemento perfecto para vuestra luna de miel.",
+        "img": ""
+      },
+      {
+        "n": "04",
+        "t": "Gastronomía y barrios",
+        "d": "Mercados, restaurantes y calles con vida propia donde saborear el destino.",
+        "img": ""
+      },
+      {
+        "n": "05",
+        "t": "Tu estancia Honimunn",
+        "d": "Itinerario privado a medida con alojamientos seleccionados por vuestro Honimunn Planner.",
+        "img": ""
+      }
+    ],
+    "cover": ""
+  },
+  "marruecos:essaouira": {
+    "name": "Essaouira",
+    "eyebrow": "Destino Honimunn",
+    "sub": "Essaouira es una parada clave en nuestros viajes por la región.",
+    "country": "marruecos",
+    "items": [
+      {
+        "n": "01",
+        "t": "Lo esencial",
+        "d": "Essaouira concentra lo mejor del destino: cultura, paisaje y momentos para recordar.",
+        "img": ""
+      },
+      {
+        "n": "02",
+        "t": "Qué ver y hacer",
+        "d": "Explorad sus barrios, miradores y experiencias locales con tiempo para disfrutarlos sin prisas.",
+        "img": ""
+      },
+      {
+        "n": "03",
+        "t": "Entorno y paisaje",
+        "d": "Naturaleza, costa o montaña a poca distancia — el complemento perfecto para vuestra luna de miel.",
+        "img": ""
+      },
+      {
+        "n": "04",
+        "t": "Gastronomía y barrios",
+        "d": "Mercados, restaurantes y calles con vida propia donde saborear el destino.",
+        "img": ""
+      },
+      {
+        "n": "05",
+        "t": "Tu estancia Honimunn",
+        "d": "Itinerario privado a medida con alojamientos seleccionados por vuestro Honimunn Planner.",
+        "img": ""
+      }
+    ],
+    "cover": ""
+  }
+}

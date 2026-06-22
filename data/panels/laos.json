@@ -1,0 +1,122 @@
+{
+  "laos:hanoi": {
+    "name": "Hanoi",
+    "eyebrow": "2 - 4",
+    "sub": "Con sus amplios bulevares, antiguas pagodas y lagos arbolados, la capital de Vietnam es también la ciudad más atmosférica y fascinante del país.",
+    "continent": null,
+    "country": "laos",
+    "items": [
+      {
+        "n": "01",
+        "t": "Vida urbana",
+        "d": "Con sus amplios bulevares, antiguas pagodas y lagos arbolados, la capital de Vietnam es también la ciudad más atmosférica y fascinante del país.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/25895/shutterstock_2374017509.jpg"
+      },
+      {
+        "n": "02",
+        "t": "Patrimonio e historia",
+        "d": "Aquí hay energía y encanto que surgen de la gentilada mezcla del colonialismo francés y la gracia y tradición asiáticas.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/25895/istock-642391846.jpg"
+      },
+      {
+        "n": "03",
+        "t": "Entorno y paisaje",
+        "d": "Disfruta de un escaparate de t'ai chi sincronizado en el lago Hoan Kiem; pasea por el animado casco antiguo con sus calles estrechas con comerciantes y acumulados de scooters entrando y saliendo, y no pierdas la oportunidad de ver un espectáculo de títeres acuáticos en el Thang Long Puppet Theatre.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/25895/istock-1461240621.jpg"
+      },
+      {
+        "n": "04",
+        "t": "Gastronomía y barrios",
+        "d": "Otros lugares para visitar incluyen la Ciudadela Imperial de Thang Long, el complejo del templo de la Pagoda de Perfume y la Ópera de Hanoi, en el corazón del barrio francés.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/108673/2.jpg"
+      },
+      {
+        "n": "05",
+        "t": "Dónde dormir",
+        "d": "El Hanoi Pearl Hotel es un hotel boutique de lujo situado en el casco antiguo de Hanoi, en Vietnam, a pocos minutos a pie del legendario lago Hoan Kiem.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/108673/2.jpg"
+      }
+    ],
+    "cover": "https://destino.honimunn.com/ImageHandler/c1200x800/25895/shutterstock_2374017509.jpg"
+  },
+  "laos:mai-chau": {
+    "name": "Mai Chau",
+    "eyebrow": "4 - 5",
+    "sub": "El aislado distrito rural de Mai Chau se encuentra escondido en un idílico valle del norte de Vietnam.",
+    "continent": null,
+    "country": "laos",
+    "items": [
+      {
+        "n": "01",
+        "t": "Playas e islas",
+        "d": "El aislado distrito rural de Mai Chau se encuentra escondido en un idílico valle del norte de Vietnam.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/89974/mai_chau-shutterstock-1007680756.jpg"
+      },
+      {
+        "n": "02",
+        "t": "Naturaleza salvaje",
+        "d": "La zona es conocida por sus excelentes oportunidades para practicar senderismo y ciclismo, así como por su pintoresco paisaje pastoral y el estilo de vida relajado del pueblo.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/89974/mai_chau-shutterstock-654901765.jpg"
+      },
+      {
+        "n": "03",
+        "t": "Vida urbana",
+        "d": "La capital del distrito, también conocida como Mai Chau, se utiliza comúnmente como trampolín para explorar los numerosos pueblos tradicionales de la zona que son famosos por sus casas de pilotes con techos de hojas de palma, suelos de listones de bambú y grandes ventanas estampadas.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/89974/mai_chau-istock-1265435629.jpg"
+      },
+      {
+        "n": "04",
+        "t": "Gastronomía y barrios",
+        "d": "Para una experiencia vietnamita maravillosamente auténtica, los visitantes pueden disfrutar de una estancia de una noche en una de estas casas con pilotes donde pueden interactuar con los lugareños y aprender sobre sus tradiciones y costumbres.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/140141/2.jpg"
+      },
+      {
+        "n": "05",
+        "t": "Dónde dormir",
+        "d": "Mai Chau Eco Lodge está idealmente ubicado en el corazón del valle de Mai Chau, con vistas a acres de exuberantes arrozales y espectaculares montañas esmeralda.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/140141/2.jpg"
+      }
+    ],
+    "cover": "https://destino.honimunn.com/ImageHandler/c1200x800/89974/mai_chau-shutterstock-1007680756.jpg"
+  },
+  "laos:ninh-binh": {
+    "name": "Ninh Binh",
+    "eyebrow": "5 - 6",
+    "sub": "Ubicado a 100 km al sur de Hanoi en el Delta del Río Rojo, Ninh Binh es la capital de la provincia de Vietnam Ninh Binh.",
+    "continent": null,
+    "country": "laos",
+    "items": [
+      {
+        "n": "01",
+        "t": "Vida urbana",
+        "d": "Ubicado a 100 km al sur de Hanoi en el Delta del Río Rojo, Ninh Binh es la capital de la provincia de Vietnam Ninh Binh.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/89991/ninh_binh_-efired-_shutterstock_465800216.jpg"
+      },
+      {
+        "n": "02",
+        "t": "Naturaleza salvaje",
+        "d": "Con sus sencillas conexiones de transporte con destinos tanto al norte como al sur, esta ciudad relajada es la base ideal para explorar el paisaje paisajístico de los alrededores.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/89991/ninh_binh_-john_bill-_shutterstock_281260313.jpg"
+      },
+      {
+        "n": "03",
+        "t": "Patrimonio e historia",
+        "d": "Lo más destacado de la zona es sin duda el Complejo de Paisajes Trang An, declarado Patrimonio de la Humanidad por la UNESCO con exuberantes campos de arrozales verdes, algunos paisajes calcáreos por excelencia vietnamitas y una serie de impresionantes cuevas.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/89991/ninh_binh_-huythoai-_istock-1293422246.jpg"
+      },
+      {
+        "n": "04",
+        "t": "Gastronomía y barrios",
+        "d": "Otros lugares de interés populares cercanos incluyen la pagoda más grande del país y las extraordinarias vistas desde la cima de Hang Mua Peak.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/99154/1732875941032_DJI_0069_800-1200px-768x1152.jpg"
+      },
+      {
+        "n": "05",
+        "t": "Dónde dormir",
+        "d": "El Emeralda Resort Ninh Binh está situado en las afueras de la reserva natural de Van Long, en la provincia de Ninh Binh, a 90 minutos en coche de Hanói.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/99154/1732875941032_DJI_0069_800-1200px-768x1152.jpg"
+      }
+    ],
+    "cover": "https://destino.honimunn.com/ImageHandler/c1200x800/89991/ninh_binh_-efired-_shutterstock_465800216.jpg"
+  }
+}

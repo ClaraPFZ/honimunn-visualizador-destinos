@@ -1,0 +1,202 @@
+{
+  "polinesia-francesa:tahiti": {
+    "name": "Tahiti",
+    "eyebrow": "13 - 14",
+    "sub": "Como se describió previamente…",
+    "continent": null,
+    "country": "polinesia-francesa",
+    "items": [
+      {
+        "n": "01",
+        "t": "Dónde dormir",
+        "d": "Le Tahiti by Pearl Resorts se encuentra en la playa de Lafayette, en la bahía de Matavai, y es una excelente opción de alojamiento para vacaciones en familia o para conferencias y eventos en un destino.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/83702/le-tahiti-by-pearl-resorts-ocean-view.jpeg"
+      },
+      {
+        "n": "02",
+        "t": "Qué ver y hacer",
+        "d": "Descubrid Tahiti con calma, en profundidad y con tiempo para disfrutarlo en pareja.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/47485/tahiti_1.jpg"
+      },
+      {
+        "n": "03",
+        "t": "Entorno y paisaje",
+        "d": "Descubrid Tahiti con calma, en profundidad y con tiempo para disfrutarlo en pareja.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/47485/tahiti_2.jpg"
+      },
+      {
+        "n": "04",
+        "t": "Gastronomía y barrios",
+        "d": "Descubrid Tahiti con calma, en profundidad y con tiempo para disfrutarlo en pareja.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/83702/le-tahiti-by-pearl-resorts-ocean-view.jpeg"
+      },
+      {
+        "n": "05",
+        "t": "Tu estancia Honimunn",
+        "d": "Itinerario privado diseñado a medida por vuestro Honimunn Planner, sin prisas ni grupos aglomerados.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/83702/le-tahiti-by-pearl-resorts-bay-bar.jpeg"
+      }
+    ],
+    "cover": "https://destino.honimunn.com/ImageHandler/c1200x800/47485/scenic_landscape.jpg"
+  },
+  "polinesia-francesa:moorea": {
+    "name": "Moorea",
+    "eyebrow": "4 - 7",
+    "sub": "Mo'Orea forma parte del archipiélago de las Islas de la Sociedad en la Polinesia Francesa, apodado 'la isla más hermosa del mundo de la que nunca has oído hablar.",
+    "continent": null,
+    "country": "polinesia-francesa",
+    "items": [
+      {
+        "n": "01",
+        "t": "Playas e islas",
+        "d": "Mo'Orea forma parte del archipiélago de las Islas de la Sociedad en la Polinesia Francesa, apodado 'la isla más hermosa del mundo de la que nunca has oído hablar.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/47486/Moorea_Island_1.jpg"
+      },
+      {
+        "n": "02",
+        "t": "Qué ver y hacer",
+        "d": "De hecho, es un paisaje impresionante: un interior de picos volcánicos irregulares se mezcla con playas de arena rodeadas de aguas tranquilas y cristalinas protegidas por un arrecife de coral.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/47486/each_on_Moorea_island.jpg"
+      },
+      {
+        "n": "03",
+        "t": "Entorno y paisaje",
+        "d": "En esta tranquila laguna se puede bucear con manta rayas, tiburones y peces de colores vivos, ir a remar o pescar, o disfrutar de un pintoresco crucero al atardecer.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/47486/Moorea_Island_-_Cooks_Bay.jpg"
+      },
+      {
+        "n": "04",
+        "t": "Gastronomía y barrios",
+        "d": "También puede hacer senderismo por los senderos de la selva tropical que conducen a las laderas de las montañas interiores de Mo'Orea, o diríjase al mirador Belvedere para disfrutar de impresionantes vistas sobre la isla y Tahití más allá.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/88969/1755162459892mbrm-aerial-c2ae-tmk-2.jpg"
+      },
+      {
+        "n": "05",
+        "t": "Dónde dormir",
+        "d": "El Manava Beach Resort & Spa Moorea está ubicado en la costa de una isla cerca del pueblo de Maharepa y de la bahía de Cook, en la Polinesia Francesa.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/88969/1755162459892mbrm-aerial-c2ae-tmk-2.jpg"
+      }
+    ],
+    "cover": "https://destino.honimunn.com/ImageHandler/c1200x800/47486/Moorea_Island_1.jpg"
+  },
+  "polinesia-francesa:bora-bora": {
+    "name": "Bora Bora",
+    "eyebrow": "7 - 10",
+    "sub": "Los destinos vacacionales no son mucho más idílicos que Bora Bora.",
+    "continent": null,
+    "country": "polinesia-francesa",
+    "items": [
+      {
+        "n": "01",
+        "t": "Lo esencial",
+        "d": "Los destinos vacacionales no son mucho más idílicos que Bora Bora.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/47484/Bora_Bora_Island.jpg"
+      },
+      {
+        "n": "02",
+        "t": "Playas e islas",
+        "d": "Conocida como la «Joya del Sur», ha sido votada sistemáticamente entre las mejores islas del mundo.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/47484/Bora_Bora_-_Over_water_bungalows.jpg"
+      },
+      {
+        "n": "03",
+        "t": "Naturaleza salvaje",
+        "d": "Su interior montañoso está rodeado por una selva verde y rodeada por una laguna turquesa vívida protegida por un arrecife de coral.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/47484/Bora_Bora_lagoon.jpg"
+      },
+      {
+        "n": "04",
+        "t": "Aventura y experiencias",
+        "d": "El escenario de Bora Bora se presta a una serie de actividades acuacéntricas, con snorkel y buceo en la parte superior de la lista debido a la rica vida marina apoyada por los alrededores barrera de arrecife.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/55347/1748946796769_aerial-view-le-bora-bora-by-pearl-resorts.jpeg"
+      },
+      {
+        "n": "05",
+        "t": "Dónde dormir",
+        "d": "Le Bora Bora by Pearl Resorts se encuentra en la isla de Motu Tevairoa, en la Polinesia Francesa.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/55347/1748946796769_aerial-view-le-bora-bora-by-pearl-resorts.jpeg"
+      }
+    ],
+    "cover": "https://destino.honimunn.com/ImageHandler/c1200x800/47484/Bora_Bora_Island.jpg"
+  },
+  "polinesia-francesa:huahine": {
+    "name": "Huahine",
+    "eyebrow": "7 - 10",
+    "sub": "A solo 35 minutos de vuelo de Papeete, Huahine emana un encanto pausado muy alejado de los bulliciosos centros turísticos de las islas más famosas de las Islas de la Sociedad.",
+    "continent": null,
+    "country": "polinesia-francesa",
+    "items": [
+      {
+        "n": "01",
+        "t": "Playas e islas",
+        "d": "A solo 35 minutos de vuelo de Papeete, Huahine emana un encanto pausado muy alejado de los bulliciosos centros turísticos de las islas más famosas de las Islas de la Sociedad.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/89041/1765962044330shutterstock2086949362-cropped.jpg"
+      },
+      {
+        "n": "02",
+        "t": "Qué ver y hacer",
+        "d": "Las verdes colinas, los marae sagrados y las fragantes plantaciones de vainilla proporcionan un exuberante telón de fondo a las tranquilas playas que desembocan en lagunas de color turquesa, donde peces de colores florecen bajo la superficie.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/89041/1765962044329shutterstock1421934974-cropped.jpg"
+      },
+      {
+        "n": "03",
+        "t": "Entorno y paisaje",
+        "d": "Los visitantes pueden hacer esnórquel o bucear entre los vibrantes arrecifes de coral, pedalear por tranquilas carreteras costeras, remar por canales bordeados de manglares o explorar las aldeas locales y el tranquilo municipio de Fare, que cuenta con encantadoras tiendas y cafeterías.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/89041/1765962515934istock-487856987-cropped.jpg"
+      },
+      {
+        "n": "04",
+        "t": "Naturaleza salvaje",
+        "d": "El suave movimiento de las olas, el cálido sol sobre la piel y el aroma del frangipani realzan cada momento, mientras que la intimidad del paisaje fomenta una sensación de escape sereno.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/88945/id540pic1011.jpg"
+      },
+      {
+        "n": "05",
+        "t": "Dónde dormir",
+        "d": "El pueblo de Maitai Lapita Huahine se encuentra entre un lago y la laguna, en un antiguo sitio arqueológico donde alguna vez vivieron los antepasados huahineanos.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/88945/id540pic1011.jpg"
+      }
+    ],
+    "cover": "https://destino.honimunn.com/ImageHandler/c1200x800/89041/1765962044330shutterstock2086949362-cropped.jpg"
+  },
+  "polinesia-francesa:tahaa": {
+    "name": "Tahaa",
+    "eyebrow": "10 - 13",
+    "sub": "Acertamente apodado 'La Isla de Vainilla', la pequeña y tranquila isla de Tahaa es famosa por su abundancia de orquídeas de vainilla tahitiana con aroma dulce y es posiblemente la más tranquila y virgen de las Islas de la Sociedad.",
+    "continent": null,
+    "country": "polinesia-francesa",
+    "items": [
+      {
+        "n": "01",
+        "t": "Playas e islas",
+        "d": "Acertamente apodado 'La Isla de Vainilla', la pequeña y tranquila isla de Tahaa es famosa por su abundancia de orquídeas de vainilla tahitiana con aroma dulce y es posiblemente la más tranquila y virgen de las Islas de la Sociedad.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/88608/tahaa_1.jpg"
+      },
+      {
+        "n": "02",
+        "t": "Qué ver y hacer",
+        "d": "Junto con Raiatea, la isla hermana más grande y más desarrollada de Tahaa, la isla está rodeada por un solo arrecife de coral continuo que encierra una magnífica laguna translúcida salpicada de algunos pequeños islotes espectaculares y aislados bendecidos con playas vírgenes y aisladas.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/88608/tahaa_5.jpg"
+      },
+      {
+        "n": "03",
+        "t": "Entorno y paisaje",
+        "d": "Las aguas que rodean Tahaa son el hogar de una serie de cavernas, naufragios y jardines coralinos poco profundos creando un paraíso para buceadores y buceadores ávidos.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/88608/tahaa_3.jpg"
+      },
+      {
+        "n": "04",
+        "t": "Gastronomía y barrios",
+        "d": "Los visitantes también pueden disfrutar de motos acuáticos, pesca, vela o senderismo por los fértiles valles de la isla y laderas inclinadas cubiertas de plátano, sandía y coco.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/65512/le-taha-a-island-resort-spa-aerial-view.jpeg"
+      },
+      {
+        "n": "05",
+        "t": "Dónde dormir",
+        "d": "Le Taha'a by Pearl Resorts se encuentra en el aislado islote de Motu Tautau, frente a la exuberante isla de Taha'a por un lado y la majestuosa silueta de Bora Bora por el otro.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/65512/le-taha-a-island-resort-spa-aerial-view.jpeg"
+      }
+    ],
+    "cover": "https://destino.honimunn.com/ImageHandler/c1200x800/88608/tahaa_1.jpg"
+  }
+}

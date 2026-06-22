@@ -1,0 +1,42 @@
+{
+  "maldivas:maldives": {
+    "name": "Maldives",
+    "eyebrow": "9 - 13",
+    "sub": "Abarcando más de 1000 islas coralinas que forman unos 25 atolones naturales, Maldivas está separada del resto del mundo por el aparentemente interminable Océano Índico, ofreciendo a los visitantes un pequeño bolsillo aislado del paraíso.",
+    "continent": null,
+    "country": "maldivas",
+    "items": [
+      {
+        "n": "01",
+        "t": "Playas e islas",
+        "d": "Abarcando más de 1000 islas coralinas que forman unos 25 atolones naturales, Maldivas está separada del resto del mundo por el aparentemente interminable Océano Índico, ofreciendo a los visitantes un pequeño bolsillo aislado del paraíso.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/21291/maldives-shutterstock-379998466.jpg"
+      },
+      {
+        "n": "02",
+        "t": "Qué ver y hacer",
+        "d": "Estas exquisitas islas tropicales son más conocidas por sus playas de arena blanca en polvo, sus brillantes lagunas azules y sus extensos arrecifes que albergan una amplia gama de coloridas especies marinas.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/21291/maldives-shutterstock-1909038742.jpg"
+      },
+      {
+        "n": "03",
+        "t": "Gastronomía local",
+        "d": "La animada capital del país, Malé, cuenta con una gran variedad de tiendas y restaurantes encantadores, así como un ajetreado mercado de pescado y una mezquita del siglo XVII conocida como Hukuru Miskiy, construida con intrincadamente corales blancos tallados.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/21291/maldives-shutterstock-1901686090.jpg"
+      },
+      {
+        "n": "04",
+        "t": "Gastronomía y barrios",
+        "d": "Los visitantes encontrarán muchas actividades para mantenerlos entretenidos, entre ellas: buceo, snorkel, esquí acuático, surf de paddleboard, visitas al spa y saltar de una pequeña isla idílica a otra.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/274730/oblu-xperience-ailafushi-beach-villa-outside.jpg"
+      },
+      {
+        "n": "05",
+        "t": "Dónde dormir",
+        "d": "OBLU XPERIENCE Ailafushi redefine la estancia isleña por excelencia de las Maldivas.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/274730/oblu-xperience-ailafushi-beach-villa-outside.jpg"
+      }
+    ],
+    "cover": "https://destino.honimunn.com/ImageHandler/c1200x800/21291/maldives-shutterstock-379998466.jpg"
+  }
+}

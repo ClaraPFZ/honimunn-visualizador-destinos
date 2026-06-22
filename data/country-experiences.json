@@ -1,0 +1,34 @@
+{
+  "japan": [
+    {
+      "type": "Gastronómica",
+      "title": "Cena kaiseki en ryokan tradicional",
+      "desc": "Menú de temporada en un ryokan con historia, servido en habitación privada con vistas al jardín."
+    },
+    {
+      "type": "Cultural",
+      "title": "Ceremonia del té con maestra",
+      "desc": "Experiencia íntima en un tea house de Kioto, con explicación de ritual y matcha de alta calidad."
+    },
+    {
+      "type": "Cultural",
+      "title": "Visita privada a templo al amanecer",
+      "desc": "Acceso antes de la apertura al público en uno de los templos más emblemáticos del destino."
+    },
+    {
+      "type": "Naturaleza",
+      "title": "Baño de bosque en Hakone",
+      "desc": "Paseo guiado por senderos de cedro y aguas termales al aire libre, adaptado a vuestro ritmo."
+    },
+    {
+      "type": "Gastronómica",
+      "title": "Tour por el mercado de Tsukiji",
+      "desc": "Desayuno de sushi recién hecho y productos locales con guía especializado en gastronomía japonesa."
+    },
+    {
+      "type": "Romántica",
+      "title": "Paseo nocturno por Gion",
+      "desc": "Recorrido al atardecer por el barrio de geishas con paradas en callejones secretos y sake bar."
+    }
+  ]
+}

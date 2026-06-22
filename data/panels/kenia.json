@@ -1,0 +1,202 @@
+{
+  "kenia:kenya": {
+    "name": "Kenya",
+    "eyebrow": "Destino Honimunn",
+    "sub": "Descansando en el magnífico Gran Valle del Rift y presidido por el majestuoso Monte Kilimanjaro, Kenia se caracteriza por hermosos paisajes naturales de colinas boscosas, granjas de patchwork, sabana arbolada y vastos bosques rebosantes de una extraordinaria abundancia de vida silvestre.",
+    "continent": null,
+    "country": "kenia",
+    "items": [
+      {
+        "n": "01",
+        "t": "Naturaleza salvaje",
+        "d": "Descansando en el magnífico Gran Valle del Rift y presidido por el majestuoso Monte Kilimanjaro, Kenia se caracteriza por hermosos paisajes naturales de colinas boscosas, granjas de patchwork, sabana arbolada y vastos bosques rebosantes de una extraordinaria abundancia de vida silvestre.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/89378/masai_mara_national_reserve-shutterstock-736795084.jpg"
+      },
+      {
+        "n": "02",
+        "t": "Playas e islas",
+        "d": "La diversidad de culturas africanas tradicionales de la nación está influenciada por más de 70 grupos étnicos únicos, desde las tribus maasai, samburu, kikuyu y turkana hasta los árabes e indios que se asentaron en la costa.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/89378/masai_mara_national_reserve-shutterstock-736795084.jpg"
+      },
+      {
+        "n": "03",
+        "t": "Entorno y paisaje",
+        "d": "Añadir a esto: una exquisita costa tropical rodeada de impresionantes playas de arena dorada; magníficos jardines de coral que ofrecen excelentes oportunidades de buceo y snorkel; y un montón de animados resorts de playa, y es fácil ver por qué tantos visitantes acuden aquí de todo el mundo para experimentar una verdadera Aventura africana en uno de los destinos de safari más prístinos del mundo.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/89378/masai_mara_national_reserve-shutterstock-736795084.jpg"
+      },
+      {
+        "n": "04",
+        "t": "Dónde dormir",
+        "d": "Hoteles boutique y propiedades con encanto, elegidos por nuestros planners.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/89378/masai_mara_national_reserve-shutterstock-736795084.jpg"
+      },
+      {
+        "n": "05",
+        "t": "Tu estancia Honimunn",
+        "d": "Itinerario privado diseñado a medida por vuestro Honimunn Planner, sin prisas ni grupos aglomerados.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/89378/masai_mara_national_reserve-shutterstock-736795084.jpg"
+      }
+    ],
+    "cover": "https://destino.honimunn.com/ImageHandler/c1200x800/89378/masai_mara_national_reserve-shutterstock-736795084.jpg"
+  },
+  "kenia:nairobi": {
+    "name": "Nairobi",
+    "eyebrow": "8 - 9",
+    "sub": "Como se describió previamente…",
+    "continent": null,
+    "country": "kenia",
+    "items": [
+      {
+        "n": "01",
+        "t": "Dónde dormir",
+        "d": "El Sarova Stanley está clasificado entre los mejores hoteles de cinco estrellas de Nairobi.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/13733/sarova_stanley_-_presidential_suite_8.jpg"
+      },
+      {
+        "n": "02",
+        "t": "Qué ver y hacer",
+        "d": "Descubrid Nairobi con calma, en profundidad y con tiempo para disfrutarlo en pareja.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/13738/istock-1051510576.jpg"
+      },
+      {
+        "n": "03",
+        "t": "Entorno y paisaje",
+        "d": "Descubrid Nairobi con calma, en profundidad y con tiempo para disfrutarlo en pareja.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/13738/istock-1253850221.jpg"
+      },
+      {
+        "n": "04",
+        "t": "Gastronomía y barrios",
+        "d": "Descubrid Nairobi con calma, en profundidad y con tiempo para disfrutarlo en pareja.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/13733/sarova_stanley_-_presidential_suite_8.jpg"
+      },
+      {
+        "n": "05",
+        "t": "Tu estancia Honimunn",
+        "d": "Itinerario privado diseñado a medida por vuestro Honimunn Planner, sin prisas ni grupos aglomerados.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/13733/sarova_stanley_-_room_1.jpg"
+      }
+    ],
+    "cover": "https://destino.honimunn.com/ImageHandler/c1200x800/13738/istock-1253848512.jpg"
+  },
+  "kenia:shaba-game-reserve": {
+    "name": "Shaba Game Reserve",
+    "eyebrow": "3 - 5",
+    "sub": "Al lado del hermoso Parque Nacional Samburu en Kenia, la Reserva Nacional de Shaba presenta el volcán extinto del monte Shaba que se eleva desde las llanuras.",
+    "continent": null,
+    "country": "kenia",
+    "items": [
+      {
+        "n": "01",
+        "t": "Naturaleza salvaje",
+        "d": "Al lado del hermoso Parque Nacional Samburu en Kenia, la Reserva Nacional de Shaba presenta el volcán extinto del monte Shaba que se eleva desde las llanuras.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/14147/shaba_game_reserve-shutterstock-1017607.jpg"
+      },
+      {
+        "n": "02",
+        "t": "Qué ver y hacer",
+        "d": "La reserva también sirvió como uno de los hogares de la famosa leona de la novela «Born Free».",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/14147/shaba_game_reserve-istock-144877172.jpg"
+      },
+      {
+        "n": "03",
+        "t": "Entorno y paisaje",
+        "d": "Esta zona árida se alimenta de las aguas del río Ewaso Ngiro, que sustentan una variedad de especies de vida silvestre, como el gerenuk, el avestruz somalí, la jirafa reticulada y las cebras de Grevy.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/14147/shaba_game_reserve-shutterstock-1012523.jpg"
+      },
+      {
+        "n": "04",
+        "t": "Gastronomía y barrios",
+        "d": "El paisaje presenta una combinación única de bosques ribereños y afloramientos rocosos volcánicos.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/20315/sarova__shaba_game_lodge_-_sundowner_1.jpg"
+      },
+      {
+        "n": "05",
+        "t": "Dónde dormir",
+        "d": "El Sarova Shaba Game Lodge se encuentra en un oasis natural en la Reserva Nacional de Shaba y ofrece total serenidad en medio de un entorno salvaje y hermoso.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/20315/sarova__shaba_game_lodge_-_sundowner_1.jpg"
+      }
+    ],
+    "cover": "https://destino.honimunn.com/ImageHandler/c1200x800/14147/shaba_game_reserve-shutterstock-1017607.jpg"
+  },
+  "kenia:naivasha": {
+    "name": "Naivasha",
+    "eyebrow": "5 - 6",
+    "sub": "Ubicada en la hermosa cuenca del valle del Rift de Kenia, Naivasha es una ciudad comercial compacta al noroeste de Nairobi, más conocida como un punto de parada para visitar el fascinante lago Naivasha.",
+    "continent": null,
+    "country": "kenia",
+    "items": [
+      {
+        "n": "01",
+        "t": "Vida urbana",
+        "d": "Ubicada en la hermosa cuenca del valle del Rift de Kenia, Naivasha es una ciudad comercial compacta al noroeste de Nairobi, más conocida como un punto de parada para visitar el fascinante lago Naivasha.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/14127/istock-1290702149.jpg"
+      },
+      {
+        "n": "02",
+        "t": "Naturaleza salvaje",
+        "d": "Los aspirantes a fotógrafos de vida silvestre y amantes de la naturaleza se maravillarán con el lago Naivasha y su abundancia de maravillosa vida silvestre.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/14127/istock-1385372196.jpg"
+      },
+      {
+        "n": "03",
+        "t": "Entorno y paisaje",
+        "d": "Aquí los visitantes pueden observar hipopótamos revolcándose, nubes de vibrantes aves, cebras y otros animales de caza.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/14127/istock-1140777855.jpg"
+      },
+      {
+        "n": "04",
+        "t": "Gastronomía y barrios",
+        "d": "El cercano lago Oloiden y el santuario de vida silvestre de Oserian son lugares ideales para los amantes de las maravillas de la naturaleza.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/71396/11.jpg"
+      },
+      {
+        "n": "05",
+        "t": "Dónde dormir",
+        "d": "El Enashipai Resort and Spa ofrece alojamiento en el esplendor del Gran Valle del Rift y cerca de las orillas del lago Naivasha en Naivasha, Kenia.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/71396/11.jpg"
+      }
+    ],
+    "cover": "https://destino.honimunn.com/ImageHandler/c1200x800/14127/istock-1290702149.jpg"
+  },
+  "kenia:masai-mara-national-reserve": {
+    "name": "Masai Mara National Reserve",
+    "eyebrow": "6 - 8",
+    "sub": "La Reserva Nacional de Masai Mara, una de las maravillas naturales más emblemáticas de Kenia, se extiende a lo largo de más de 1500 kilómetros cuadrados en el suroeste del país.",
+    "continent": null,
+    "country": "kenia",
+    "items": [
+      {
+        "n": "01",
+        "t": "Lo esencial",
+        "d": "La Reserva Nacional de Masai Mara, una de las maravillas naturales más emblemáticas de Kenia, se extiende a lo largo de más de 1500 kilómetros cuadrados en el suroeste del país.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/89378/masai_mara_national_reserve-shutterstock-176735597.jpg"
+      },
+      {
+        "n": "02",
+        "t": "Qué ver y hacer",
+        "d": "El parque alberga una notable variedad de vida silvestre, como elefantes, leones, leopardos y búfalos que deambulan por sus sabanas, mientras que cocodrilos e hipopótamos habitan en el río Mara.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/89378/masai_mara_national_reserve-istock-534918157.jpg"
+      },
+      {
+        "n": "03",
+        "t": "Entorno y paisaje",
+        "d": "Los observadores de aves se deleitarán con la presencia de más de 450 especies residentes.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/89378/masai_mara_national_reserve-shutterstock-503477863.jpg"
+      },
+      {
+        "n": "04",
+        "t": "Gastronomía y barrios",
+        "d": "Sin embargo, el verdadero espectáculo es la Gran Migración, nombrada una de las Siete Nuevas Maravillas del Mundo.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/13710/sarova_mara_game_camp_-_swimming_pool_1.jpg"
+      },
+      {
+        "n": "05",
+        "t": "Dónde dormir",
+        "d": "El campamento de caza Sarova Mara tiene una ubicación ideal en el corazón de la reserva de caza de Masai Mara, en Kenia, y ofrece una experiencia única de safari africano para observar animales.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/13710/sarova_mara_game_camp_-_swimming_pool_1.jpg"
+      }
+    ],
+    "cover": "https://destino.honimunn.com/ImageHandler/c1200x800/89378/masai_mara_national_reserve-shutterstock-176735597.jpg"
+  }
+}

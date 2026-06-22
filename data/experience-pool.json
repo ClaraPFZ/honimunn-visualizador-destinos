@@ -1,0 +1,52 @@
+[
+  {
+    "type": "Gastronómica",
+    "title": "Mercado local con guía privado",
+    "desc": "Recorrido por productores y degustación de especialidades de la región, fuera de las rutas turísticas."
+  },
+  {
+    "type": "Gastronómica",
+    "title": "Cena íntima con chef local",
+    "desc": "Menú de autor en un espacio reservado para dos, con maridaje de vinos o sake de la zona."
+  },
+  {
+    "type": "Cultural",
+    "title": "Visita privada a patrimonio UNESCO",
+    "desc": "Acceso sin prisas a templos, museos o barrios históricos con un guía experto Honimunn."
+  },
+  {
+    "type": "Cultural",
+    "title": "Encuentro con artesanos locales",
+    "desc": "Taller breve y conversación con maestros de cerámica, tejido o gastronomía tradicional."
+  },
+  {
+    "type": "Naturaleza",
+    "title": "Amanecer en un entorno salvaje",
+    "desc": "Salida temprano a un mirador, playa o bosque con picnic preparado para la ocasión."
+  },
+  {
+    "type": "Naturaleza",
+    "title": "Paseo sensorial en la naturaleza",
+    "desc": "Senderismo suave, baños termales o baño de bosque adaptado al ritmo de la pareja."
+  },
+  {
+    "type": "Bienestar",
+    "title": "Ritual spa para dos",
+    "desc": "Circuito de aguas, masaje en pareja o tratamiento inspirado en tradiciones locales."
+  },
+  {
+    "type": "Aventura",
+    "title": "Experiencia exclusiva al aire libre",
+    "desc": "Kayak, snorkel, safari o vuelo en globo según destino — siempre en formato privado."
+  },
+  {
+    "type": "Romántica",
+    "title": "Atardecer diseñado a medida",
+    "desc": "Cena o cóctel en un lugar secreto con las mejores vistas del destino."
+  },
+  {
+    "type": "Cultural",
+    "title": "Espectáculo y tradición viva",
+    "desc": "Teatro, danza, música o ceremonia local con localidades reservadas y contexto previo."
+  }
+]

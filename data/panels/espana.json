@@ -1,0 +1,197 @@
+{
+  "espana:madrid": {
+    "name": "Madrid",
+    "eyebrow": "Destino Honimunn",
+    "sub": "Madrid es una parada clave en nuestros viajes por la región.",
+    "country": "espana",
+    "items": [
+      {
+        "n": "01",
+        "t": "Lo esencial",
+        "d": "Madrid concentra lo mejor del destino: cultura, paisaje y momentos para recordar.",
+        "img": ""
+      },
+      {
+        "n": "02",
+        "t": "Qué ver y hacer",
+        "d": "Explorad sus barrios, miradores y experiencias locales con tiempo para disfrutarlos sin prisas.",
+        "img": ""
+      },
+      {
+        "n": "03",
+        "t": "Entorno y paisaje",
+        "d": "Naturaleza, costa o montaña a poca distancia — el complemento perfecto para vuestra luna de miel.",
+        "img": ""
+      },
+      {
+        "n": "04",
+        "t": "Gastronomía y barrios",
+        "d": "Mercados, restaurantes y calles con vida propia donde saborear el destino.",
+        "img": ""
+      },
+      {
+        "n": "05",
+        "t": "Tu estancia Honimunn",
+        "d": "Itinerario privado a medida con alojamientos seleccionados por vuestro Honimunn Planner.",
+        "img": ""
+      }
+    ],
+    "cover": ""
+  },
+  "espana:barcelona": {
+    "name": "Barcelona",
+    "eyebrow": "Destino Honimunn",
+    "sub": "Barcelona es una parada clave en nuestros viajes por la región.",
+    "country": "espana",
+    "items": [
+      {
+        "n": "01",
+        "t": "Lo esencial",
+        "d": "Barcelona concentra lo mejor del destino: cultura, paisaje y momentos para recordar.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Sagrada_Familia_01.jpg/1200px-Sagrada_Familia_01.jpg"
+      },
+      {
+        "n": "02",
+        "t": "Qué ver y hacer",
+        "d": "Explorad sus barrios, miradores y experiencias locales con tiempo para disfrutarlos sin prisas.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Sagrada_Familia_01.jpg/1200px-Sagrada_Familia_01.jpg"
+      },
+      {
+        "n": "03",
+        "t": "Entorno y paisaje",
+        "d": "Naturaleza, costa o montaña a poca distancia — el complemento perfecto para vuestra luna de miel.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Sagrada_Familia_01.jpg/1200px-Sagrada_Familia_01.jpg"
+      },
+      {
+        "n": "04",
+        "t": "Gastronomía y barrios",
+        "d": "Mercados, restaurantes y calles con vida propia donde saborear el destino.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Sagrada_Familia_01.jpg/1200px-Sagrada_Familia_01.jpg"
+      },
+      {
+        "n": "05",
+        "t": "Tu estancia Honimunn",
+        "d": "Itinerario privado a medida con alojamientos seleccionados por vuestro Honimunn Planner.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Sagrada_Familia_01.jpg/1200px-Sagrada_Familia_01.jpg"
+      }
+    ],
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Sagrada_Familia_01.jpg/1200px-Sagrada_Familia_01.jpg"
+  },
+  "espana:sevilla": {
+    "name": "Sevilla",
+    "eyebrow": "Destino Honimunn",
+    "sub": "Sevilla es una parada clave en nuestros viajes por la región.",
+    "country": "espana",
+    "items": [
+      {
+        "n": "01",
+        "t": "Lo esencial",
+        "d": "Sevilla concentra lo mejor del destino: cultura, paisaje y momentos para recordar.",
+        "img": ""
+      },
+      {
+        "n": "02",
+        "t": "Qué ver y hacer",
+        "d": "Explorad sus barrios, miradores y experiencias locales con tiempo para disfrutarlos sin prisas.",
+        "img": ""
+      },
+      {
+        "n": "03",
+        "t": "Entorno y paisaje",
+        "d": "Naturaleza, costa o montaña a poca distancia — el complemento perfecto para vuestra luna de miel.",
+        "img": ""
+      },
+      {
+        "n": "04",
+        "t": "Gastronomía y barrios",
+        "d": "Mercados, restaurantes y calles con vida propia donde saborear el destino.",
+        "img": ""
+      },
+      {
+        "n": "05",
+        "t": "Tu estancia Honimunn",
+        "d": "Itinerario privado a medida con alojamientos seleccionados por vuestro Honimunn Planner.",
+        "img": ""
+      }
+    ],
+    "cover": ""
+  },
+  "espana:granada": {
+    "name": "Granada",
+    "eyebrow": "Destino Honimunn",
+    "sub": "Granada es una parada clave en nuestros viajes por la región.",
+    "country": "espana",
+    "items": [
+      {
+        "n": "01",
+        "t": "Lo esencial",
+        "d": "Granada concentra lo mejor del destino: cultura, paisaje y momentos para recordar.",
+        "img": ""
+      },
+      {
+        "n": "02",
+        "t": "Qué ver y hacer",
+        "d": "Explorad sus barrios, miradores y experiencias locales con tiempo para disfrutarlos sin prisas.",
+        "img": ""
+      },
+      {
+        "n": "03",
+        "t": "Entorno y paisaje",
+        "d": "Naturaleza, costa o montaña a poca distancia — el complemento perfecto para vuestra luna de miel.",
+        "img": ""
+      },
+      {
+        "n": "04",
+        "t": "Gastronomía y barrios",
+        "d": "Mercados, restaurantes y calles con vida propia donde saborear el destino.",
+        "img": ""
+      },
+      {
+        "n": "05",
+        "t": "Tu estancia Honimunn",
+        "d": "Itinerario privado a medida con alojamientos seleccionados por vuestro Honimunn Planner.",
+        "img": ""
+      }
+    ],
+    "cover": ""
+  },
+  "espana:san-sebastian": {
+    "name": "San Sebastián",
+    "eyebrow": "Destino Honimunn",
+    "sub": "San Sebastián es una parada clave en nuestros viajes por la región.",
+    "country": "espana",
+    "items": [
+      {
+        "n": "01",
+        "t": "Lo esencial",
+        "d": "San Sebastián concentra lo mejor del destino: cultura, paisaje y momentos para recordar.",
+        "img": ""
+      },
+      {
+        "n": "02",
+        "t": "Qué ver y hacer",
+        "d": "Explorad sus barrios, miradores y experiencias locales con tiempo para disfrutarlos sin prisas.",
+        "img": ""
+      },
+      {
+        "n": "03",
+        "t": "Entorno y paisaje",
+        "d": "Naturaleza, costa o montaña a poca distancia — el complemento perfecto para vuestra luna de miel.",
+        "img": ""
+      },
+      {
+        "n": "04",
+        "t": "Gastronomía y barrios",
+        "d": "Mercados, restaurantes y calles con vida propia donde saborear el destino.",
+        "img": ""
+      },
+      {
+        "n": "05",
+        "t": "Tu estancia Honimunn",
+        "d": "Itinerario privado a medida con alojamientos seleccionados por vuestro Honimunn Planner.",
+        "img": ""
+      }
+    ],
+    "cover": ""
+  }
+}

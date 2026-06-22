@@ -1,0 +1,322 @@
+{
+  "indonesia:canggu": {
+    "name": "Canggu",
+    "eyebrow": "2 - 4",
+    "sub": "Conocido como el punto de acceso a la playa de Bali, Canggu se encuentra en la impresionante costa sur y abarca el tramo de costa de 8 kilómetros entre Kerobokan y Echo Beach.",
+    "continent": null,
+    "country": "indonesia",
+    "items": [
+      {
+        "n": "01",
+        "t": "Playas e islas",
+        "d": "Conocido como el punto de acceso a la playa de Bali, Canggu se encuentra en la impresionante costa sur y abarca el tramo de costa de 8 kilómetros entre Kerobokan y Echo Beach.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/127828/shutterstock_1938925468.jpg"
+      },
+      {
+        "n": "02",
+        "t": "Gastronomía local",
+        "d": "Popular entre los expatriados, la ciudad cuenta con una variedad de nuevas villas, restaurantes contemporáneos y cafés en la calle que sirven los últimos alimentos de bienestar.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/127828/shutterstock_1499246339.jpg"
+      },
+      {
+        "n": "03",
+        "t": "Entorno y paisaje",
+        "d": "El paisaje circundante cuenta con magníficos arrozales en terrazas y playas de arena negra de fama mundial.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/127828/shutterstock_2137461953.jpg"
+      },
+      {
+        "n": "04",
+        "t": "Gastronomía y barrios",
+        "d": "Los visitantes pueden disfrutar de pescado fresco, langostas y gambas en la playa de Nelayan y experimentar la auténtica vida de pueblo balinés en Canggu.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/106365/11.jpg"
+      },
+      {
+        "n": "05",
+        "t": "Dónde dormir",
+        "d": "La Villa Canggu by Plataran está enclavada entre exuberantes jardines tropicales en Canggu, Bali, junto a un río sereno y rodeada de verdes arrozales.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/106365/11.jpg"
+      }
+    ],
+    "cover": "https://destino.honimunn.com/ImageHandler/c1200x800/127828/shutterstock_1938925468.jpg"
+  },
+  "indonesia:west-bali-national-park": {
+    "name": "West Bali National Park",
+    "eyebrow": "7 - 9",
+    "sub": "Ubicado en el extremo noroeste de Bali, el Parque Nacional de Bali Occidental es un área de conservación que cubre más de 19000 hectáreas (incluida la península de Prapat Agung y las aguas costeras circundantes).",
+    "continent": null,
+    "country": "indonesia",
+    "items": [
+      {
+        "n": "01",
+        "t": "Naturaleza salvaje",
+        "d": "Ubicado en el extremo noroeste de Bali, el Parque Nacional de Bali Occidental es un área de conservación que cubre más de 19000 hectáreas (incluida la península de Prapat Agung y las aguas costeras circundantes).",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/126454/west_bali_national_park-shutterstock-2009114867.jpg"
+      },
+      {
+        "n": "02",
+        "t": "Qué ver y hacer",
+        "d": "Los paisajes se caracterizan por una exuberante selva tropical, sabanas abiertas, montañas escarpadas, manglares fotogénicos, prados etéreos de algas marinas y arrecifes de coral de colores brillantes.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/126454/west_bali_national_park-shutterstock-554482228.jpg"
+      },
+      {
+        "n": "03",
+        "t": "Playas e islas",
+        "d": "Los visitantes también deben asegurarse de visitar una pequeña reserva de la isla Menjangan, hogar del ciervo ladrador nativo y salpicado de antiguos templos hindúes.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/126454/west_bali_national_park-shutterstock-1107244490.jpg"
+      },
+      {
+        "n": "04",
+        "t": "Gastronomía y barrios",
+        "d": "El parque también está habitado por una de las aves más raras del mundo, el estornino de Bali, que es endémico de la zona.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/126454/west_bali_national_park-shutterstock-2009114867.jpg"
+      },
+      {
+        "n": "05",
+        "t": "Dónde dormir",
+        "d": "El Mimpi Resort Menjangan se encuentra cerca de la naturaleza para disfrutar de una escapada tranquila, a 5 minutos a pie del parque nacional West Bali.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/94960/1737040666015_Lobby.jpg"
+      }
+    ],
+    "cover": "https://destino.honimunn.com/ImageHandler/c1200x800/126454/west_bali_national_park-shutterstock-2009114867.jpg"
+  },
+  "indonesia:ubud": {
+    "name": "Ubud",
+    "eyebrow": "9 - 12",
+    "sub": "Lejos de la bulliciosa escena de fiestas en la playa de Kuta, en la región central de esta notable isla, se encuentra Ubud, el centro cultural de Bali.",
+    "continent": null,
+    "country": "indonesia",
+    "items": [
+      {
+        "n": "01",
+        "t": "Playas e islas",
+        "d": "Lejos de la bulliciosa escena de fiestas en la playa de Kuta, en la región central de esta notable isla, se encuentra Ubud, el centro cultural de Bali.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/24318/ubud-istock-495624346.jpg"
+      },
+      {
+        "n": "02",
+        "t": "Patrimonio e historia",
+        "d": "Rodeado de exuberantes arrozales en terrazas y exquisitos templos, Ubud está repleto de atracciones turísticas.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/24318/ubud-shutterstock-257624767.jpg"
+      },
+      {
+        "n": "03",
+        "t": "Vida urbana",
+        "d": "El ajetreado centro de su ciudad está repleto de varias galerías de arte, cafeterías, tiendas de artesanía y spas.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/24318/ubud-istock-465974006.jpg"
+      },
+      {
+        "n": "04",
+        "t": "Gastronomía y barrios",
+        "d": "Uno de los sitios más visitados de la ciudad es el Santuario de Monos del Bosque Sagrado, que alberga cientos de monos salvajes y tres templos hindi.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/126454/west_bali_national_park-shutterstock-554482228.jpg"
+      },
+      {
+        "n": "05",
+        "t": "Dónde dormir",
+        "d": "Un maravilloso escondite del ajetreo y el bullicio de Bali, Wapa di Ume es un complejo boutique situado a sólo 5 minutos del centro de Ubud que cuenta con campos de arroz como su pieza central, lo que le coloca verdaderamente en uno con la naturaleza.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/103462/1737533126538_ubud-swimming-pool-1.jpg"
+      }
+    ],
+    "cover": "https://destino.honimunn.com/ImageHandler/c1200x800/24318/ubud-istock-495624346.jpg"
+  },
+  "indonesia:gili-trawangan": {
+    "name": "Gili Trawangan",
+    "eyebrow": "12 - 16",
+    "sub": "Situado justo frente a la costa de la hermosa Lombok, Gili Trawangan, también conocida como Gili T, es la más grande y popular de las tres islas Gili.",
+    "continent": null,
+    "country": "indonesia",
+    "items": [
+      {
+        "n": "01",
+        "t": "Playas e islas",
+        "d": "Situado justo frente a la costa de la hermosa Lombok, Gili Trawangan, también conocida como Gili T, es la más grande y popular de las tres islas Gili.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/42563/gili_trawangan-istock-1211587423.jpg"
+      },
+      {
+        "n": "02",
+        "t": "Qué ver y hacer",
+        "d": "Este paraíso tropical se encuentra entre los principales destinos de Indonesia, con sus bohemios chiringuitos en la playa, restaurantes de primera categoría y casas de huéspedes de moda.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/42563/gili_trawangan-shutterstock-356191190.jpg"
+      },
+      {
+        "n": "03",
+        "t": "Entorno y paisaje",
+        "d": "La escapada a la isla cuenta con playas prístinas de arena blanca bañadas por aguas cristalinas de color turquesa y espectaculares puestas de sol sobre aguas tranquilas salpicadas de coloridos barcos de pesca de madera.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/42563/gili_trawangan-istock-1347842881.jpg"
+      },
+      {
+        "n": "04",
+        "t": "Aventura y experiencias",
+        "d": "Los visitantes pueden disfrutar de una serie de actividades emocionantes, incluidos cursos de buceo en una de las muchas escuelas de buceo, clases de yoga y alquilar un kayak o una canoa transparente para descubrir un paraíso submarino desde la superficie.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/126454/west_bali_national_park-shutterstock-554482228.jpg"
+      },
+      {
+        "n": "05",
+        "t": "Dónde dormir",
+        "d": "Combinando lo mejor de los activos, ideas y talentos orientales y occidentales, las estructuras inconfundiblemente indonesias de la Perla de Trawangan con la comodidad occidental le garantizan un magnífico momento en una idílica isla soleada, libre de coches y motocicletas.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/99949/1737301570698_DJI_0444.jpg"
+      }
+    ],
+    "cover": "https://destino.honimunn.com/ImageHandler/c1200x800/42563/gili_trawangan-istock-1211587423.jpg"
+  },
+  "indonesia:sanur": {
+    "name": "Sanur",
+    "eyebrow": "16 - 17",
+    "sub": "Si usted encuentra Kuta demasiado salvaje y Nusa Dua demasiado plácida, Sanur podría ser la franja del complejo Balibeachfront que usted está buscando.",
+    "continent": null,
+    "country": "indonesia",
+    "items": [
+      {
+        "n": "01",
+        "t": "Lo esencial",
+        "d": "Si usted encuentra Kuta demasiado salvaje y Nusa Dua demasiado plácida, Sanur podría ser la franja del complejo Balibeachfront que usted está buscando.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/44056/sanur-istock-867102622.jpg"
+      },
+      {
+        "n": "02",
+        "t": "Playas e islas",
+        "d": "Combina excelentes lugares para comer y bares con playas aptas para familias, Sanur tiene un ambiente equilibrado, enérgico, pero frío.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/44056/sanur-istock-162420186.jpg"
+      },
+      {
+        "n": "03",
+        "t": "Cultura viva",
+        "d": "Cada julio Sanur acoge el Festival Internacional de Kite, y los brillantes cielos azules están llenos de cometas coloridas de todas las formas y tamaños.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/44056/sanur-shutterstock-1367341526.jpg"
+      },
+      {
+        "n": "04",
+        "t": "Patrimonio e historia",
+        "d": "El Museo Le Mayeur, antiguo hogar del artista homónimo, es una visita digna de pena, así como una caminata por el actual bosque de manglares o una sesión en la Conservación de la Tortuga Centro.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/126454/west_bali_national_park-shutterstock-554482228.jpg"
+      },
+      {
+        "n": "05",
+        "t": "Dónde dormir",
+        "d": "Situado en el corazón de Sanur, Bali, el ARTOTEL Sanur Bali está a pocos pasos de la playa.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/101882/1761219507328hotelmap.jpg"
+      }
+    ],
+    "cover": "https://destino.honimunn.com/ImageHandler/c1200x800/44056/sanur-istock-867102622.jpg"
+  },
+  "indonesia:nusa-dua": {
+    "name": "Nusa Dua",
+    "eyebrow": "7 - 11",
+    "sub": "Con una gran cantidad de excelentes restaurantes, campos de golf, spas, galerías y boutiques, este enclave cerca de Denpasar, Bali, es todo acerca de la comodidad.",
+    "continent": null,
+    "country": "indonesia",
+    "items": [
+      {
+        "n": "01",
+        "t": "Gastronomía local",
+        "d": "Con una gran cantidad de excelentes restaurantes, campos de golf, spas, galerías y boutiques, este enclave cerca de Denpasar, Bali, es todo acerca de la comodidad.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/46499/nusa_dua-shutterstock-121065490.jpg"
+      },
+      {
+        "n": "02",
+        "t": "Playas e islas",
+        "d": "Una vez que te hayas relajado en las arenas blancas de la playa de Pantai Geger, aprende un poco sobre el arte de Bali en el Museo del Pasifika o descubre el increíble mundo submarino en un viaje en barco con fondo de vidrio a la isla de Serangan.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/46499/nusa_dua-shutterstock-1027223737.jpg"
+      },
+      {
+        "n": "03",
+        "t": "Dónde dormir",
+        "d": "Merusaka Nusa Dua se encuentra en Bali, Indonesia, cerca del Museo Pasifika Bali, el Club Nacional de Golf de Bali, el Centro de Convenciones Bali Nusa Dua, Pantai Samuh y el Centro de Conservación de Tortugas Deluang Sari.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/99821/screenshot_2024-09-16_162618.png"
+      },
+      {
+        "n": "04",
+        "t": "Gastronomía y barrios",
+        "d": "Descubrid Nusa Dua con calma, en profundidad y con tiempo para disfrutarlo en pareja.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/99821/screenshot_2024-09-16_162618.png"
+      },
+      {
+        "n": "05",
+        "t": "Tu estancia Honimunn",
+        "d": "Itinerario privado diseñado a medida por vuestro Honimunn Planner, sin prisas ni grupos aglomerados.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/99821/beach-pool-1024x683.jpg"
+      }
+    ],
+    "cover": "https://destino.honimunn.com/ImageHandler/c1200x800/46499/nusa_dua-shutterstock-121065490.jpg"
+  },
+  "indonesia:jakarta": {
+    "name": "Jakarta",
+    "eyebrow": "2 - 3",
+    "sub": "Situada en el noroeste de la isla de Java, la bulliciosa Yakarta es el centro económico, cultural y político de Indonesia.",
+    "continent": null,
+    "country": "indonesia",
+    "items": [
+      {
+        "n": "01",
+        "t": "Playas e islas",
+        "d": "Situada en el noroeste de la isla de Java, la bulliciosa Yakarta es el centro económico, cultural y político de Indonesia.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/42568/jakarta-istock-118307909.jpg"
+      },
+      {
+        "n": "02",
+        "t": "Qué ver y hacer",
+        "d": "Lo que le falta a esta caótica capital en playas idílicas y avenidas bordeadas de palmeras lo compensa con creces con su vida nocturna de clase mundial, su fascinante patrimonio y sus lugareños excepcionalmente hospitalarios.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/42568/jakarta-shutterstock-92285671.jpg"
+      },
+      {
+        "n": "03",
+        "t": "Patrimonio e historia",
+        "d": "En el norte de la ciudad se encuentra el área centrada en el turismo comúnmente conocida como Kota Tua o simplemente Kota, que cuenta con una variedad de edificios coloniales y excelentes museos.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/42568/jakarta-istock-1358332026.jpg"
+      },
+      {
+        "n": "04",
+        "t": "Gastronomía y barrios",
+        "d": "Además de sus numerosos tesoros históricos, Yakarta es conocida por sus 174 centros comerciales gigantes y relucientes.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/287869/1.jpg"
+      },
+      {
+        "n": "05",
+        "t": "Dónde dormir",
+        "d": "El Anara Airport Hotel cuenta con una ubicación ideal en el aeropuerto de Banten, Indonesia.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/287869/1.jpg"
+      }
+    ],
+    "cover": "https://destino.honimunn.com/ImageHandler/c1200x800/42568/jakarta-istock-118307909.jpg"
+  },
+  "indonesia:yogyakarta": {
+    "name": "Yogyakarta",
+    "eyebrow": "5 - 7",
+    "sub": "Considerada el alma de Java, Yogyakarta, comúnmente conocida como Yogya, es la floreciente y emocionante capital de la región especial de Yogyakarta en la provincia indonesia de Java.",
+    "continent": null,
+    "country": "indonesia",
+    "items": [
+      {
+        "n": "01",
+        "t": "Vida urbana",
+        "d": "Considerada el alma de Java, Yogyakarta, comúnmente conocida como Yogya, es la floreciente y emocionante capital de la región especial de Yogyakarta en la provincia indonesia de Java.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/25897/yogyakarta-shutterstock-762445336.jpg"
+      },
+      {
+        "n": "02",
+        "t": "Patrimonio e historia",
+        "d": "Este enorme centro urbano, con una población de más de un millón de habitantes, mantiene hábilmente su rico patrimonio cultural mientras abraza la modernidad, con una impresionante riqueza de impresionantes atracciones patrimoniales demasiado largas para enumerarlas, así como un montón de lugares de moda.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/25897/yogyakarta-shutterstock-1262182054.jpg"
+      },
+      {
+        "n": "03",
+        "t": "Entorno y paisaje",
+        "d": "Los museos Ullen Sentalu y Affandi no se pueden perder, y una visita al parque científico o al zoológico mantendrá contentos a los niños, mientras que bares, discotecas, galerías impresionantes y arte callejero de primera categoría atraen a un público joven.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/25897/yogyakarta-shutterstock-363363332.jpg"
+      },
+      {
+        "n": "04",
+        "t": "Gastronomía y barrios",
+        "d": "Además de todas las maravillas que ofrece Yogya, la ciudad tiene una ubicación ideal cerca de algunos de los sitios arqueológicos más importantes del país, como Borobudur y Prambanan.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/126454/west_bali_national_park-shutterstock-554482228.jpg"
+      },
+      {
+        "n": "05",
+        "t": "Dónde dormir",
+        "d": "El Harper Malioboro Yogyakarta se encuentra en el corazón de la ciudad, rodeado de edificios históricos, fantásticos restaurantes locales y tiendas de batik.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/67324/1.jpeg"
+      }
+    ],
+    "cover": "https://destino.honimunn.com/ImageHandler/c1200x800/25897/yogyakarta-shutterstock-762445336.jpg"
+  }
+}

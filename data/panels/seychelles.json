@@ -1,0 +1,82 @@
+{
+  "seychelles:seychelles": {
+    "name": "Seychelles",
+    "eyebrow": "Destino Honimunn",
+    "sub": "Salpicando el Océano Índico frente a la costa de África Oriental, Seychelles es famosa por sus escapadas románticas a medida, oportunidades de aventura y su impresionante belleza natural.",
+    "continent": null,
+    "country": "seychelles",
+    "items": [
+      {
+        "n": "01",
+        "t": "Playas e islas",
+        "d": "Salpicando el Océano Índico frente a la costa de África Oriental, Seychelles es famosa por sus escapadas románticas a medida, oportunidades de aventura y su impresionante belleza natural.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/37372/serengeti_western_corridor_-matej_kastelic-_shutterstock_682728133.jpg"
+      },
+      {
+        "n": "02",
+        "t": "Qué ver y hacer",
+        "d": "Este archipiélago excepcionalmente pintoresco está compuesto por 115 islas de coral y granito.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/37372/serengeti_western_corridor_-matej_kastelic-_shutterstock_682728133.jpg"
+      },
+      {
+        "n": "03",
+        "t": "Entorno y paisaje",
+        "d": "Los visitantes pueden esperar relajarse en las playas bañadas por el sol bañadas por aguas cristalinas de color turquesa, visitar la animada ciudad capital de Victoria y explorar los coloridos paisajes submarinos de coral que rodean las islas.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/37372/serengeti_western_corridor_-matej_kastelic-_shutterstock_682728133.jpg"
+      },
+      {
+        "n": "04",
+        "t": "Gastronomía y barrios",
+        "d": "Otros puntos destacados importantes incluyen la abundante vida silvestre, como las tortugas gigantes de Aldabra y las tortugas marinas que anidan, la vida vegetal autóctona y una gran cantidad de aves tropicales.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/37372/serengeti_western_corridor_-matej_kastelic-_shutterstock_682728133.jpg"
+      },
+      {
+        "n": "05",
+        "t": "Dónde dormir",
+        "d": "Hoteles boutique y propiedades con encanto, elegidos por nuestros planners.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/37372/serengeti_western_corridor_-matej_kastelic-_shutterstock_682728133.jpg"
+      }
+    ],
+    "cover": "https://destino.honimunn.com/ImageHandler/c1200x800/37372/serengeti_western_corridor_-matej_kastelic-_shutterstock_682728133.jpg"
+  },
+  "seychelles:mahe-island": {
+    "name": "Mahe",
+    "eyebrow": "9 - 13",
+    "sub": "Mahe es la más grande de las islas de Seychelles y abarca el aeropuerto internacional del país, así como su capital, la sorprendentemente tranquila y tranquila ciudad de Victoria, que alberga aproximadamente un tercio de la población nacional, así como muchos buenos restaurantes y lugares de entretenimiento.",
+    "continent": null,
+    "country": "seychelles",
+    "items": [
+      {
+        "n": "01",
+        "t": "Playas e islas",
+        "d": "Mahe es la más grande de las islas de Seychelles y abarca el aeropuerto internacional del país, así como su capital, la sorprendentemente tranquila y tranquila ciudad de Victoria, que alberga aproximadamente un tercio de la población nacional, así como muchos buenos restaurantes y lugares de entretenimiento.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/14206/mahe_island_-jenny_sturm-_shutterstock_267849362.jpg"
+      },
+      {
+        "n": "02",
+        "t": "Qué ver y hacer",
+        "d": "Mahe tiene un interior montañoso caracterizado por densos bosques tropicales y afloramientos pedregosos, mientras que su costa está bendecida con unas 75 hermosas playas.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/14206/mahe_island_-18042011-_shutterstock_264563198.jpg"
+      },
+      {
+        "n": "03",
+        "t": "Entorno y paisaje",
+        "d": "El más conocido de ellos es el idílico, de arena blanca Beau Vallon, ribeteado por profundas bahías que ofrecen excelentes natación, snorkel y buceo.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/14206/mahe_island_-oleg_znamenskiy-_shutterstock_86325277.jpg"
+      },
+      {
+        "n": "04",
+        "t": "Dónde dormir",
+        "d": "STORY Seychelles cuenta con una idílica ubicación junto al mar en Beau Vallon Beach, uno de los barrios más lujosos de la pintoresca isla de Mahè.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/64237/01.jpg"
+      },
+      {
+        "n": "05",
+        "t": "Tu estancia Honimunn",
+        "d": "Itinerario privado diseñado a medida por vuestro Honimunn Planner, sin prisas ni grupos aglomerados.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/64237/04.jpg"
+      }
+    ],
+    "cover": "https://destino.honimunn.com/ImageHandler/c1200x800/14206/mahe_island_-jenny_sturm-_shutterstock_267849362.jpg"
+  }
+}

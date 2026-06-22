@@ -1,0 +1,29 @@
+{
+  "pinPalette": [
+    "#FF2700",
+    "#E718B0",
+    "#AD2C1F",
+    "#80196E",
+    "#6B37B2",
+    "#2000FF",
+    "#0064F0",
+    "#04B148",
+    "#0D7240"
+  ],
+  "continentColor": {
+    "América": "#04B148",
+    "Europa": "#6B37B2",
+    "Oceanía": "#0064F0",
+    "Asia": "#E718B0",
+    "África": "#FF2700"
+  },
+  "beachContinent": {
+    "okinawa": "Asia",
+    "thailand": "Asia",
+    "philippines": "Asia",
+    "maldives": "Asia",
+    "hawaii": "América",
+    "fiji": "Oceanía",
+    "polynesia": "Oceanía"
+  }
+}

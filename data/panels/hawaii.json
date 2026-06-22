@@ -1,0 +1,162 @@
+{
+  "hawaii:maui": {
+    "name": "Maui",
+    "eyebrow": "7 - 11",
+    "sub": "La isla de Maui se ha encontrado repetidamente en listas exclusivas de las mejores escapadas isleñas del mundo, especialmente por sus kilómetros de playas idílicas, exuberantes valles verdes y paisajes volcánicos.",
+    "continent": null,
+    "country": "hawaii",
+    "items": [
+      {
+        "n": "01",
+        "t": "Playas e islas",
+        "d": "La isla de Maui se ha encontrado repetidamente en listas exclusivas de las mejores escapadas isleñas del mundo, especialmente por sus kilómetros de playas idílicas, exuberantes valles verdes y paisajes volcánicos.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/58332/shutterstock_105189131.jpg"
+      },
+      {
+        "n": "02",
+        "t": "Qué ver y hacer",
+        "d": "Con su lema, que a menudo se cita, «Maui no ka oi» (Maui es el mejor), los habitantes de la isla, cálidos y amistosos, tienden a estar de acuerdo.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/58332/shutterstock_1630653121.jpg"
+      },
+      {
+        "n": "03",
+        "t": "Entorno y paisaje",
+        "d": "Si bien cada una de las islas únicas de Hawái tiene algo excepcional que ofrecer, Maui parece tenerlo todo: fragantes selvas tropicales; pintorescos pueblos históricos; famosa cocina de la granja a la mesa; así como una variedad de actividades para deleitar a los amantes del océano y la tierra por igual con amplias rutas de senderismo, lugares para ver y opciones de deportes acuáticos en oferta.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/58332/shutterstock_35381086.jpg"
+      },
+      {
+        "n": "04",
+        "t": "Gastronomía y barrios",
+        "d": "Los visitantes pueden disfrutar de las espectaculares vistas de la cima del Haleakala, ver cómo las ballenas rompen frente de la costa de Lahaina o maravillarse con las innumerables cascadas y piscinas a lo largo de la bien transitada carretera a Hana.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/152263/31.jpg"
+      },
+      {
+        "n": "05",
+        "t": "Dónde dormir",
+        "d": "El Hilton Vacation Club Ka'anapali Beach Maui ofrece a sus huéspedes acceso directo a la playa de Kaanapali.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/152263/31.jpg"
+      }
+    ],
+    "cover": "https://destino.honimunn.com/ImageHandler/c1200x800/58332/shutterstock_105189131.jpg"
+  },
+  "hawaii:kauai": {
+    "name": "Kauai",
+    "eyebrow": "3 - 7",
+    "sub": "Conocida como la «Isla Jardín» debido a su exuberante vegetación verde, Kauai es la isla más al noroeste de las principales islas de Hawái.",
+    "continent": null,
+    "country": "hawaii",
+    "items": [
+      {
+        "n": "01",
+        "t": "Playas e islas",
+        "d": "Conocida como la «Isla Jardín» debido a su exuberante vegetación verde, Kauai es la isla más al noroeste de las principales islas de Hawái.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/58331/shutterstock_735353878.jpg"
+      },
+      {
+        "n": "02",
+        "t": "Qué ver y hacer",
+        "d": "Este prístino paraíso tropical cuenta con espectaculares acantilados y pináculos a lo largo de su exquisita costa de Na Pali, excepcionales rutas de senderismo que atraviesan el impresionante cañón de Waimea y más de 80 kilómetros de inmaculadas playas de arena blanca que bordean su costa espectacularmente escarpada.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/58331/shutterstock_185776730.jpg"
+      },
+      {
+        "n": "03",
+        "t": "Entorno y paisaje",
+        "d": "Los visitantes pueden disfrutar de una isla poco concurrida con un ambiente relajado y una variedad de resorts de lujo, excelentes restaurantes y campos de golf de primera clase.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/58331/shutterstock_305299517.jpg"
+      },
+      {
+        "n": "04",
+        "t": "Naturaleza salvaje",
+        "d": "Los amantes de las actividades al aire libre y los que buscan aventuras pueden disfrutar de tirolesa, surf, kayak, senderismo, ciclismo de montaña, paseos panorámicos en helicóptero y nadar en las magníficas cataratas de Wailua.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/93030/1.jpg"
+      },
+      {
+        "n": "05",
+        "t": "Dónde dormir",
+        "d": "Ubicado en 25 acres de exuberante belleza de Garden Isle, el Outrigger Kauai Beach Resort & Spa es la combinación perfecta de la hospitalidad y la cultura hawaianas tradicionales, con todos los toques modernos necesarios para garantizar una estancia confortable.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/93030/1.jpg"
+      }
+    ],
+    "cover": "https://destino.honimunn.com/ImageHandler/c1200x800/58331/shutterstock_735353878.jpg"
+  },
+  "hawaii:honolulu": {
+    "name": "Honolulu",
+    "eyebrow": "1 - 3",
+    "sub": "Ubicada en la orilla sur de la isla de Oahu, y enmarcada por el imponente volcán Diamond Head, la bulliciosa metrópolis de Honolulu es a la vez la capital y la ciudad más grande del hermoso estado de Hawai.",
+    "continent": null,
+    "country": "hawaii",
+    "items": [
+      {
+        "n": "01",
+        "t": "Playas e islas",
+        "d": "Ubicada en la orilla sur de la isla de Oahu, y enmarcada por el imponente volcán Diamond Head, la bulliciosa metrópolis de Honolulu es a la vez la capital y la ciudad más grande del hermoso estado de Hawai.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/76524/honolulu-istock-804786148.jpg"
+      },
+      {
+        "n": "02",
+        "t": "Qué ver y hacer",
+        "d": "Esta histórica ciudad sirve como centro comercial, centro de transporte, zona de entretenimiento y puerta de entrada a las islas circundantes.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/76524/honolulu-istock-1180583255.jpg"
+      },
+      {
+        "n": "03",
+        "t": "Gastronomía local",
+        "d": "Honolulu se centra en el vibrante barrio de Waikiki, que cuenta con lo mejor de los restaurantes, la vida nocturna y las tiendas de la ciudad.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/76524/honolulu-shutterstock-1477789844.jpg"
+      },
+      {
+        "n": "04",
+        "t": "Gastronomía y barrios",
+        "d": "Aquí se encuentra la emblemática playa de Waikiki en forma de media luna, rodeada de palmeras y numerosos hoteles de lujo de gran altura.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/156596/1747055165802_wklah-front-desk.jpg"
+      },
+      {
+        "n": "05",
+        "t": "Dónde dormir",
+        "d": "Romer Waikiki at The Ambassador se encuentra en el corazón de Waikiki y se centra en la cultura creativa de Waikiki.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/156596/1747055165802_wklah-front-desk.jpg"
+      }
+    ],
+    "cover": "https://destino.honimunn.com/ImageHandler/c1200x800/76524/honolulu-istock-804786148.jpg"
+  },
+  "hawaii:island-of-hawaii": {
+    "name": "Island of Hawaii",
+    "eyebrow": "6 - 9",
+    "sub": "La isla de Hawaii es a la vez la más joven y la más grande de la cadena hawaiana.",
+    "continent": null,
+    "country": "hawaii",
+    "items": [
+      {
+        "n": "01",
+        "t": "Playas e islas",
+        "d": "La isla de Hawaii es a la vez la más joven y la más grande de la cadena hawaiana.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/74743/shutterstock_454970044.jpg"
+      },
+      {
+        "n": "02",
+        "t": "Qué ver y hacer",
+        "d": "La isla ofrece un microcosmos convenientemente compacto de todo lo que el estado homónimo tiene para ofrecer.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/74743/shutterstock_167003981.jpg"
+      },
+      {
+        "n": "03",
+        "t": "Entorno y paisaje",
+        "d": "Con sus prístinas playas bañadas por aguas azules, flora y fauna exóticas, y sus exuberantes bosques tropicales con impresionantes cascadas a cada paso, 'The Big Isle' es notable por algo más que su tamaño.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/74743/shutterstock_640647352.jpg"
+      },
+      {
+        "n": "04",
+        "t": "Naturaleza salvaje",
+        "d": "Como hogar de dos de las montañas más grandes del mundo, el volcán más activo del mundo y 11 de las 13 zonas climáticas del mundo, Hawaii cuenta con todas las oportunidades de aventura al aire libre que puedas imaginar.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/132719/1734515593897_2015-11-Hale-Ike-Palace-Over-Back-00019-CH6A1410.jpg"
+      },
+      {
+        "n": "05",
+        "t": "Dónde dormir",
+        "d": "El Hilton Waikoloa Village está situado en la soleada costa de Kohala, en Hawaii, a 2 minutos a pie de la playa, y ofrece fácil acceso a lugares de interés, tiendas y entretenimiento de la zona.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/132719/1734515593897_2015-11-Hale-Ike-Palace-Over-Back-00019-CH6A1410.jpg"
+      }
+    ],
+    "cover": "https://destino.honimunn.com/ImageHandler/c1200x800/74743/shutterstock_454970044.jpg"
+  }
+}

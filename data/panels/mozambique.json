@@ -1,0 +1,42 @@
+{
+  "mozambique:vilankulos": {
+    "name": "Vilankulos",
+    "eyebrow": "10 - 14",
+    "sub": "Situado en la provincia mozambiqueña de Inhambane, Vilanculos es un pueblo relajado con unas preciosas playas bañadas por aguas turquesas cristalinas.",
+    "continent": null,
+    "country": "mozambique",
+    "items": [
+      {
+        "n": "01",
+        "t": "Playas e islas",
+        "d": "Situado en la provincia mozambiqueña de Inhambane, Vilanculos es un pueblo relajado con unas preciosas playas bañadas por aguas turquesas cristalinas.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/1134/vilanculos_-ecopic-_istock-144222193.jpg"
+      },
+      {
+        "n": "02",
+        "t": "Qué ver y hacer",
+        "d": "Está repleto de todas las comodidades necesarias para unas fantásticas vacaciones junto al mar.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/1134/vilanculos_-holgs-_istock-173056061.jpg"
+      },
+      {
+        "n": "03",
+        "t": "Entorno y paisaje",
+        "d": "Esta bulliciosa ciudad costera tiene su propio aeropuerto internacional y sirve de base ideal para explorar las idílicas islas del archipiélago de Bazaruto.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/1134/vilanculos_-demerzel21-_istock-1131507012.jpg"
+      },
+      {
+        "n": "04",
+        "t": "Vida urbana",
+        "d": "La ciudad en sí ofrece un buen buceo, una amplia gama de opciones de alojamiento y una animada vida nocturna.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/163254/11.jpg"
+      },
+      {
+        "n": "05",
+        "t": "Dónde dormir",
+        "d": "Ubicado en el sur de Mozambique, este pequeño BOUTIQUE LODGE es un lugar exclusivo en la playa con vista a los maravillosos paisajes de la Reserva Marina y Parque Nacional del Archipiélago de Bazaruto, que ofrece a sus huéspedes una oportunidad única de descubrir y experimentar los paisajes incontaminados de Mozambique.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/163254/11.jpg"
+      }
+    ],
+    "cover": "https://destino.honimunn.com/ImageHandler/c1200x800/1134/vilanculos_-ecopic-_istock-144222193.jpg"
+  }
+}

@@ -1,0 +1,282 @@
+{
+  "costa-rica:san-jose": {
+    "name": "San Jose",
+    "eyebrow": "12 - 13",
+    "sub": "Como se describió previamente…",
+    "continent": null,
+    "country": "costa-rica",
+    "items": [
+      {
+        "n": "01",
+        "t": "Dónde dormir",
+        "d": "Con una ubicación estratégica a solo 3 minutos del aeropuerto internacional SJO, nuestra exclusiva oferta de servicios, que incluye un servicio gratuito de traslado aeropuerto-hotel-aeropuerto, lo convierte en una opción ideal.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/354695/facade_sunset.jpg"
+      },
+      {
+        "n": "02",
+        "t": "Qué ver y hacer",
+        "d": "Descubrid San Jose con calma, en profundidad y con tiempo para disfrutarlo en pareja.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/26632/san_jose-shutterstock-615369632.jpg"
+      },
+      {
+        "n": "03",
+        "t": "Entorno y paisaje",
+        "d": "Descubrid San Jose con calma, en profundidad y con tiempo para disfrutarlo en pareja.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/26632/san_jose-shutterstock-1480930175.jpg"
+      },
+      {
+        "n": "04",
+        "t": "Gastronomía y barrios",
+        "d": "Descubrid San Jose con calma, en profundidad y con tiempo para disfrutarlo en pareja.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/354695/facade_sunset.jpg"
+      },
+      {
+        "n": "05",
+        "t": "Tu estancia Honimunn",
+        "d": "Itinerario privado diseñado a medida por vuestro Honimunn Planner, sin prisas ni grupos aglomerados.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/354695/lobby1.jpg"
+      }
+    ],
+    "cover": "https://destino.honimunn.com/ImageHandler/c1200x800/26632/san_jose-shutterstock-1679066536.jpg"
+  },
+  "costa-rica:tortuguero-national-park": {
+    "name": "Tortuguero National Park",
+    "eyebrow": "6 - 8",
+    "sub": "Un exuberante manto de densa selva tropical abarca más de 77 000 acres en la costa noreste de Costa Rica, en el Parque Nacional Tortuguero, un paraíso biodiverso y un santuario para una rica variedad de vida silvestre, que incluye jaguares, monos, perezosos y una asombrosa variedad de especies de aves.",
+    "continent": null,
+    "country": "costa-rica",
+    "items": [
+      {
+        "n": "01",
+        "t": "Playas e islas",
+        "d": "Un exuberante manto de densa selva tropical abarca más de 77 000 acres en la costa noreste de Costa Rica, en el Parque Nacional Tortuguero, un paraíso biodiverso y un santuario para una rica variedad de vida silvestre, que incluye jaguares, monos, perezosos y una asombrosa variedad de especies de aves.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/52674/shutterstock_1582427479.jpg"
+      },
+      {
+        "n": "02",
+        "t": "Qué ver y hacer",
+        "d": "El nombre del parque, que significa «Tierra de tortugas», destaca su importancia como lugar de anidación para varias especies de tortugas marinas, sobre todo las tortugas verdes, en peligro de extinción.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/52674/istock-1220164640.jpg"
+      },
+      {
+        "n": "03",
+        "t": "Naturaleza salvaje",
+        "d": "Una red de canales atraviesa la exuberante selva tropical y ofrece a los visitantes la oportunidad única de explorar en barco o kayak y sumergirse en la incomparable belleza natural del parque.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/52674/shutterstock_1476994820.jpg"
+      },
+      {
+        "n": "04",
+        "t": "Gastronomía y barrios",
+        "d": "Las playas vírgenes, los vibrantes manglares y los densos bosques hacen del Parque Nacional Tortuguero un destino de visita obligada para los amantes de la naturaleza y los conservacionistas, donde la aventura y las maravillas ecológicas se entrelazan armoniosamente.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/49287/img_1021_2.jpg"
+      },
+      {
+        "n": "05",
+        "t": "Dónde dormir",
+        "d": "El albergue se encuentra estratégicamente ubicado a solo 5 minutos del Parque Nacional Tortuguero, y al otro lado del canal principal frente a la ciudad de Tortuguero.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/49287/img_1021_2.jpg"
+      }
+    ],
+    "cover": "https://destino.honimunn.com/ImageHandler/c1200x800/52674/shutterstock_1582427479.jpg"
+  },
+  "costa-rica:la-fortuna": {
+    "name": "La Fortuna",
+    "eyebrow": "4 - 6",
+    "sub": "Ubicada a solo 2 horas en coche al noroeste de San José, la pequeña ciudad costarricense de La Fortuna se encuentra a los pies del majestuoso volcán Arenal.",
+    "continent": null,
+    "country": "costa-rica",
+    "items": [
+      {
+        "n": "01",
+        "t": "Playas e islas",
+        "d": "Ubicada a solo 2 horas en coche al noroeste de San José, la pequeña ciudad costarricense de La Fortuna se encuentra a los pies del majestuoso volcán Arenal.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/53263/istock-1432717203.jpg"
+      },
+      {
+        "n": "02",
+        "t": "Naturaleza salvaje",
+        "d": "La Fortuna es una base excelente para que los visitantes exploren los hermosos alrededores, sobre todo el pintoresco Parque Nacional Volcán Arenal.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/53263/la_fortuna-istock-638046084.jpg"
+      },
+      {
+        "n": "03",
+        "t": "Entorno y paisaje",
+        "d": "Los fotógrafos se deleitarán con las espectaculares vistas que ofrecen varios miradores a lo largo de sublimes rutas de senderismo, que recorren exuberantes selvas tropicales y pasan por las idílicas aguas termales naturales.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/53263/la_fortuna-istock-95187090.jpg"
+      },
+      {
+        "n": "04",
+        "t": "Gastronomía y barrios",
+        "d": "El resplandeciente lago Arenal, que es el lago más grande del país, ofrece fantásticas oportunidades para practicar deportes acuáticos.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/49207/dji_0201_1.jpg"
+      },
+      {
+        "n": "05",
+        "t": "Dónde dormir",
+        "d": "El hotel Lomas del Volcán es un cálido hotel de montaña que mantiene su estilo rústico con cabañas de madera, cada una con 2 terrazas que invita a los huéspedes a disfrutar de la naturaleza, una con vista al volcán Arenal y la otra con vista al bosque tropical.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/49207/dji_0201_1.jpg"
+      }
+    ],
+    "cover": "https://destino.honimunn.com/ImageHandler/c1200x800/53263/istock-1432717203.jpg"
+  },
+  "costa-rica:monteverde": {
+    "name": "Monteverde",
+    "eyebrow": "2 - 4",
+    "sub": "Monteverde, el nombre de un asentamiento y un bosque descrito como «la joya en la corona de los bosques nubosos» por National Geographic, se encuentra en la Cordillera de Tilaran en Puntarenas, Costa Rica.",
+    "continent": null,
+    "country": "costa-rica",
+    "items": [
+      {
+        "n": "01",
+        "t": "Playas e islas",
+        "d": "Monteverde, el nombre de un asentamiento y un bosque descrito como «la joya en la corona de los bosques nubosos» por National Geographic, se encuentra en la Cordillera de Tilaran en Puntarenas, Costa Rica.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/222008/shutterstock_599840291.jpg"
+      },
+      {
+        "n": "02",
+        "t": "Naturaleza salvaje",
+        "d": "Uno de los hábitats más raros del planeta y único de las otras selvas tropicales del país por sus constantes franjas de niebla (que le dan su nombre), el Bosque Nuboso de Monteverde es un increíble mundo salvaje lleno de miles de especies de plantas, insectos, variedades de aves y animales.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/222008/monteverde-shutterstock-1162541479.jpg"
+      },
+      {
+        "n": "03",
+        "t": "Entorno y paisaje",
+        "d": "Vea aves de colores vivos jugando en la reserva Curi-Cancha; haga una caminata guiada o un paseo a caballo por la densa selva; vea cómo las ranas azules eléctricas saltan en el famoso estanque de ranas o darse un chapuzón en las piscinas alrededor de la cascada de San Luis.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/222008/monteverde-shutterstock-1340697611.jpg"
+      },
+      {
+        "n": "04",
+        "t": "Gastronomía y barrios",
+        "d": "Visitas imprescindibles incluyen los Jardines de las Mariposas, la Casa de las Orquídeas, los puentes colgantes de la cima del árbol de Selvatura y el tour de café, chocolate y caña de azúcar.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/49218/dsc05396.jpg"
+      },
+      {
+        "n": "05",
+        "t": "Dónde dormir",
+        "d": "El Establo Mountain Hotel se encuentra ubicado en el bosque nublado de Monteverde, en Costa Rica.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/49218/dsc05396.jpg"
+      }
+    ],
+    "cover": "https://destino.honimunn.com/ImageHandler/c1200x800/222008/shutterstock_599840291.jpg"
+  },
+  "costa-rica:guanacaste": {
+    "name": "Guanacaste",
+    "eyebrow": "8 - 12",
+    "sub": "Ubicado a lo largo de la espectacular costa del Pacífico en el noroeste de Costa Rica, Guanacaste es famoso por sus playas prístinas, paisaje volcánico y criaturas exóticas.",
+    "continent": null,
+    "country": "costa-rica",
+    "items": [
+      {
+        "n": "01",
+        "t": "Playas e islas",
+        "d": "Ubicado a lo largo de la espectacular costa del Pacífico en el noroeste de Costa Rica, Guanacaste es famoso por sus playas prístinas, paisaje volcánico y criaturas exóticas.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/122635/istock-1400858774.jpg"
+      },
+      {
+        "n": "02",
+        "t": "Qué ver y hacer",
+        "d": "Esta provincia costarricense es considerada el paraíso tropical por excelencia.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/122635/istock-155376241.jpg"
+      },
+      {
+        "n": "03",
+        "t": "Entorno y paisaje",
+        "d": "El paisaje de Guanacaste cuenta con vastas llanuras de pastizales abiertas dispersas por bosques tropicales secos bordeados de playas de arena blanca.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/122635/istock-943159822.jpg"
+      },
+      {
+        "n": "04",
+        "t": "Gastronomía y barrios",
+        "d": "Los visitantes pueden pasar un día de descanso en la interminable Playa Blanca Beach, disfrutar de buceo de primera clase, así como de una variedad de deportes acuáticos en la magnífica Playa Hermosa, y visitar el Parque Nacional de Santa Rosa, con vegetación autóctona virgen y habitado por más de 200 especies de aves.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/70981/1756966747653palace-costa-rica-playa-beach-1.jpg"
+      },
+      {
+        "n": "05",
+        "t": "Dónde dormir",
+        "d": "El Hotel Riu Palace Costa Rica está situado en el borde de la playa de Matapalo en Guanacaste, Costa Rica.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/70981/1756966747653palace-costa-rica-playa-beach-1.jpg"
+      }
+    ],
+    "cover": "https://destino.honimunn.com/ImageHandler/c1200x800/122635/istock-1400858774.jpg"
+  },
+  "costa-rica:manuel-antonio": {
+    "name": "Manuel Antonio",
+    "eyebrow": "8 - 12",
+    "sub": "Junto al espectacular pintoresco parque nacional Manuel Antonio de 680 hectáreas y situado a lo largo de la costa del Pacífico de Costa Rica, el bullicioso pueblo costero de Manuel Antonio ofrece una variedad de cómodas opciones de alojamiento para ecoexploradores y aventureros que acuden aquí para explorar esta hermosa zona.",
+    "continent": null,
+    "country": "costa-rica",
+    "items": [
+      {
+        "n": "01",
+        "t": "Playas e islas",
+        "d": "Junto al espectacular pintoresco parque nacional Manuel Antonio de 680 hectáreas y situado a lo largo de la costa del Pacífico de Costa Rica, el bullicioso pueblo costero de Manuel Antonio ofrece una variedad de cómodas opciones de alojamiento para ecoexploradores y aventureros que acuden aquí para explorar esta hermosa zona.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/48599/manuel_antonio-shutterstock-1553348390.jpg"
+      },
+      {
+        "n": "02",
+        "t": "Qué ver y hacer",
+        "d": "Lo más destacado es el parque nacional adyacente Manuel Antonio, el parque nacional más pequeño de Costa Rica, con exuberantes selvas tropicales biodiversas, manglares, lagunas, arrecifes de coral en alta mar, playas prístinas de arena blanca y abundante fauna silvestre, incluidas más de 100 especies de mamíferos y casi 200 especies de aves.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/48599/manuel_antonio-shutterstock-1116003809.jpg"
+      },
+      {
+        "n": "03",
+        "t": "Entorno y paisaje",
+        "d": "Los visitantes pueden disfrutar de una variedad de actividades emocionantes, como pesca, natación, snorkel, observación de la vida silvestre, observación de aves, senderismo y relajación en playas tropicales.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/48599/manuel_antonio-shutterstock-318712418.jpg"
+      },
+      {
+        "n": "04",
+        "t": "Dónde dormir",
+        "d": "Alojamiento seleccionado: Shana By the Beach. Hoteles elegidos por Honimunn por su ubicación y carácter.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/48599/manuel_antonio-shutterstock-1553348390.jpg"
+      },
+      {
+        "n": "05",
+        "t": "Tu estancia Honimunn",
+        "d": "Itinerario privado diseñado a medida por vuestro Honimunn Planner, sin prisas ni grupos aglomerados.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/48599/manuel_antonio-shutterstock-1116003809.jpg"
+      }
+    ],
+    "cover": "https://destino.honimunn.com/ImageHandler/c1200x800/48599/manuel_antonio-shutterstock-1553348390.jpg"
+  },
+  "costa-rica:puerto-viejo-de-talamanca": {
+    "name": "Puerto Viejo de Talamanca",
+    "eyebrow": "8 - 12",
+    "sub": "El antiguo pueblo pesquero de Puerto Viejo de Talamanca se ha convertido en un popular destino turístico en los últimos años debido a sus increíbles playas, aguas cristalinas, su relajado encanto caribeño y sus increíbles olas.",
+    "continent": null,
+    "country": "costa-rica",
+    "items": [
+      {
+        "n": "01",
+        "t": "Playas e islas",
+        "d": "El antiguo pueblo pesquero de Puerto Viejo de Talamanca se ha convertido en un popular destino turístico en los últimos años debido a sus increíbles playas, aguas cristalinas, su relajado encanto caribeño y sus increíbles olas.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/49128/puerto_viejo_de_talamanca-shutterstock-13894118511.jpg"
+      },
+      {
+        "n": "02",
+        "t": "Qué ver y hacer",
+        "d": "Además de las espectaculares playas que rodean la propia ciudad, dos parques nacionales, al norte y al sur, cuentan con calas y bahías prístinas donde las selvas tropicales caen hasta la línea de flotación.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/49128/puerto_viejo_de_talamanca-shutterstock-13894118631.jpg"
+      },
+      {
+        "n": "03",
+        "t": "Naturaleza salvaje",
+        "d": "Estas exuberantes selvas son el hábitat natural de una cornucopia de vida silvestre, incluidos mamíferos exóticos como el mono aullador y una miríada de especies de aves.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/49128/puerto_viejo_de_talamanca-shutterstock-16818451781.jpg"
+      },
+      {
+        "n": "04",
+        "t": "Gastronomía y barrios",
+        "d": "El snorkel, el surf y simplemente tomar el sol están a la orden del día en Puerto Viejo de Talamanca, mientras que la selección de bares de reggae de la ciudad ofrecen lugares atmosféricos para disfrutar de las noches en Puerto Viejo de Talamanca.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/49192/shawandha152.jpg"
+      },
+      {
+        "n": "05",
+        "t": "Dónde dormir",
+        "d": "El hotel Shawandha Costa Rica ofrece un alojamiento tranquilo y relajante en pleno corazón de la costa caribeña del sur de Costa Rica, en Puerto Viejo, Limón.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/49192/shawandha152.jpg"
+      }
+    ],
+    "cover": "https://destino.honimunn.com/ImageHandler/c1200x800/49128/puerto_viejo_de_talamanca-shutterstock-13894118511.jpg"
+  }
+}

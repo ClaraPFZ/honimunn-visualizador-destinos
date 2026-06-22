@@ -1,0 +1,42 @@
+{
+  "zimbabue:victoria-falls-zimbabwe": {
+    "name": "Victoria Falls (Zimbabwe)",
+    "eyebrow": "3 - 5",
+    "sub": "Conocidas localmente como Mosi-oa-Tunya («El humo que truena»), las Cataratas Victoria son uno de los grandes hitos naturales del mundo.",
+    "continent": null,
+    "country": "zimbabue",
+    "items": [
+      {
+        "n": "01",
+        "t": "Lo esencial",
+        "d": "Conocidas localmente como Mosi-oa-Tunya («El humo que truena»), las Cataratas Victoria son uno de los grandes hitos naturales del mundo.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/481/vicfallszim-istock-185225607_10.jpg"
+      },
+      {
+        "n": "02",
+        "t": "Qué ver y hacer",
+        "d": "A ambos lados del río Zambeze, entre Zambia y Zimbabue, forman una enorme cortina de agua que llena el aire de niebla y sonido.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/481/vicfallszim-istock-185225607_7.jpg"
+      },
+      {
+        "n": "03",
+        "t": "Entorno y paisaje",
+        "d": "El lado zimbabuense ofrece las vistas más espectaculares, donde la niebla se eleva como cortinas fantasmales y los arcoíris se forman arcos iris a través del rocío.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/481/vicfallszim-istock-185225607_12.jpg"
+      },
+      {
+        "n": "04",
+        "t": "Gastronomía y barrios",
+        "d": "Con unos 1708 metros de diámetro, se considera la capa continua de agua que cae más grande de la Tierra.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/298936/insika_lodge_vic_falls_-_18.jpg"
+      },
+      {
+        "n": "05",
+        "t": "Dónde dormir",
+        "d": "Contamos con 40 habitaciones, spa e instalaciones para conferencias, y estamos desarrollando nuestro propio embarcadero a orillas del río con dos de nuestros propios barcos de crucero al atardecer.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/298936/insika_lodge_vic_falls_-_18.jpg"
+      }
+    ],
+    "cover": "https://destino.honimunn.com/ImageHandler/c1200x800/481/vicfallszim-istock-185225607_10.jpg"
+  }
+}

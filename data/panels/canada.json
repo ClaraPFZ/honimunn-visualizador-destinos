@@ -1,0 +1,322 @@
+{
+  "canada:canada": {
+    "name": "Canada",
+    "eyebrow": "Destino Honimunn",
+    "sub": "Los leñadores, castores, fanáticos del hockey, montados y jarabe de arce brotan inmediatamente a la mente.",
+    "continent": null,
+    "country": "canada",
+    "items": [
+      {
+        "n": "01",
+        "t": "Lo esencial",
+        "d": "Los leñadores, castores, fanáticos del hockey, montados y jarabe de arce brotan inmediatamente a la mente.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/75600/quebec_city_-ablokhin-_istock-1163245492.jpg"
+      },
+      {
+        "n": "02",
+        "t": "Cultura viva",
+        "d": "Mientras que Canadá ofrece sin duda todas estas asociaciones tradicionales en abundancia, este país impresionante tiene mucho más que ofrecer que un montón de clichés.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/75600/quebec_city_-ablokhin-_istock-1163245492.jpg"
+      },
+      {
+        "n": "03",
+        "t": "Naturaleza salvaje",
+        "d": "Con sus inigualables instalaciones de aventura al aire libre, sus inolvidables paisajes naturales y sus ciudades excepcionalmente cosmopolitas y progresistas, Canadá tiene mucho que ofrecer a aquellos que buscan una cultura de vanguardia, así como a los adictos a la aventura que buscan un golpe de adrenalina serio.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/75600/quebec_city_-ablokhin-_istock-1163245492.jpg"
+      },
+      {
+        "n": "04",
+        "t": "Gastronomía y barrios",
+        "d": "Los destinos turísticos más populares incluyen: las magníficas Montañas Rocosas que rodean Banff y el Lago Louise, las estaciones de esquí de lujo de alta gama como Whistler y Blackcomb, las ciudades francófonas de Montreal o Quebec, o los centros urbanos de Vancouver o Toronto con mucho encanto.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/75600/quebec_city_-ablokhin-_istock-1163245492.jpg"
+      },
+      {
+        "n": "05",
+        "t": "Dónde dormir",
+        "d": "Hoteles boutique y propiedades con encanto, elegidos por nuestros planners.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/75600/quebec_city_-ablokhin-_istock-1163245492.jpg"
+      }
+    ],
+    "cover": "https://destino.honimunn.com/ImageHandler/c1200x800/75600/quebec_city_-ablokhin-_istock-1163245492.jpg"
+  },
+  "canada:calgary": {
+    "name": "Calgary",
+    "eyebrow": "1 - 2",
+    "sub": "Calgary es la base natural de quienes exploran el oeste de Canadá y las Canadian Rockies.",
+    "continent": null,
+    "country": "canada",
+    "items": [
+      {
+        "n": "01",
+        "t": "Lo esencial",
+        "d": "Calgary es la base natural de quienes exploran el oeste de Canadá y las Canadian Rockies.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/33558/calgary-istock-168309488.jpg"
+      },
+      {
+        "n": "02",
+        "t": "Vida urbana",
+        "d": "Pero más allá del famoso estilo occidental de la región y la espectacular belleza natural, Calgary se está convirtiendo en un popular destino urbano por su propio bien, gracias en parte a una población joven y educada de más de un millón.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/33558/calgary-shutterstock-1617400690.jpg"
+      },
+      {
+        "n": "03",
+        "t": "Entorno y paisaje",
+        "d": "La ciudad ecológica alberga atracciones y festivales de primera clase, así como una cultura de hospitalidad que da la bienvenida a visitantes de todos los orígenes.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/33558/calgary-istock-1158705871.jpg"
+      },
+      {
+        "n": "04",
+        "t": "Gastronomía y barrios",
+        "d": "La Calgary Stampede, que atrae a un millón de visitantes al año, es solo una de las muchas atracciones destacadas.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/202705/1750087235519_ri-yycbl-exterior-front-entrance-11652_Wide-Hor.jpg"
+      },
+      {
+        "n": "05",
+        "t": "Dónde dormir",
+        "d": "O Residence Inn Calgary Downtown Beltline District está localizado no local da histórica Alberta Boot Company.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/202705/1750087235519_ri-yycbl-exterior-front-entrance-11652_Wide-Hor.jpg"
+      }
+    ],
+    "cover": "https://destino.honimunn.com/ImageHandler/c1200x800/33558/calgary-istock-168309488.jpg"
+  },
+  "canada:banff": {
+    "name": "Banff",
+    "eyebrow": "2 - 5",
+    "sub": "Ubicado en lo alto de las Canadian Rockies, la ciudad turística de Banff es la más grande del Parque Nacional de Banff y es conocida por sus impresionantes paisajes, su ambiente artístico y cosmopolita, así como por sus oportunidades de esquí y actividades al aire libre.",
+    "continent": null,
+    "country": "canada",
+    "items": [
+      {
+        "n": "01",
+        "t": "Naturaleza salvaje",
+        "d": "Ubicado en lo alto de las Canadian Rockies, la ciudad turística de Banff es la más grande del Parque Nacional de Banff y es conocida por sus impresionantes paisajes, su ambiente artístico y cosmopolita, así como por sus oportunidades de esquí y actividades al aire libre.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/33556/banff-istock-879223620.jpg"
+      },
+      {
+        "n": "02",
+        "t": "Qué ver y hacer",
+        "d": "Desde aquí se puede acceder fácilmente a tres zonas de esquí sublimes, y la zona cuenta con la famosa «La mejor nieve de Canadá», lo que hace que el esquí, el snowboard y todos los demás deportes de nieve sean un sueño.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/33556/banff-istock-1139359692.jpg"
+      },
+      {
+        "n": "03",
+        "t": "Aventura y experiencias",
+        "d": "El impresionante lago Louise y las laderas boscosas hacen de una maravillosa exploración en verano, con una enorme red de excelentes senderos adecuados para practicar senderismo, ciclismo y equitación.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/33556/banff-istock-1319119939.jpg"
+      },
+      {
+        "n": "04",
+        "t": "Patrimonio e historia",
+        "d": "Adéntrate en el patrimonio único de la zona visitando sitios como el sitio histórico nacional de Cave and Basin y el Whyte Museum of the Canadian Rockies, o visita únicamente para ver vistas y actividades culinarias en bares y restaurantes.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/270033/banffpeakshotel-webres-023.jpg"
+      },
+      {
+        "n": "05",
+        "t": "Dónde dormir",
+        "d": "El Peaks Hotel & Suites se encuentra a menos de un minuto del centro de Banff, en Canadá, y a pocos minutos de la estación de tren de Banff y de los lagos Vermilion.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/270033/banffpeakshotel-webres-023.jpg"
+      }
+    ],
+    "cover": "https://destino.honimunn.com/ImageHandler/c1200x800/33556/banff-istock-879223620.jpg"
+  },
+  "canada:lake-louise": {
+    "name": "Lake Louise",
+    "eyebrow": "5 - 6",
+    "sub": "La ciudad de Lake Louise se encuentra en Alberta, Canadá, dentro del extraordinario Parque Nacional Banff y las Montañas Rocosas.",
+    "continent": null,
+    "country": "canada",
+    "items": [
+      {
+        "n": "01",
+        "t": "Naturaleza salvaje",
+        "d": "La ciudad de Lake Louise se encuentra en Alberta, Canadá, dentro del extraordinario Parque Nacional Banff y las Montañas Rocosas.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/33566/lake_louise-shutterstock-1242224351.jpg"
+      },
+      {
+        "n": "02",
+        "t": "Qué ver y hacer",
+        "d": "La aldea del lago lleva el nombre de la princesa Luisa Carolina Alberta, la cuarta hija de la reina Victoria, y es famosa por su aspecto turquesa, el glaciar Victoria, el telón de fondo montañoso y las enormes estaciones de esquí circundantes.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/33566/lake_louise-istock-11393596921.jpg"
+      },
+      {
+        "n": "03",
+        "t": "Aventura y experiencias",
+        "d": "Los excursionistas pueden disfrutar de una caminata hasta el salón de té del lago Agnes para disfrutar de impresionantes vistas panorámicas, alquilar canoas o patinar sobre la superficie helada del lago en invierno.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/33566/lake_louise-istock-5044168641.jpg"
+      },
+      {
+        "n": "04",
+        "t": "Gastronomía y barrios",
+        "d": "Otros puntos destacados incluyen la góndola del lago Louise, un teleférico que sube por la montaña Whitehorn a través de un remonte abierto o una góndola cerrada, lo que proporciona una mejor oportunidad de ver los osos pardos locales de la zona.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/52825/1732897001124_LLi-aeriel-summer-gallery.jpeg"
+      },
+      {
+        "n": "05",
+        "t": "Dónde dormir",
+        "d": "El Lake Louise Inn está situado entre los picos nevados del Parque Nacional de Banff, rodeado de pinos altísimos y amplias vistas a las montañas que ofrecen infinitas actividades en medio de la increíble belleza natural de montañas, glaciares antiguos y senderos serpenteantes.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/52825/1732897001124_LLi-aeriel-summer-gallery.jpeg"
+      }
+    ],
+    "cover": "https://destino.honimunn.com/ImageHandler/c1200x800/33566/lake_louise-shutterstock-1242224351.jpg"
+  },
+  "canada:jasper": {
+    "name": "Jasper",
+    "eyebrow": "5 - 8",
+    "sub": "Jasper, situado en el corazón del Parque Nacional Jasper de Canadá, en las impresionantes Canadian Rockies, conserva su atractivo atemporal como una antigua ciudad ferroviaria tranquila, sin pretensiones y amigable.",
+    "continent": null,
+    "country": "canada",
+    "items": [
+      {
+        "n": "01",
+        "t": "Naturaleza salvaje",
+        "d": "Jasper, situado en el corazón del Parque Nacional Jasper de Canadá, en las impresionantes Canadian Rockies, conserva su atractivo atemporal como una antigua ciudad ferroviaria tranquila, sin pretensiones y amigable.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/37615/jasper-istock-1226959990.jpg"
+      },
+      {
+        "n": "02",
+        "t": "Qué ver y hacer",
+        "d": "Los paisajes aquí son majestuosos; numerosos lagos espejados, bosques densos y variados, impresionantes laderas nevadas.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/37615/jasper-shutterstock-627227051.jpg"
+      },
+      {
+        "n": "03",
+        "t": "Playas e islas",
+        "d": "Una puerta de entrada durante todo el año al entorno prístino del parque, Jasper es el lugar perfecto para disfrutar del esquí, la fotografía de naturaleza, remar por aguas cristalinas, hacer senderismo (más de 1200 km de senderos esperan), observar la vida silvestre (incluidos osos pardos, alces y alces) o simplemente disfrutar de la serenidad de la zona.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/37615/jasper-istock-1266682077.jpg"
+      },
+      {
+        "n": "04",
+        "t": "Aventura y experiencias",
+        "d": "Los principales elementos del itinerario incluyen excursiones por el lago; un baño en las cálidas e idílicas aguas termales de Miette; y un meandro a lo largo del Glacier Skywalk, que induce a la adrenalina, donde los visitantes están separados de una caída de 280 metros por un suelo de cristal, entre otros.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/52801/rm-founders-balcony-render.jpg"
+      },
+      {
+        "n": "05",
+        "t": "Dónde dormir",
+        "d": "Situado a 6 km de Jasper, con vistas al lago Pyramid y a las Montañas Rocosas canadienses, el Pyramid Lake Lodge es la opción ideal para los viajeros de placer.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/52801/rm-founders-balcony-render.jpg"
+      }
+    ],
+    "cover": "https://destino.honimunn.com/ImageHandler/c1200x800/37615/jasper-istock-1226959990.jpg"
+  },
+  "canada:clearwater": {
+    "name": "Clearwater",
+    "eyebrow": "9 - 11",
+    "sub": "Situada en el pintoresco valle del norte de Thompson de la Columbia Británica, Clearwater es una pequeña y acogedora ciudad rodeada de imponentes montañas, ríos caudalosos y densos bosques.",
+    "continent": null,
+    "country": "canada",
+    "items": [
+      {
+        "n": "01",
+        "t": "Naturaleza salvaje",
+        "d": "Situada en el pintoresco valle del norte de Thompson de la Columbia Británica, Clearwater es una pequeña y acogedora ciudad rodeada de imponentes montañas, ríos caudalosos y densos bosques.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/52273/clearwater_-_colin_bourne-_shutterstock_1085653325.jpg"
+      },
+      {
+        "n": "02",
+        "t": "Gastronomía local",
+        "d": "Conocida por su ambiente agradable y su estilo de vida al aire libre, Clearwater ofrece a los visitantes encantadores cafés, tiendas locales y acceso a los mercados comunitarios con productos regionales.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/52273/clearwater_-harry_beugelink-_shutterstock_1106353499.jpg"
+      },
+      {
+        "n": "03",
+        "t": "Entorno y paisaje",
+        "d": "Clearwater es la base ideal para explorar el cercano Parque Provincial Wells Gray, con excursiones de un día a sus cascadas, lagos y rutas de senderismo.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/52273/clearwater_-harry_beugelink-_shutterstock_1738373210.jpg"
+      },
+      {
+        "n": "04",
+        "t": "Gastronomía y barrios",
+        "d": "Dentro de la ciudad y sus alrededores, los visitantes pueden disfrutar de la pesca, el kayak, los paseos a caballo o la observación de la vida silvestre, mientras que el aire fresco de la montaña y las vistas panorámicas brindan una escapada refrescante.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/107858/61.jpg"
+      },
+      {
+        "n": "05",
+        "t": "Dónde dormir",
+        "d": "El Alpine Meadows Resort está situado en un lugar apartado rodeado de belleza natural, cerca de un impresionante lago de agua dulce.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/107858/61.jpg"
+      }
+    ],
+    "cover": "https://destino.honimunn.com/ImageHandler/c1200x800/52273/clearwater_-_colin_bourne-_shutterstock_1085653325.jpg"
+  },
+  "canada:kamloops": {
+    "name": "Kamloops",
+    "eyebrow": "10 - 11",
+    "sub": "A lo largo de la confluencia de los ríos Thompson Norte y Sur, la soleada ciudad de Kamloops es un próspero centro cosmopolita situado en el corazón del Interior del Sur de Columbia Británica.",
+    "continent": null,
+    "country": "canada",
+    "items": [
+      {
+        "n": "01",
+        "t": "Vida urbana",
+        "d": "A lo largo de la confluencia de los ríos Thompson Norte y Sur, la soleada ciudad de Kamloops es un próspero centro cosmopolita situado en el corazón del Interior del Sur de Columbia Británica.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/33567/kamloops_-ng_wai_chor-_shutterstock_1164497734.jpg"
+      },
+      {
+        "n": "02",
+        "t": "Patrimonio e historia",
+        "d": "Montañas escarpadas, valles verdes, colinas cubiertas de sagebrush y lagos vírgenes confinan edificios históricos, numerosas tiendas y restaurantes, así como exuberantes festividades.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/33567/kamloops_-josef_hanus-_shutterstock_87897508.jpg"
+      },
+      {
+        "n": "03",
+        "t": "Naturaleza salvaje",
+        "d": "Los amantes del aire libre pueden hacer senderismo por la montaña Pan de Azúcar, el Hoodoos, la cordillera de las gotas de rocío, el río Tranquille, el Peñón de Gibraltar y el parque Kenna Cartwright.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/33567/kamloops_-harry_beugelink-_shutterstock_379852075.jpg"
+      },
+      {
+        "n": "04",
+        "t": "Aventura y experiencias",
+        "d": "Si desea un remo en kayak o una canoa, pruebe los 100 lagos y arroyos a una hora en coche de Kamloops.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/149792/17570751693381.jpg"
+      },
+      {
+        "n": "05",
+        "t": "Dónde dormir",
+        "d": "Situado en el corazón de Kamloops, Columbia Británica, el DoubleTree by Hilton Hotel Kamloops ofrece alojamiento elegante cerca del parque Riverside y del río Thompson.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/149792/17570751693381.jpg"
+      }
+    ],
+    "cover": "https://destino.honimunn.com/ImageHandler/c1200x800/33567/kamloops_-ng_wai_chor-_shutterstock_1164497734.jpg"
+  },
+  "canada:vancouver": {
+    "name": "Vancouver",
+    "eyebrow": "11 - 14",
+    "sub": "Ubicada en la frontera suroeste de Canadá, la ciudad de Vancouver cuenta con montañas majestuosas, océano brillante, bosques tropicales y hermoso follaje en las cuatro estaciones.",
+    "continent": null,
+    "country": "canada",
+    "items": [
+      {
+        "n": "01",
+        "t": "Playas e islas",
+        "d": "Ubicada en la frontera suroeste de Canadá, la ciudad de Vancouver cuenta con montañas majestuosas, océano brillante, bosques tropicales y hermoso follaje en las cuatro estaciones.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/33568/vancouver-shutterstock-722679235.jpg"
+      },
+      {
+        "n": "02",
+        "t": "Cultura viva",
+        "d": "Una vasta población multicultural, actividades interminables y una excelente infraestructura aseguran que Vancouver sea bienvenida a todos.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/33568/vancouver-shutterstock-182225621.jpg"
+      },
+      {
+        "n": "03",
+        "t": "Vida urbana",
+        "d": "Aunque la ciudad tiene un excelente transporte público, es una gran ciudad para caminar - de fácil acceso, limpio, verde y seguro.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/33568/vancouver-istock-460897863.jpg"
+      },
+      {
+        "n": "04",
+        "t": "Gastronomía local",
+        "d": "Vancouver atiende a casi cualquier interés durante todo el año; los visitantes pueden disfrutar de compras de clase mundial, comidas gourmet, entretenimiento en vivo excepcional, eventos deportivos, teatro, aventura al aire libre, una gran variedad de deportes acuáticos y espectaculares vistas y atracciones.",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/179598/31.jpg"
+      },
+      {
+        "n": "05",
+        "t": "Dónde dormir",
+        "d": ".Con un diseño ecléctico de mediados de siglo, el Hotel Belmont Vancouver MGallery se encuentra en el corazón del distrito de entretenimiento del centro de Vanc…",
+        "img": "https://destino.honimunn.com/ImageHandler/c1200x800/179598/31.jpg"
+      }
+    ],
+    "cover": "https://destino.honimunn.com/ImageHandler/c1200x800/33568/vancouver-shutterstock-722679235.jpg"
+  }
+}

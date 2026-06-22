@@ -1,0 +1,197 @@
+{
+  "croacia:zagreb": {
+    "name": "Zagreb",
+    "eyebrow": "Destino Honimunn",
+    "sub": "Zagreb es una parada clave en nuestros viajes por la región.",
+    "country": "croacia",
+    "items": [
+      {
+        "n": "01",
+        "t": "Lo esencial",
+        "d": "Zagreb concentra lo mejor del destino: cultura, paisaje y momentos para recordar.",
+        "img": ""
+      },
+      {
+        "n": "02",
+        "t": "Qué ver y hacer",
+        "d": "Explorad sus barrios, miradores y experiencias locales con tiempo para disfrutarlos sin prisas.",
+        "img": ""
+      },
+      {
+        "n": "03",
+        "t": "Entorno y paisaje",
+        "d": "Naturaleza, costa o montaña a poca distancia — el complemento perfecto para vuestra luna de miel.",
+        "img": ""
+      },
+      {
+        "n": "04",
+        "t": "Gastronomía y barrios",
+        "d": "Mercados, restaurantes y calles con vida propia donde saborear el destino.",
+        "img": ""
+      },
+      {
+        "n": "05",
+        "t": "Tu estancia Honimunn",
+        "d": "Itinerario privado a medida con alojamientos seleccionados por vuestro Honimunn Planner.",
+        "img": ""
+      }
+    ],
+    "cover": ""
+  },
+  "croacia:dubrovnik": {
+    "name": "Dubrovnik",
+    "eyebrow": "Destino Honimunn",
+    "sub": "Dubrovnik es una parada clave en nuestros viajes por la región.",
+    "country": "croacia",
+    "items": [
+      {
+        "n": "01",
+        "t": "Lo esencial",
+        "d": "Dubrovnik concentra lo mejor del destino: cultura, paisaje y momentos para recordar.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Dubrovnik_Croatia.jpg/1200px-Dubrovnik_Croatia.jpg"
+      },
+      {
+        "n": "02",
+        "t": "Qué ver y hacer",
+        "d": "Explorad sus barrios, miradores y experiencias locales con tiempo para disfrutarlos sin prisas.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Dubrovnik_Croatia.jpg/1200px-Dubrovnik_Croatia.jpg"
+      },
+      {
+        "n": "03",
+        "t": "Entorno y paisaje",
+        "d": "Naturaleza, costa o montaña a poca distancia — el complemento perfecto para vuestra luna de miel.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Dubrovnik_Croatia.jpg/1200px-Dubrovnik_Croatia.jpg"
+      },
+      {
+        "n": "04",
+        "t": "Gastronomía y barrios",
+        "d": "Mercados, restaurantes y calles con vida propia donde saborear el destino.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Dubrovnik_Croatia.jpg/1200px-Dubrovnik_Croatia.jpg"
+      },
+      {
+        "n": "05",
+        "t": "Tu estancia Honimunn",
+        "d": "Itinerario privado a medida con alojamientos seleccionados por vuestro Honimunn Planner.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Dubrovnik_Croatia.jpg/1200px-Dubrovnik_Croatia.jpg"
+      }
+    ],
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Dubrovnik_Croatia.jpg/1200px-Dubrovnik_Croatia.jpg"
+  },
+  "croacia:split": {
+    "name": "Split",
+    "eyebrow": "Destino Honimunn",
+    "sub": "Split es una parada clave en nuestros viajes por la región.",
+    "country": "croacia",
+    "items": [
+      {
+        "n": "01",
+        "t": "Lo esencial",
+        "d": "Split concentra lo mejor del destino: cultura, paisaje y momentos para recordar.",
+        "img": ""
+      },
+      {
+        "n": "02",
+        "t": "Qué ver y hacer",
+        "d": "Explorad sus barrios, miradores y experiencias locales con tiempo para disfrutarlos sin prisas.",
+        "img": ""
+      },
+      {
+        "n": "03",
+        "t": "Entorno y paisaje",
+        "d": "Naturaleza, costa o montaña a poca distancia — el complemento perfecto para vuestra luna de miel.",
+        "img": ""
+      },
+      {
+        "n": "04",
+        "t": "Gastronomía y barrios",
+        "d": "Mercados, restaurantes y calles con vida propia donde saborear el destino.",
+        "img": ""
+      },
+      {
+        "n": "05",
+        "t": "Tu estancia Honimunn",
+        "d": "Itinerario privado a medida con alojamientos seleccionados por vuestro Honimunn Planner.",
+        "img": ""
+      }
+    ],
+    "cover": ""
+  },
+  "croacia:hvar": {
+    "name": "Hvar",
+    "eyebrow": "Destino Honimunn",
+    "sub": "Hvar es una parada clave en nuestros viajes por la región.",
+    "country": "croacia",
+    "items": [
+      {
+        "n": "01",
+        "t": "Lo esencial",
+        "d": "Hvar concentra lo mejor del destino: cultura, paisaje y momentos para recordar.",
+        "img": ""
+      },
+      {
+        "n": "02",
+        "t": "Qué ver y hacer",
+        "d": "Explorad sus barrios, miradores y experiencias locales con tiempo para disfrutarlos sin prisas.",
+        "img": ""
+      },
+      {
+        "n": "03",
+        "t": "Entorno y paisaje",
+        "d": "Naturaleza, costa o montaña a poca distancia — el complemento perfecto para vuestra luna de miel.",
+        "img": ""
+      },
+      {
+        "n": "04",
+        "t": "Gastronomía y barrios",
+        "d": "Mercados, restaurantes y calles con vida propia donde saborear el destino.",
+        "img": ""
+      },
+      {
+        "n": "05",
+        "t": "Tu estancia Honimunn",
+        "d": "Itinerario privado a medida con alojamientos seleccionados por vuestro Honimunn Planner.",
+        "img": ""
+      }
+    ],
+    "cover": ""
+  },
+  "croacia:plitvice": {
+    "name": "Plitvice",
+    "eyebrow": "Destino Honimunn",
+    "sub": "Plitvice es una parada clave en nuestros viajes por la región.",
+    "country": "croacia",
+    "items": [
+      {
+        "n": "01",
+        "t": "Lo esencial",
+        "d": "Plitvice concentra lo mejor del destino: cultura, paisaje y momentos para recordar.",
+        "img": ""
+      },
+      {
+        "n": "02",
+        "t": "Qué ver y hacer",
+        "d": "Explorad sus barrios, miradores y experiencias locales con tiempo para disfrutarlos sin prisas.",
+        "img": ""
+      },
+      {
+        "n": "03",
+        "t": "Entorno y paisaje",
+        "d": "Naturaleza, costa o montaña a poca distancia — el complemento perfecto para vuestra luna de miel.",
+        "img": ""
+      },
+      {
+        "n": "04",
+        "t": "Gastronomía y barrios",
+        "d": "Mercados, restaurantes y calles con vida propia donde saborear el destino.",
+        "img": ""
+      },
+      {
+        "n": "05",
+        "t": "Tu estancia Honimunn",
+        "d": "Itinerario privado a medida con alojamientos seleccionados por vuestro Honimunn Planner.",
+        "img": ""
+      }
+    ],
+    "cover": ""
+  }
+}
