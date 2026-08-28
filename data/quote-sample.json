@@ -1,0 +1,313 @@
+{
+  "id": "e928cc7f-133a-421e-a0be-ef690809d7ed",
+  "title": "Sri Lanka y Maldivas New Munn",
+  "subtitle": "Viaje por Sri Lanka: Colombo, Udawalawa, Ella, Kandy, Dambulla, Negombo y Maldivas",
+  "heroImage": "https://destino.honimunn.com/ImageHandler/c1200x800/21291/maldives-shutterstock-379998466.jpg",
+  "startDate": "2026-11-04",
+  "endDate": "2026-11-16",
+  "nights": 12,
+  "travelers": 2,
+  "currency": "EUR",
+  "total": 6060,
+  "perPerson": 3030,
+  "deposit": 1818,
+  "destinations": [
+    { "city": "Colombo", "country": "Sri Lanka", "lat": 6.9271, "lng": 79.8612 },
+    { "city": "Udawalawa", "country": "Sri Lanka", "lat": 6.438, "lng": 80.888 },
+    { "city": "Ella", "country": "Sri Lanka", "lat": 6.8667, "lng": 81.0466 },
+    { "city": "Kandy", "country": "Sri Lanka", "lat": 7.2906, "lng": 80.6337 },
+    { "city": "Dambulla", "country": "Sri Lanka", "lat": 7.8675, "lng": 80.6517 },
+    { "city": "Negombo", "country": "Sri Lanka", "lat": 7.2083, "lng": 79.8358 },
+    { "city": "Maldivas", "country": "Maldivas", "lat": 4.1755, "lng": 73.5093 }
+  ],
+  "budget": [
+    { "provider": "Emirates", "service": "Vuelos internacionales Madrid ↔ Colombo (ida y vuelta)", "units": 2, "unitPrice": 980, "total": 1960 },
+    { "provider": "Maldivian", "service": "Vuelo Colombo → Malé", "units": 2, "unitPrice": 210, "total": 420 },
+    { "provider": "Jetwing Colombo Seven", "service": "2 noches · Deluxe Room · desayuno", "units": 1, "unitPrice": 320, "total": 320 },
+    { "provider": "Elephant Trails", "service": "2 noches · Udawalawa · full board + safari", "units": 1, "unitPrice": 540, "total": 540 },
+    { "provider": "98 Acres Resort", "service": "2 noches · Ella · superior room", "units": 1, "unitPrice": 380, "total": 380 },
+    { "provider": "Theva Residency", "service": "2 noches · Kandy · deluxe", "units": 1, "unitPrice": 360, "total": 360 },
+    { "provider": "Amaya Lake", "service": "1 noche · Dambulla · lake view", "units": 1, "unitPrice": 190, "total": 190 },
+    { "provider": "Jetwing Beach", "service": "1 noche · Negombo · sea view", "units": 1, "unitPrice": 170, "total": 170 },
+    { "provider": "OBLU XPERIENCE Ailafushi", "service": "3 noches · Beach Villa · all inclusive", "units": 1, "unitPrice": 1260, "total": 1260 },
+    { "provider": "Honimunn", "service": "Traslados privados, guías y asistencia 24h", "units": 1, "unitPrice": 460, "total": 460 }
+  ],
+  "experiences": [
+    {
+      "title": "Safari en Udawalawa",
+      "place": "Parque Nacional Udawalawa",
+      "duration": "Medio día",
+      "price": 95,
+      "description": "Avistamiento de elefantes en libertad al atardecer, con naturalista privado.",
+      "img": "https://destino.honimunn.com/ImageHandler/c1200x800/42012/colombo-shutterstock-327593999.jpg"
+    },
+    {
+      "title": "Tren célebre Ella–Kandy",
+      "place": "Highlands de Sri Lanka",
+      "duration": "Medio día",
+      "price": 45,
+      "description": "Asientos reservados en el tren panorámico entre plantaciones de té.",
+      "img": "https://destino.honimunn.com/ImageHandler/c1200x800/42012/colombo-istock-528830827.jpg"
+    },
+    {
+      "title": "Cuevas de Dambulla + Sigiriya",
+      "place": "Triángulo Cultural",
+      "duration": "Día completo",
+      "price": 120,
+      "description": "Templo rupestre UNESCO y ascenso a la Roca del León al amanecer.",
+      "img": "https://destino.honimunn.com/ImageHandler/c1200x800/42012/colombo-shutterstock-327594770.jpg"
+    },
+    {
+      "title": "Snorkel en casa de arrecife",
+      "place": "Maldivas · Ailafushi",
+      "duration": "2 horas",
+      "price": 80,
+      "description": "Inmersión guiada en el house reef del resort, equipo incluido.",
+      "img": "https://destino.honimunn.com/ImageHandler/c1200x800/21291/maldives-shutterstock-1909038742.jpg"
+    }
+  ],
+  "gallery": [
+    "https://destino.honimunn.com/ImageHandler/c1200x800/21291/maldives-shutterstock-379998466.jpg",
+    "https://destino.honimunn.com/ImageHandler/c1200x800/21291/maldives-shutterstock-1909038742.jpg",
+    "https://destino.honimunn.com/ImageHandler/c1200x800/21291/maldives-shutterstock-1901686090.jpg",
+    "https://destino.honimunn.com/ImageHandler/c1200x800/274730/oblu-xperience-ailafushi-beach-villa-outside.jpg",
+    "https://destino.honimunn.com/ImageHandler/c1200x800/42012/colombo-shutterstock-327593999.jpg",
+    "https://destino.honimunn.com/ImageHandler/c1200x800/42012/colombo-istock-528830827.jpg"
+  ],
+  "videos": [
+    {
+      "title": "Sri Lanka en movimiento",
+      "place": "Colombo · Highlands · Costa",
+      "thumb": "https://destino.honimunn.com/ImageHandler/c1200x800/42012/colombo-shutterstock-327593999.jpg",
+      "url": "https://destino.honimunn.com"
+    },
+    {
+      "title": "Maldivas desde el aire",
+      "place": "Atolones del Índico",
+      "thumb": "https://destino.honimunn.com/ImageHandler/c1200x800/21291/maldives-shutterstock-379998466.jpg",
+      "url": "https://destino.honimunn.com"
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Jetwing Colombo Seven",
+      "place": "Colombo · Sri Lanka",
+      "nights": 2,
+      "board": "Desayuno",
+      "room": "Deluxe Room",
+      "img": "https://destino.honimunn.com/ImageHandler/c1200x800/130132/dsc_1811-edit-1200x1620.jpg"
+    },
+    {
+      "name": "Elephant Trails",
+      "place": "Udawalawa · Sri Lanka",
+      "nights": 2,
+      "board": "Full board",
+      "room": "Jungle Chalet",
+      "img": "https://destino.honimunn.com/ImageHandler/c1200x800/42012/colombo-shutterstock-327593999.jpg"
+    },
+    {
+      "name": "98 Acres Resort & Spa",
+      "place": "Ella · Sri Lanka",
+      "nights": 2,
+      "board": "Desayuno",
+      "room": "Superior Room",
+      "img": "https://destino.honimunn.com/ImageHandler/c1200x800/42012/colombo-istock-528830827.jpg"
+    },
+    {
+      "name": "Theva Residency",
+      "place": "Kandy · Sri Lanka",
+      "nights": 2,
+      "board": "Desayuno",
+      "room": "Deluxe",
+      "img": "https://destino.honimunn.com/ImageHandler/c1200x800/42012/colombo-shutterstock-327594770.jpg"
+    },
+    {
+      "name": "Amaya Lake",
+      "place": "Dambulla · Sri Lanka",
+      "nights": 1,
+      "board": "Desayuno",
+      "room": "Lake View",
+      "img": "https://destino.honimunn.com/ImageHandler/c1200x800/42012/colombo-shutterstock-327593999.jpg"
+    },
+    {
+      "name": "Jetwing Beach",
+      "place": "Negombo · Sri Lanka",
+      "nights": 1,
+      "board": "Desayuno",
+      "room": "Sea View",
+      "img": "https://destino.honimunn.com/ImageHandler/c1200x800/42012/colombo-istock-528830827.jpg"
+    },
+    {
+      "name": "OBLU XPERIENCE Ailafushi",
+      "place": "Maldivas",
+      "nights": 3,
+      "board": "All inclusive",
+      "room": "Beach Villa",
+      "img": "https://destino.honimunn.com/ImageHandler/c1200x800/274730/oblu-xperience-ailafushi-beach-villa-outside.jpg"
+    }
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "date": "2026-11-04",
+      "title": "Llegada a Colombo",
+      "items": [
+        "Vuelo internacional a Colombo (CMB)",
+        "Traslado privado al hotel",
+        "Check-in · Jetwing Colombo Seven",
+        "Cena libre en Cinnamon Gardens"
+      ]
+    },
+    {
+      "day": 2,
+      "date": "2026-11-05",
+      "title": "Colombo urbano",
+      "items": [
+        "Visita al Dutch Hospital y Galle Face Green",
+        "Templo Asokaramaya",
+        "Tarde libre · rooftop del hotel"
+      ]
+    },
+    {
+      "day": 3,
+      "date": "2026-11-06",
+      "title": "Hacia Udawalawa",
+      "items": [
+        "Traslado por carretera (~3,5 h)",
+        "Check-in · Elephant Trails",
+        "Safari al atardecer en el parque nacional"
+      ]
+    },
+    {
+      "day": 4,
+      "date": "2026-11-07",
+      "title": "Naturaleza en Udawalawa",
+      "items": [
+        "Safari matinal opcional",
+        "Orfanato de elefantes",
+        "Noche en el lodge"
+      ]
+    },
+    {
+      "day": 5,
+      "date": "2026-11-08",
+      "title": "Ella y las highlands",
+      "items": [
+        "Traslado a Ella",
+        "Check-in · 98 Acres Resort",
+        "Nine Arch Bridge al atardecer"
+      ]
+    },
+    {
+      "day": 6,
+      "date": "2026-11-09",
+      "title": "Ella · Little Adam's Peak",
+      "items": [
+        "Senderismo a Little Adam's Peak",
+        "Plantación de té y cata",
+        "Noche en Ella"
+      ]
+    },
+    {
+      "day": 7,
+      "date": "2026-11-10",
+      "title": "Tren a Kandy",
+      "items": [
+        "Tren panorámico Ella → Kandy",
+        "Check-in · Theva Residency",
+        "Templo del Diente de Buda"
+      ]
+    },
+    {
+      "day": 8,
+      "date": "2026-11-11",
+      "title": "Kandy cultural",
+      "items": [
+        "Jardín botánico de Peradeniya",
+        "Mercado local y artesanía",
+        "Noche en Kandy"
+      ]
+    },
+    {
+      "day": 9,
+      "date": "2026-11-12",
+      "title": "Dambulla y Sigiriya",
+      "items": [
+        "Cuevas de Dambulla (UNESCO)",
+        "Ascenso a Sigiriya (opcional)",
+        "Check-in · Amaya Lake"
+      ]
+    },
+    {
+      "day": 10,
+      "date": "2026-11-13",
+      "title": "Negombo · puente a Maldivas",
+      "items": [
+        "Traslado a Negombo",
+        "Check-in · Jetwing Beach",
+        "Tarde de playa y descanso"
+      ]
+    },
+    {
+      "day": 11,
+      "date": "2026-11-14",
+      "title": "Vuelo a Maldivas",
+      "items": [
+        "Traslado al aeropuerto de Colombo",
+        "Vuelo a Malé",
+        "Speedboat a OBLU XPERIENCE Ailafushi",
+        "Check-in Beach Villa · all inclusive"
+      ]
+    },
+    {
+      "day": 12,
+      "date": "2026-11-15",
+      "title": "Día libre en atolón",
+      "items": [
+        "Playa y snorkel en house reef",
+        "Spa o paddleboard (opcional)",
+        "Cena en el resort"
+      ]
+    },
+    {
+      "day": 13,
+      "date": "2026-11-16",
+      "title": "Regreso",
+      "items": [
+        "Speedboat a Malé",
+        "Vuelo de conexión y regreso a España",
+        "Fin de los servicios Honimunn"
+      ]
+    }
+  ],
+  "requirements": [
+    {
+      "title": "Pasaporte",
+      "detail": "Válido al menos 6 meses después de la fecha de regreso. Dos páginas libres."
+    },
+    {
+      "title": "Visado Sri Lanka",
+      "detail": "ETA online obligatoria antes del viaje. Tramitación recomendada con 1–2 semanas de antelación."
+    },
+    {
+      "title": "Visado Maldivas",
+      "detail": "Visado a la llegada (30 días) para pasaporte español, sujeto a billete de salida y reserva hotelera."
+    },
+    {
+      "title": "Vacunas",
+      "detail": "Ninguna obligatoria desde España. Recomendadas: hepatitis A, fiebre tifoidea y actualización del calendario."
+    },
+    {
+      "title": "Seguro de viaje",
+      "detail": "Incluido en la propuesta Honimunn con cobertura médica y cancelación. Detalle en el PDF."
+    }
+  ],
+  "terms": [
+    "Esta cotización es informativa y no constituye una reserva en firme hasta el pago del depósito y la confirmación escrita de Honimunn.",
+    "Los precios están expresados en euros e incluyen los servicios detallados. Tasas aéreas, visados y extras personales pueden variar.",
+    "El depósito para confirmar es del 30% del total. El resto se abona 45 días antes de la salida.",
+    "Cancelaciones: hasta 60 días antes, retención del depósito; entre 59 y 30 días, 50%; menos de 30 días, 100%.",
+    "Honimunn puede ajustar hoteles de categoría equivalente si hubiera overbooking, siempre con aviso previo.",
+    "Condiciones generales completas disponibles en honimunn.com/legal."
+  ]
+}
